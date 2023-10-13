@@ -3,9 +3,9 @@ from lingpy import Wordlist
 
 
 wl = fetch(
-        "sinocon",
-        remote_dbase="sinocon.sqlite3",
+        "fanqie",
+        remote_dbase="fanqie.sqlite3",
         base_url="https://lingulist.de/edev/",
         to_lingpy=Wordlist)
 
-wl.output('tsv', filename="fanqie", ignore="all")
+wl.output('tsv', filename="fanqie", ignore="all", prettify=False)

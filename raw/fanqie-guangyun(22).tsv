@@ -1,0 +1,3129 @@
+ID	TYPE	CONCEPT	DOCULECT	TOKENS	COGID	FORM	NOTE	ALIGNMENT
+1	0 shang	丈 (shang)	Zhou	ɖʰ ĭ	1	ɖʰap / ɖʰĭəŋ˩˥ / ɖʰæn˩˥ / ɖʰwai˥ / ɖʰĭɛŋ˥	?	ɖʰ .
+2	0 shang	丈 (shang)	Baxter	dr j	1	ɖʰap / ɖʰĭəŋ˩˥ / ɖʰæn˩˥ / ɖʰwai˥ / ɖʰĭɛŋ˥	?	dr .
+3	0 shang	丕 (shang)	Zhou	pʰ ĭ	2	pʰĭĕm˥	?	pʰ ĭ
+4	0 shang	丕 (shang)	Baxter	ph .	2	pʰĭĕm˥	?	ph .
+5	0 shang	乖 (shang)	Zhou	k w	3	kwai˥	?	k w
+6	0 shang	乖 (shang)	Baxter	k w	3	kwai˥	?	k w
+7	0 shang	仕 (shang)	Zhou	dʒʰ ĭ	4	dʒʰĭu˩ / dʒʰɐm˩˥ / dʒʰwɐi˩ / dʒʰĭĕp / dʒʰəu˥ / dʒʰĭet / dʒʰĭəŋ˩ / dʒʰam˥ / dʒʰĭuŋ˩˥	?	dʒʰ ĭ
+8	0 shang	仕 (shang)	Baxter	!? !?	4	dʒʰĭu˩ / dʒʰɐm˩˥ / dʒʰwɐi˩ / dʒʰĭĕp / dʒʰəu˥ / dʒʰĭet / dʒʰĭəŋ˩ / dʒʰam˥ / dʒʰĭuŋ˩˥	?	!? !?
+9	0 shang	休 (shang)	Zhou	x ĭw	5	xĭwɛŋ˩˥ / xĭən˥	?	x ĭw
+10	0 shang	休 (shang)	Baxter	!? !?	5	xĭwɛŋ˩˥ / xĭən˥	?	!? !?
+11	0 shang	俟 (shang)	Zhou	dʐʰ ĭ	6	dʐʰĭə˩	?	dʐʰ ĭ
+12	0 shang	俟 (shang)	Baxter	!? !?	6	dʐʰĭə˩	?	!? !?
+13	0 shang	借 (shang)	Zhou	ts u	7	tsuɑn˥˩	?	ts u
+14	0 shang	借 (shang)	Baxter	ts w	7	tsuɑn˥˩	?	ts w
+15	0 shang	具 (shang)	Zhou	gʰ ĭw	8	gʰĭwak	?	gʰ ĭw
+16	0 shang	具 (shang)	Baxter	g !?	8	gʰĭwak	?	g !?
+17	0 shang	兹 (shang)	Zhou	ts u	9	tsuən˥ / tsĭa˥	?	ts u
+18	0 shang	兹 (shang)	Baxter	ts !?	9	tsuən˥ / tsĭa˥	?	ts !?
+19	0 shang	兼 (shang)	Zhou	k i	10	kiem˥	?	k i
+20	0 shang	兼 (shang)	Baxter	k !?	10	kiem˥	?	k !?
+21	0 shang	助 (shang)	Zhou	dʒʰ .	11	dʒʰɐŋ˩	?	dʒʰ .
+22	0 shang	助 (shang)	Baxter	!? .	11	dʒʰɐŋ˩	?	!? .
+23	0 shang	勒 (shang)	Zhou	l i	12	liem˩ / luət	?	l i
+24	0 shang	勒 (shang)	Baxter	l !?	12	liem˩ / luət	?	l !?
+25	0 shang	卓 (shang)	Zhou	ţ .	13	ţɐi˥˩	?	ţ .
+26	0 shang	卓 (shang)	Baxter	tr .	13	ţɐi˥˩	?	tr .
+27	0 shang	占 (shang)	Zhou	tɕ ĭ	14	tɕĭɛm˥	?	tɕ ĭ
+28	0 shang	占 (shang)	Baxter	tsy .	14	tɕĭɛm˥	?	tsy .
+29	0 shang	厠 (shang)	Zhou	ʧʰ ĭ	15	ʧʰĭɛt	?	ʧʰ ĭ
+30	0 shang	厠 (shang)	Baxter	!? !?	15	ʧʰĭɛt	?	!? !?
+31	0 shang	又 (shang)	Zhou	ʧʰ w	16	ʧʰwa˥	?	ʧʰ w
+32	0 shang	又 (shang)	Baxter	tsrh w	16	ʧʰwa˥	?	tsrh w
+33	0 shang	反 (shang)	Zhou	ʧ ĭ	17	ʧĭen˥	?	ʧ ĭ
+34	0 shang	反 (shang)	Baxter	!? !?	17	ʧĭen˥	?	!? !?
+35	0 shang	取 (shang)	Zhou	tsʰ .	18	tsʰi˥˩	?	tsʰ .
+36	0 shang	取 (shang)	Baxter	tsh .	18	tsʰi˥˩	?	tsh .
+37	0 shang	台 (shang)	Zhou	tʰ .	19	tʰəŋ˩˥	?	tʰ .
+38	0 shang	台 (shang)	Baxter	th !?	19	tʰəŋ˩˥	?	th !?
+39	0 shang	叱 (shang)	Zhou	tɕʰ ĭ	20	tɕʰĭɛp / tɕʰĭe˥˩	?	tɕʰ ĭ
+40	0 shang	叱 (shang)	Baxter	tsy .	20	tɕʰĭɛp / tɕʰĭe˥˩	?	tsy .
+41	0 shang	史 (shang)	Zhou	ʃ ĭ	21	ʃĭɛm˥˩	?	ʃ ĭ
+42	0 shang	史 (shang)	Baxter	sy !j	21	ʃĭɛm˥˩	?	sy !j
+43	0 shang	各 (shang)	Zhou	k .	22	kɑŋ˥	?	k .
+44	0 shang	各 (shang)	Baxter	k .	22	kɑŋ˥	?	k .
+45	0 shang	墜 (shang)	Zhou	dʰ w	23	dʰwæn˩	?	dʰ w
+46	0 shang	墜 (shang)	Baxter	d w	23	dʰwæn˩	?	d w
+47	0 shang	夕 (shang)	Zhou	z ĭ	24	zĭɛn˩	?	z ĭ
+48	0 shang	夕 (shang)	Baxter	!z !?	24	zĭɛn˩	?	!z !?
+49	0 shang	天 (shang)	Zhou	tʰ əu	25	tʰəu˥	?	tʰ əu
+50	0 shang	天 (shang)	Baxter	th .	25	tʰəu˥	?	th .
+51	0 shang	妳 (shang)	Zhou	ɳ .	26	ɳai˩	?	ɳ .
+52	0 shang	妳 (shang)	Baxter	nr .	26	ɳai˩	?	nr .
+53	0 shang	姊 (shang)	Zhou	ts ĭw	27	tsĭwɛt / tsuɑt / tsĭe˥˩	?	ts ĭw
+54	0 shang	姊 (shang)	Baxter	ts j	27	tsĭwɛt / tsuɑt / tsĭe˥˩	?	ts j
+55	0 shang	姑 (shang)	Zhou	k iw	28	kiwen˥	?	k iw
+56	0 shang	姑 (shang)	Baxter	k !?	28	kiwen˥	?	k !?
+57	0 shang	委 (shang)	Zhou	w .	29	wæn˩	?	w .
+58	0 shang	委 (shang)	Baxter	w !?	29	wæn˩	?	w !?
+59	0 shang	安 (shang)	Zhou	ʔ .	30	ʔu˥ / ʔɑp / ʔɑ˩˥	?	ʔ .
+60	0 shang	安 (shang)	Baxter	' .	30	ʔu˥ / ʔɑp / ʔɑ˩˥	?	' .
+61	0 shang	實 (shang)	Zhou	dʑʰ ĭ	31	dʑʰĭəŋ˩˥	?	dʑʰ ĭ
+62	0 shang	實 (shang)	Baxter	dzy .	31	dʑʰĭəŋ˩˥	?	dzy .
+63	0 shang	寫 (shang)	Zhou	s ĭ	32	sĭa˥˩	?	s ĭ
+64	0 shang	寫 (shang)	Baxter	s j	32	sĭa˥˩	?	s j
+65	0 shang	寺 (shang)	Zhou	z ĭw	33	zĭwɛt	?	z ĭw
+66	0 shang	寺 (shang)	Baxter	z jw	33	zĭwɛt	?	z jw
+67	0 shang	封 (shang)	Zhou	p ĭw	34	pĭwok	?	p ĭw
+68	0 shang	封 (shang)	Baxter	p j	34	pĭwok	?	p j
+69	0 shang	峯 (shang)	Zhou	pʰ ĭw	35	pʰĭwɐm˥	?	pʰ ĭw
+70	0 shang	峯 (shang)	Baxter	ph j	35	pʰĭwɐm˥	?	ph j
+71	0 shang	崇 (shang)	Zhou	dʒʰ i	36	dʒʰien˩	?	dʒʰ i
+72	0 shang	崇 (shang)	Baxter	dzy .	36	dʒʰien˩	?	dzy .
+73	0 shang	巴 (shang)	Zhou	p .	37	pɔŋ˥	?	p .
+74	0 shang	巴 (shang)	Baxter	p .	37	pɔŋ˥	?	p .
+75	0 shang	干 (shang)	Zhou	tsʰ .	38	tsʰuŋ˩˥	?	tsʰ .
+76	0 shang	干 (shang)	Baxter	tsh .	38	tsʰuŋ˩˥	?	tsh .
+77	0 shang	并 (shang)	Zhou	p ĭ	39	pĭe˥ / pĭɛt	?	p ĭ
+78	0 shang	并 (shang)	Baxter	p j	39	pĭe˥ / pĭɛt	?	p j
+79	0 shang	弼 (shang)	Zhou	bʰ ĭ	40	bʰĭɐk	?	bʰ ĭ
+80	0 shang	弼 (shang)	Baxter	b j	40	bʰĭɐk	?	b j
+81	0 shang	徵 (shang)	Zhou	ţ ĭu	41	ţĭuĕt	?	ţ ĭu
+82	0 shang	徵 (shang)	Baxter	tr w	41	ţĭuĕt	?	tr w
+83	0 shang	恪 (shang)	Zhou	kʰ .	42	kʰæt / kʰəu˥˩	?	kʰ .
+84	0 shang	恪 (shang)	Baxter	kh .	42	kʰæt / kʰəu˥˩	?	kh .
+85	0 shang	恱 (shang)	Zhou	j ĭw	43	jĭwe˩	?	j ĭw
+86	0 shang	恱 (shang)	Baxter	j w	43	jĭwe˩	?	j w
+87	0 shang	愛 (shang)	Zhou	ʔ .	44	ʔək	?	ʔ .
+88	0 shang	愛 (shang)	Baxter	' .	44	ʔək	?	' .
+89	0 shang	憂 (shang)	Zhou	ʔ ĭw	45	ʔĭwak	?	ʔ ĭw
+90	0 shang	憂 (shang)	Baxter	' jw	45	ʔĭwak	?	' jw
+91	0 shang	懷 (shang)	Zhou	ɣ w	46	ɣwai˥	?	ɣ w
+92	0 shang	懷 (shang)	Baxter	h w	46	ɣwai˥	?	h w
+93	0 shang	成 (shang)	Zhou	ʑ i	47	ʑiei˩	?	ʑ i
+94	0 shang	成 (shang)	Baxter	zy .	47	ʑiei˩	?	zy .
+95	0 shang	拂 (shang)	Zhou	pʰ ĭw	48	pʰĭwɐt	?	pʰ ĭw
+96	0 shang	拂 (shang)	Baxter	ph j	48	pʰĭwɐt	?	ph j
+97	0 shang	拏 (shang)	Zhou	ɳ .	49	ɳɐŋ˥	?	ɳ .
+98	0 shang	拏 (shang)	Baxter	ny .	49	ɳɐŋ˥	?	ny .
+99	0 shang	捕 (shang)	Zhou	bʰ u	50	bʰuɑ˥	?	bʰ u
+100	0 shang	捕 (shang)	Baxter	b .	50	bʰuɑ˥	?	b .
+101	0 shang	握 (shang)	Zhou	ʔ .	51	ʔɔŋ˥˩	?	ʔ .
+102	0 shang	握 (shang)	Baxter	' .	51	ʔɔŋ˥˩	?	' .
+103	0 shang	擬 (shang)	Zhou	ŋ .	52	ŋɐi˩	?	ŋ .
+104	0 shang	擬 (shang)	Baxter	ng .	52	ŋɐi˩	?	ng .
+105	0 shang	晡 (shang)	Zhou	p .	53	pæn˩˥	?	p .
+106	0 shang	晡 (shang)	Baxter	p .	53	pæn˩˥	?	p .
+107	0 shang	曁 (shang)	Zhou	gʰ w	54	gʰwi˥ / gʰi˥	?	gʰ w
+108	0 shang	曁 (shang)	Baxter	g w	54	gʰwi˥ / gʰi˥	?	g w
+109	0 shang	曲 (shang)	Zhou	kʰ ĭw	55	kʰĭwoŋ˥˩	?	kʰ ĭw
+110	0 shang	曲 (shang)	Baxter	kh jw	55	kʰĭwoŋ˥˩	?	kh jw
+111	0 shang	查 (shang)	Zhou	dʒʰ .	56	dʒʰat / dʒʰwæk	?	dʒʰ .
+112	0 shang	查 (shang)	Baxter	dzy .	56	dʒʰat / dʒʰwæk	?	dzy .
+113	0 shang	楮 (shang)	Zhou	ţʰ .	57	ţʰi˥	?	ţʰ .
+114	0 shang	楮 (shang)	Baxter	trh .	57	ţʰi˥	?	trh .
+115	0 shang	楷 (shang)	Zhou	kʰ .	58	kʰæk	?	kʰ .
+116	0 shang	楷 (shang)	Baxter	kh .	58	kʰæk	?	kh .
+117	0 shang	模 (shang)	Zhou	m .	59	mɑŋ˥ / muən˥	?	m .
+118	0 shang	模 (shang)	Baxter	m .	59	mɑŋ˥ / muən˥	?	m .
+119	0 shang	比 (shang)	Zhou	p .	60	pæŋ˩˥	?	p .
+120	0 shang	比 (shang)	Baxter	p .	60	pæŋ˩˥	?	p .
+121	0 shang	沙 (shang)	Zhou	ʃ w	61	ʃwa˥	?	ʃ w
+122	0 shang	沙 (shang)	Baxter	!? w	61	ʃwa˥	?	!? w
+123	0 shang	浮 (shang)	Zhou	bʰ ĭw	62	bʰĭwəi˥	?	bʰ ĭw
+124	0 shang	浮 (shang)	Baxter	b j	62	bʰĭwəi˥	?	b j
+125	0 shang	漸 (shang)	Zhou	dzʰ i	63	dzʰiem˩˥	?	dzʰ i
+126	0 shang	漸 (shang)	Baxter	dz j	63	dzʰiem˩˥	?	dz j
+127	0 shang	烟 (shang)	Zhou	ʔ i	64	ʔieŋ˥	?	ʔ i
+128	0 shang	烟 (shang)	Baxter	' j	64	ʔieŋ˥	?	' j
+129	0 shang	父 (shang)	Zhou	bʰ .	65	bʰəŋ˩˥	?	bʰ .
+130	0 shang	父 (shang)	Baxter	b .	65	bʰəŋ˩˥	?	b .
+131	0 shang	牽 (shang)	Zhou	kʰ i	66	kʰien˥	?	kʰ i
+132	0 shang	牽 (shang)	Baxter	kh j	66	kʰien˥	?	kh j
+133	0 shang	犲 (shang)	Zhou	dʒʰ .	67	dʒʰæi˩˥	?	dʒʰ .
+134	0 shang	犲 (shang)	Baxter	!? .	67	dʒʰæi˩˥	?	!? .
+135	0 shang	獲 (shang)	Zhou	ɣ w	68	ɣwæn˩	?	ɣ w
+136	0 shang	獲 (shang)	Baxter	h w	68	ɣwæn˩	?	h w
+137	0 shang	玉 (shang)	Zhou	ŋ .	69	ŋɐm˩˥	?	ŋ .
+138	0 shang	玉 (shang)	Baxter	ng .	69	ŋɐm˩˥	?	ng .
+139	0 shang	生 (shang)	Zhou	ʃ w	70	ʃwan˩˥	?	ʃ w
+140	0 shang	生 (shang)	Baxter	!? w	70	ʃwan˩˥	?	!? w
+141	0 shang	癡 (shang)	Zhou	ţʰ ĭu	71	ţʰĭuĕn˥	?	ţʰ ĭu
+142	0 shang	癡 (shang)	Baxter	trh jw	71	ţʰĭuĕn˥	?	trh jw
+143	0 shang	白 (shang)	Zhou	bʰ .	72	bʰa˩˥ / bʰam˩	?	bʰ .
+144	0 shang	白 (shang)	Baxter	b .	72	bʰa˩˥ / bʰam˩	?	b .
+145	0 shang	百 (shang)	Zhou	p .	73	pat	?	p .
+146	0 shang	百 (shang)	Baxter	p .	73	pat	?	p .
+147	0 shang	研 (shang)	Zhou	ŋ i	74	ŋiei˥ / ŋien˥	?	ŋ i
+148	0 shang	研 (shang)	Baxter	ng j	74	ŋiei˥ / ŋien˥	?	ng j
+149	0 shang	穠 (shang)	Zhou	ɳ ĭw	75	ɳĭwoŋ˩˥	?	ɳ ĭw
+150	0 shang	穠 (shang)	Baxter	ny w	75	ɳĭwoŋ˩˥	?	ny w
+151	0 shang	筠 (shang)	Zhou	. ĭ	76	ĭɛp	?	. ĭ
+152	0 shang	筠 (shang)	Baxter	. j	76	ĭɛp	?	. j
+153	0 shang	簪 (shang)	Zhou	ʧ w	77	ʧwæk	?	ʧ w
+154	0 shang	簪 (shang)	Baxter	!? w	77	ʧwæk	?	!? w
+155	0 shang	縷 (shang)	Zhou	l ĭu	78	lĭuɑ˩	?	l ĭu
+156	0 shang	縷 (shang)	Baxter	l jw	78	lĭuɑ˩	?	l jw
+157	0 shang	興 (shang)	Zhou	x ĭ	79	xĭĕn˥ / xĭe˥	?	x ĭ
+158	0 shang	興 (shang)	Baxter	x j	79	xĭĕn˥ / xĭe˥	?	x j
+159	0 shang	花 (shang)	Zhou	x w	80	xwai˥	?	x w
+160	0 shang	花 (shang)	Baxter	x w	80	xwai˥	?	x w
+161	0 shang	芻 (shang)	Zhou	ʧʰ ĭ	81	ʧʰĭu˩˥	?	ʧʰ ĭ
+162	0 shang	芻 (shang)	Baxter	!? j	81	ʧʰĭu˩˥	?	!? j
+163	0 shang	苻 (shang)	Zhou	bʰ ĭ	82	bʰĭɛu˥	?	bʰ ĭ
+164	0 shang	苻 (shang)	Baxter	b j	82	bʰĭɛu˥	?	b j
+165	0 shang	虞 (shang)	Zhou	ŋ ĭw	83	ŋĭwɐn˥ / ŋĭu˥	?	ŋ ĭw
+166	0 shang	虞 (shang)	Baxter	ng jw	83	ŋĭwɐn˥ / ŋĭu˥	?	ng jw
+167	0 shang	蜀 (shang)	Zhou	ʑ ĭw	84	ʑĭwoŋ˩	?	ʑ ĭw
+168	0 shang	蜀 (shang)	Baxter	zy w	84	ʑĭwoŋ˩	?	zy w
+169	0 shang	豬 (shang)	Zhou	ţ .	85	ţi˥	?	ţ .
+170	0 shang	豬 (shang)	Baxter	tr .	85	ţi˥	?	tr .
+171	0 shang	賴 (shang)	Zhou	l .	86	lɐi˩	?	l .
+172	0 shang	賴 (shang)	Baxter	l .	86	lɐi˩	?	l .
+173	0 shang	起 (shang)	Zhou	kʰ ĭ	87	kʰĭɛu˥˩ / kʰĭwɐp / kʰæn˥	?	kʰ ĭ
+174	0 shang	起 (shang)	Baxter	kh j	87	kʰĭɛu˥˩ / kʰĭwɐp / kʰæn˥	?	kh j
+175	0 shang	跪 (shang)	Zhou	gʰ w	88	gʰwæn˩	?	gʰ w
+176	0 shang	跪 (shang)	Baxter	g w	88	gʰwæn˩	?	g w
+177	0 shang	速 (shang)	Zhou	s .	89	səu˥˩	?	s .
+178	0 shang	速 (shang)	Baxter	s .	89	səu˥˩	?	s .
+179	0 shang	遵 (shang)	Zhou	ts ĭw	90	tsĭwe˥˩ / tswi˥	?	ts ĭw
+180	0 shang	遵 (shang)	Baxter	ts w	90	tsĭwe˥˩ / tswi˥	?	ts w
+181	0 shang	邊 (shang)	Zhou	p i	91	piei˥˩ / puŋ˥	?	p i
+182	0 shang	邊 (shang)	Baxter	p j	91	piei˥˩ / puŋ˥	?	p j
+183	0 shang	鄒 (shang)	Zhou	ʧ w	92	ʧwæt	?	ʧ w
+184	0 shang	鄒 (shang)	Baxter	!? w	92	ʧwæt	?	!? w
+185	0 shang	醉 (shang)	Zhou	ts w	93	tswi˥˩	?	ts w
+186	0 shang	醉 (shang)	Baxter	ts w	93	tswi˥˩	?	ts w
+187	0 shang	醋 (shang)	Zhou	tsʰ ĭu	94	tsʰĭuɑ˥˩	?	tsʰ ĭu
+188	0 shang	醋 (shang)	Baxter	tsh jw	94	tsʰĭuɑ˥˩	?	tsh jw
+189	0 shang	隨 (shang)	Zhou	z ĭw	95	zĭwe˥	?	z ĭw
+190	0 shang	隨 (shang)	Baxter	z jw	95	zĭwe˥	?	z jw
+191	0 shang	雛 (shang)	Zhou	d ʒʰ	96	dʒʰwan˥	?	d ʒʰ
+192	0 shang	雛 (shang)	Baxter	!? w	96	dʒʰwan˥	?	!? w
+193	0 shang	雲 (shang)	Zhou	ĭ w	97	ĭwɐn˥	?	ĭ w
+194	0 shang	雲 (shang)	Baxter	j w	97	ĭwɐn˥	?	j w
+195	0 shang	青 (shang)	Zhou	tsʰ i	98	tsʰiem˥	?	tsʰ i
+196	0 shang	青 (shang)	Baxter	tsh j	98	tsʰiem˥	?	tsh j
+197	0 shang	韋 (shang)	Zhou	ĭ w	99	ĭwe˥	?	ĭ w
+198	0 shang	韋 (shang)	Baxter	j w	99	ĭwe˥	?	j w
+199	0 shang	馳 (shang)	Zhou	ɖʰ ĭ w e ˩˥	100	ɖʰĭwe˩˥	?	ɖʰ ĭ w e ˩˥
+200	0 shang	馳 (shang)	Baxter	?weH	100	ɖʰĭwe˩˥	?	?weH
+201	0 shang	驅 (shang)	Zhou	kʰ ĭ u k	101	kʰĭuk / kʰĭu˥	?	kʰ ĭ u k
+202	0 shang	驅 (shang)	Baxter	?????	101	kʰĭuk / kʰĭu˥	?	?????
+203	0 shang	鶵 (shang)	Zhou	dʒʰ ĭ u ˥	102	dʒʰĭu˥	?	dʒʰ ĭ u ˥
+204	0 shang	鶵 (shang)	Baxter	?????	102	dʒʰĭu˥	?	?????
+205	0 shang	鷖 (shang)	Zhou	ʔ æ ŋ ˩˥	103	ʔæŋ˩˥	?	ʔ æ ŋ ˩˥
+206	0 shang	鷖 (shang)	Baxter	?????	103	ʔæŋ˩˥	?	?????
+207	0 shang	𩛠 (shang)	Zhou	ts ĭu	104	tsĭuɑ˥	?	ts ĭu
+208	0 shang	𩛠 (shang)	Baxter	ts jw	104	tsĭuɑ˥	?	ts jw
+209	0 xia	㕦 (xia)	Zhou	w a . ˩˥	105	ʔwa˩˥	?	w a . ˩˥
+210	0 xia	㕦 (xia)	Baxter	w a . H	105	ʔwa˩˥	?	w a . H
+211	0 xia	㾕 (xia)	Zhou	ĭ ĕ m ˥	106	dʒʰĭĕm˥	?	ĭ ĕ m ˥
+212	0 xia	㾕 (xia)	Baxter	. i m X	106	dʒʰĭĕm˥	?	. i m X
+213	0 xia	一 (xia)	Zhou	ĭ ĕ t .	107	ɖʰĭĕt	?	ĭ ĕ t .
+214	0 xia	一 (xia)	Baxter	j !? t .	107	ɖʰĭĕt	?	j !? t .
+215	0 xia	仙 (xia)	Zhou	ĭ ɛ n ˥˩	108	tsĭɛn˥˩ / dzʰĭɛn˩	?	ĭ ɛ n ˥˩
+216	0 xia	仙 (xia)	Baxter	j e n .	108	tsĭɛn˥˩ / dzʰĭɛn˩	?	j !? n .
+217	0 xia	令 (xia)	Zhou	ĭ ɛ ŋ ˩˥	109	xĭɛŋ˩˥	?	ĭ ɛ ŋ ˩˥
+218	0 xia	令 (xia)	Baxter	j e ng H	109	xĭɛŋ˩˥	?	j e ng H
+219	0 xia	伴 (xia)	Zhou	u ɑ n ˥	110	pʰuɑn˥	?	u ɑ n ˥
+220	0 xia	伴 (xia)	Baxter	w a n .	110	pʰuɑn˥	?	w a n .
+221	0 xia	伽 (xia)	Zhou	ĭ ɑ . ˥˩	111	kʰĭɑ˥˩ / tsʰĭuɑ˥˩ / kĭɑ˥˩	?	ĭ ɑ . ˥˩
+222	0 xia	伽 (xia)	Baxter	j a . .	111	kʰĭɑ˥˩ / tsʰĭuɑ˥˩ / kĭɑ˥˩	?	j a . .
+223	0 xia	侈 (xia)	Zhou	ĭ e . ˥	112	ţĭe˥	?	ĭ e . ˥
+224	0 xia	侈 (xia)	Baxter	j e . .	112	ţĭe˥	?	j e . .
+225	0 xia	允 (xia)	Zhou	ĭu ĕ n ˥	113	ɕĭuĕn˥ / nʑĭuĕn˥	?	ĭu ĕ n ˥
+226	0 xia	允 (xia)	Baxter	w i n X	113	ɕĭuĕn˥ / nʑĭuĕn˥	?	w i n X
+227	0 xia	兢 (xia)	Zhou	ĭ ə ŋ ˥˩	114	kʰĭəŋ˥˩ / dʒʰĭəŋ˩	?	ĭ ə ŋ ˥˩
+228	0 xia	兢 (xia)	Baxter	j !? ng .	114	kʰĭəŋ˥˩ / dʒʰĭəŋ˩	?	j !? ng .
+229	0 xia	全 (xia)	Zhou	ĭw ɐ m ˥˩	115	pʰĭwɐm˥˩ / ţĭwɛn˥˩	?	ĭw ɐ m ˥˩
+230	0 xia	全 (xia)	Baxter	jw !? m .	115	pʰĭwɐm˥˩ / ţĭwɛn˥˩	?	jw !? m .
+231	0 xia	冢 (xia)	Zhou	ĭw o ŋ ˥	116	tsĭwoŋ˥	?	ĭw o ŋ ˥
+232	0 xia	冢 (xia)	Baxter	jw !? ng .	116	tsĭwoŋ˥	?	jw !? ng .
+233	0 xia	冷 (xia)	Zhou	. ɐ ŋ ˥	117	tɐŋ˥	?	. ɐ ŋ ˥
+234	0 xia	冷 (xia)	Baxter	. !? ng .	117	tɐŋ˥	?	. !? ng .
+235	0 xia	凜 (xia)	Zhou	ĭ ĕ m ˥	118	ɳĭĕm˥	?	ĭ ĕ m ˥
+236	0 xia	凜 (xia)	Baxter	. i m X	118	ɳĭĕm˥	?	. i m X
+237	0 xia	凡 (xia)	Zhou	ĭw ɐ m ˥˩	119	pʰĭwɐm˥˩	?	ĭw ɐ m ˥˩
+238	0 xia	凡 (xia)	Baxter	jw !? m .	119	pʰĭwɐm˥˩	?	jw !? m .
+239	0 xia	剄 (xia)	Zhou	i e ŋ ˥	120	ŋieŋ˥	?	i e ŋ ˥
+240	0 xia	剄 (xia)	Baxter	j !? ng .	120	ŋieŋ˥	?	j !? ng .
+241	0 xia	劫 (xia)	Zhou	ĭ ɐ p .	121	kʰĭɐp	?	ĭ ɐ p .
+242	0 xia	劫 (xia)	Baxter	j !? p .	121	kʰĭɐp	?	j !? p .
+243	0 xia	勇 (xia)	Zhou	ĭw o ŋ ˥	122	pĭwoŋ˥ / tɕĭwoŋ˥	?	ĭw o ŋ ˥
+244	0 xia	勇 (xia)	Baxter	jw !? ng .	122	pĭwoŋ˥ / tɕĭwoŋ˥	?	jw !? ng .
+245	0 xia	勒 (xia)	Zhou	. ə k .	123	nək	?	. ə k .
+246	0 xia	勒 (xia)	Baxter	. !? k .	123	nək	?	. !? k .
+247	0 xia	動 (xia)	Zhou	. u ŋ ˥	124	tuŋ˥ / nuŋ˥	?	. u ŋ ˥
+248	0 xia	動 (xia)	Baxter	. !? ng .	124	tuŋ˥ / nuŋ˥	?	. !? ng .
+249	0 xia	匊 (xia)	Zhou	ĭ u k .	125	kʰĭuk	?	ĭ u k .
+250	0 xia	匊 (xia)	Baxter	j !? k .	125	kʰĭuk	?	j !? k .
+251	0 xia	升 (xia)	Zhou	ĭ ə ŋ ˥˩	126	ţʰĭəŋ˥˩	?	ĭ ə ŋ ˥˩
+252	0 xia	升 (xia)	Baxter	j !? ng .	126	ţʰĭəŋ˥˩	?	j !? ng .
+253	0 xia	南 (xia)	Zhou	. ɒ m ˥˩	127	kɒm˥˩	?	. ɒ m ˥˩
+254	0 xia	南 (xia)	Baxter	. !? m .	127	kɒm˥˩	?	. !? m .
+255	0 xia	厄 (xia)	Zhou	. æ k .	128	pæk	?	. æ k .
+256	0 xia	厄 (xia)	Baxter	. !? k .	128	pæk	?	. !? k .
+257	0 xia	叱 (xia)	Zhou	ĭ e t .	129	dʒʰĭet	?	ĭ e t .
+258	0 xia	叱 (xia)	Baxter	j !? t .	129	dʒʰĭet	?	j !? t .
+259	0 xia	吠 (xia)	Zhou	ĭw ɐi . ˩˥	130	xĭwɐi˩˥ / kʰĭwɐi˩˥	?	ĭw ɐi . ˩˥
+260	0 xia	吠 (xia)	Baxter	jw !? . H	130	xĭwɐi˩˥ / kʰĭwɐi˩˥	?	jw !? . H
+261	0 xia	否 (xia)	Zhou	ĭ əu . ˥	131	pʰĭəu˥	?	ĭ əu . ˥
+262	0 xia	否 (xia)	Baxter	j !? . .	131	pʰĭəu˥	?	j !? . .
+263	0 xia	吹 (xia)	Zhou	ĭw e . ˩	132	jĭwe˩	?	ĭw e . ˩
+264	0 xia	吹 (xia)	Baxter	!? !? . .	132	jĭwe˩	?	!? !? . .
+265	0 xia	吾 (xia)	Zhou	. u . ˥˩	133	tsu˥˩	?	. u . ˥˩
+266	0 xia	吾 (xia)	Baxter	. u . .	133	tsu˥˩	?	. u . .
+267	0 xia	和 (xia)	Zhou	u ɑ . ˩	134	dʰuɑ˩	?	u ɑ . ˩
+268	0 xia	和 (xia)	Baxter	w !? . .	134	dʰuɑ˩	?	w !? . .
+269	0 xia	唵 (xia)	Zhou	. ɒ m ˥	135	xɒm˥	?	. ɒ m ˥
+270	0 xia	唵 (xia)	Baxter	. !? m .	135	xɒm˥	?	. !? m .
+271	0 xia	嘲 (xia)	Zhou	. au . ˩	136	lau˩	?	. au . ˩
+272	0 xia	嘲 (xia)	Baxter	. au . .	136	lau˩	?	. au . .
+273	0 xia	器 (xia)	Zhou	. i . ˩˥	137	xi˩˥ / ŋi˩˥	?	. i . ˩˥
+274	0 xia	器 (xia)	Baxter	. i . H	137	xi˩˥ / ŋi˩˥	?	. i . H
+275	0 xia	在 (xia)	Zhou	. ɒi . ˥	138	jɒi˥	?	. ɒi . ˥
+276	0 xia	在 (xia)	Baxter	. oj . .	138	jɒi˥	?	. oj . .
+277	0 xia	圭 (xia)	Zhou	iw ei . ˩	139	ɣiwei˩ / kʰiwei˥˩	?	iw ei . ˩
+278	0 xia	圭 (xia)	Baxter	jw !? . .	139	ɣiwei˩ / kʰiwei˥˩	?	jw !? . .
+279	0 xia	垢 (xia)	Zhou	. əu . ˥	140	pəu˥ / dʒʰəu˥	?	. əu . ˥
+280	0 xia	垢 (xia)	Baxter	. !? . .	140	pəu˥ / dʒʰəu˥	?	. !? . .
+281	0 xia	增 (xia)	Zhou	. ə ŋ ˥˩	141	səŋ˥˩	?	. ə ŋ ˥˩
+282	0 xia	增 (xia)	Baxter	. !? ng .	141	səŋ˥˩	?	. !? ng .
+283	0 xia	墾 (xia)	Zhou	. ə n ˥	142	ɣən˥	?	. ə n ˥
+284	0 xia	墾 (xia)	Baxter	. !? n .	142	ɣən˥	?	. !? n .
+285	0 xia	壘 (xia)	Zhou	w i . ˥	143	nʑwi˥	?	w i . ˥
+286	0 xia	壘 (xia)	Baxter	w !? . .	143	nʑwi˥	?	w !? . .
+287	0 xia	夥 (xia)	Zhou	w ai . ˥	144	xwai˥ / ɖʰwai˥	?	w ai . ˥
+288	0 xia	夥 (xia)	Baxter	w !? . .	144	xwai˥ / ɖʰwai˥	?	w !? . .
+289	0 xia	奉 (xia)	Zhou	ĭw o ŋ ˥	145	pʰĭwoŋ˥	?	ĭw o ŋ ˥
+290	0 xia	奉 (xia)	Baxter	j !? ng .	145	pʰĭwoŋ˥	?	j !? ng .
+291	0 xia	姦 (xia)	Zhou	. a n ˥˩	146	ʃan˥˩ / ŋan˩ / kʰan˥˩	?	. a n ˥˩
+292	0 xia	姦 (xia)	Baxter	. a n .	146	ʃan˥˩ / ŋan˩ / kʰan˥˩	?	. a n .
+293	0 xia	婁 (xia)	Zhou	. əu . ˩	147	ŋəu˩	?	. əu . ˩
+294	0 xia	婁 (xia)	Baxter	. !? . .	147	ŋəu˩	?	. !? . .
+295	0 xia	宂 (xia)	Zhou	ĭw o ŋ ˥	148	ʑĭwoŋ˥	?	ĭw o ŋ ˥
+296	0 xia	宂 (xia)	Baxter	jw !? ng .	148	ʑĭwoŋ˥	?	jw !? ng .
+297	0 xia	宏 (xia)	Zhou	w æ ŋ ˥˩	149	xwæŋ˥˩ / ʔwæŋ˥˩	?	w æ ŋ ˥˩
+298	0 xia	宏 (xia)	Baxter	w !? ng .	149	xwæŋ˥˩ / ʔwæŋ˥˩	?	w !? ng .
+299	0 xia	宫 (xia)	Zhou	ĭ u ŋ ˥˩	150	kʰĭuŋ˥˩	?	ĭ u ŋ ˥˩
+300	0 xia	宫 (xia)	Baxter	j !? ng .	150	kʰĭuŋ˥˩	?	j !? ng .
+301	0 xia	宿 (xia)	Zhou	ĭ u k .	151	tsʰĭuk	?	ĭ u k .
+302	0 xia	宿 (xia)	Baxter	j !? k .	151	tsʰĭuk	?	j !? k .
+303	0 xia	山 (xia)	Zhou	. æ n ˩	152	dʒʰæn˩ / ţæn˥˩ / tɕʰæn˥˩	?	. æ n ˩
+304	0 xia	山 (xia)	Baxter	. !? n .	152	dʒʰæn˩ / ţæn˥˩ / tɕʰæn˥˩	?	. !? n .
+305	0 xia	峴 (xia)	Zhou	i e n ˥	153	ŋien˥	?	i e n ˥
+306	0 xia	峴 (xia)	Baxter	j !? n .	153	ŋien˥	?	j !? n .
+307	0 xia	峻 (xia)	Zhou	ĭu ĕ n ˩˥	154	tsĭuĕn˩˥ / kĭuĕn˩˥	?	ĭu ĕ n ˩˥
+308	0 xia	峻 (xia)	Baxter	jw !? n .	154	tsĭuĕn˩˥ / kĭuĕn˩˥	?	jw !? n .
+309	0 xia	巴 (xia)	Zhou	. a . ˥˩	155	pʰa˥˩ / bʰa˩	?	. a . ˥˩
+310	0 xia	巴 (xia)	Baxter	. a . .	155	pʰa˥˩ / bʰa˩	?	. a . .
+311	0 xia	帶 (xia)	Zhou	. ɑi . ˩˥	156	nɑi˩˥	?	. ɑi . ˩˥
+312	0 xia	帶 (xia)	Baxter	. !? . H	156	nɑi˩˥	?	. !? . H
+313	0 xia	幺 (xia)	Zhou	i eu . ˥˩	157	xieu˥˩ / kʰieu˥˩	?	i eu . ˥˩
+314	0 xia	幺 (xia)	Baxter	j !? . .	157	xieu˥˩ / kʰieu˥˩	?	j !? . .
+315	0 xia	幽 (xia)	Zhou	i əu . ˩	158	gʰiəu˩ / xiəu˥˩ / liəu˩ / tsiəu˥˩ / ʃiəu˥˩	?	i əu . ˩
+316	0 xia	幽 (xia)	Baxter	j !? . .	158	gʰiəu˩ / xiəu˥˩ / liəu˩ / tsiəu˥˩ / ʃiəu˥˩	?	j !? . .
+317	0 xia	广 (xia)	Zhou	ĭ ɐ m ˥	159	kʰĭɐm˥ / ʔĭɐm˥	?	ĭ ɐ m ˥
+318	0 xia	广 (xia)	Baxter	j !? m .	159	kʰĭɐm˥ / ʔĭɐm˥	?	j !? m .
+319	0 xia	庱 (xia)	Zhou	ĭ ə ŋ ˥	160	ʃĭəŋ˥	?	ĭ ə ŋ ˥
+320	0 xia	庱 (xia)	Baxter	j !? ng .	160	ʃĭəŋ˥	?	j !? ng .
+321	0 xia	庸 (xia)	Zhou	ĭw o ŋ ˩	161	ʑĭwoŋ˩	?	ĭw o ŋ ˩
+322	0 xia	庸 (xia)	Baxter	jw !? ng .	161	ʑĭwoŋ˩	?	jw !? ng .
+323	0 xia	引 (xia)	Zhou	ĭ ĕ n ˥	162	ŋĭĕn˥ / ɖʰĭĕn˥	?	ĭ ĕ n ˥
+324	0 xia	引 (xia)	Baxter	. i n X	162	ŋĭĕn˥ / ɖʰĭĕn˥	?	. i n X
+325	0 xia	弟 (xia)	Zhou	i ei . ˥	163	ʔiei˥	?	i ei . ˥
+326	0 xia	弟 (xia)	Baxter	j !? . .	163	ʔiei˥	?	j !? . .
+327	0 xia	彪 (xia)	Zhou	i əu . ˩	164	bʰiəu˩ / miəu˩	?	i əu . ˩
+328	0 xia	彪 (xia)	Baxter	j !? . .	164	bʰiəu˩ / miəu˩	?	j !? . .
+329	0 xia	很 (xia)	Zhou	. ə n ˥	165	kʰən˥ / kən˥	?	. ə n ˥
+330	0 xia	很 (xia)	Baxter	. !? n .	165	kʰən˥ / kən˥	?	. !? n .
+331	0 xia	心 (xia)	Zhou	ĭ ĕ m ˥˩	166	tsĭĕm˥˩ / ɳĭĕm˩	?	ĭ ĕ m ˥˩
+332	0 xia	心 (xia)	Baxter	. i m .	166	tsĭĕm˥˩ / ɳĭĕm˩	?	j !? m .
+333	0 xia	恨 (xia)	Zhou	. ə n ˩˥	167	kən˩˥ / ŋən˩˥ / ʔən˩˥	?	. ə n ˩˥
+334	0 xia	恨 (xia)	Baxter	. !? n H	167	kən˩˥ / ŋən˩˥ / ʔən˩˥	?	. !? n H
+335	0 xia	恩 (xia)	Zhou	. ə n ˩	168	ɣən˩	?	. ə n ˩
+336	0 xia	恩 (xia)	Baxter	. !? n .	168	ɣən˩	?	. !? n .
+337	0 xia	悦 (xia)	Zhou	ĭw ɛ t .	169	tsĭwɛt	?	ĭw ɛ t .
+338	0 xia	悦 (xia)	Baxter	j e t .	169	tsĭwɛt	?	j e t .
+339	0 xia	情 (xia)	Zhou	ĭ ɛ ŋ ˥˩	170	tsʰĭɛŋ˥˩	?	ĭ ɛ ŋ ˥˩
+340	0 xia	情 (xia)	Baxter	j e ng .	170	tsʰĭɛŋ˥˩	?	j !? ng .
+341	0 xia	惠 (xia)	Zhou	iw ei . ˩˥	171	kiwei˩˥ / xiwei˩˥	?	iw ei . ˩˥
+342	0 xia	惠 (xia)	Baxter	jw !? . H	171	kiwei˩˥ / xiwei˩˥	?	jw !? . H
+343	0 xia	愜 (xia)	Zhou	i e p .	172	tiep	?	i e p .
+344	0 xia	愜 (xia)	Baxter	j !? p .	172	tiep	?	j !? p .
+345	0 xia	愷 (xia)	Zhou	. ɒi . ˥	173	pʰɒi˥	?	. ɒi . ˥
+346	0 xia	愷 (xia)	Baxter	. !? . .	173	pʰɒi˥	?	. !? . .
+347	0 xia	慃 (xia)	Zhou	. ɔ ŋ ˥	174	xɔŋ˥	?	. ɔ ŋ ˥
+348	0 xia	慃 (xia)	Baxter	. !? ng .	174	xɔŋ˥	?	. !? ng .
+349	0 xia	憩 (xia)	Zhou	ĭ ɛi . ˩˥	175	gʰĭɛi˩˥	?	ĭ ɛi . ˩˥
+350	0 xia	憩 (xia)	Baxter	j !? . H	175	gʰĭɛi˩˥	?	j !? . H
+351	0 xia	戢 (xia)	Zhou	ĭ ĕ p .	176	ʧʰĭĕp / dʒʰĭĕp	?	ĭ ĕ p .
+352	0 xia	戢 (xia)	Baxter	j !? p .	176	ʧʰĭĕp / dʒʰĭĕp	?	j !? p .
+353	0 xia	戹 (xia)	Zhou	. æ k .	177	ɳæk	?	. æ k .
+354	0 xia	戹 (xia)	Baxter	. !? k .	177	ɳæk	?	. !? k .
+355	0 xia	戾 (xia)	Zhou	i ei . ˩˥	178	ţʰiei˩˥	?	i ei . ˩˥
+356	0 xia	戾 (xia)	Baxter	j !? . H	178	ţʰiei˩˥	?	j !? . H
+357	0 xia	打 (xia)	Zhou	. ɐ ŋ ˥	179	lɐŋ˥	?	. ɐ ŋ ˥
+358	0 xia	打 (xia)	Baxter	. !? ng .	179	lɐŋ˥	?	. !? ng .
+359	0 xia	拯 (xia)	Zhou	ĭ ə ŋ ˥	180	ţʰĭəŋ˥ / gʰĭəŋ˥	?	ĭ ə ŋ ˥
+360	0 xia	拯 (xia)	Baxter	j !? ng .	180	ţʰĭəŋ˥ / gʰĭəŋ˥	?	j !? ng .
+361	0 xia	拱 (xia)	Zhou	ĭw o ŋ ˥	181	sĭwoŋ˥ / xĭwoŋ˥	?	ĭw o ŋ ˥
+362	0 xia	拱 (xia)	Baxter	jw !? ng .	181	sĭwoŋ˥ / xĭwoŋ˥	?	jw !? ng .
+363	0 xia	捶 (xia)	Zhou	ĭw e . ˥	182	jĭwe˥	?	ĭw e . ˥
+364	0 xia	捶 (xia)	Baxter	w !? . .	182	jĭwe˥	?	w !? . .
+365	0 xia	摑 (xia)	Zhou	w æ k .	183	ʧwæk	?	w æ k .
+366	0 xia	摑 (xia)	Baxter	w !? k .	183	ʧwæk	?	w !? k .
+367	0 xia	摘 (xia)	Zhou	. æ k .	184	læk	?	. æ k .
+368	0 xia	摘 (xia)	Baxter	. !? k .	184	læk	?	. !? k .
+369	0 xia	撗 (xia)	Zhou	w ɐ ŋ ˥˩	185	xwɐŋ˥˩	?	w ɐ ŋ ˥˩
+370	0 xia	撗 (xia)	Baxter	w !? ng .	185	xwɐŋ˥˩	?	w !? ng .
+371	0 xia	擬 (xia)	Zhou	ĭ ə . ˥	186	ʔĭə˥	?	ĭ ə . ˥
+372	0 xia	擬 (xia)	Baxter	j !? . .	186	ʔĭə˥	?	j !? . .
+373	0 xia	擭 (xia)	Zhou	w ɐ k .	187	kʰwɐk	?	w ɐ k .
+374	0 xia	擭 (xia)	Baxter	w !? k .	187	kʰwɐk	?	w !? k .
+375	0 xia	攝 (xia)	Zhou	ĭ ɛ p .	188	ʑĭɛp	?	ĭ ɛ p .
+376	0 xia	攝 (xia)	Baxter	j e p .	188	ʑĭɛp	?	j !? p .
+377	0 xia	斗 (xia)	Zhou	. əu . ˥	189	ləu˥	?	. əu . ˥
+378	0 xia	斗 (xia)	Baxter	. !? . .	189	ləu˥	?	. !? . .
+379	0 xia	斬 (xia)	Zhou	. ɐ m ˥	190	ɣɐm˥ / kɐm˥ / ʃɐm˥ / xɐm˥	?	. ɐ m ˥
+380	0 xia	斬 (xia)	Baxter	. !? m .	190	ɣɐm˥ / kɐm˥ / ʃɐm˥ / xɐm˥	?	. !? m .
+381	0 xia	旁 (xia)	Zhou	. ɑ ŋ ˥˩	191	pɑŋ˥˩	?	. ɑ ŋ ˥˩
+382	0 xia	旁 (xia)	Baxter	. !? ng .	191	pɑŋ˥˩	?	. !? ng .
+383	0 xia	旬 (xia)	Zhou	ĭu ĕ n ˩	192	dzʰĭuĕn˩	?	ĭu ĕ n ˩
+384	0 xia	旬 (xia)	Baxter	w i n .	192	dzʰĭuĕn˩	?	w i n .
+385	0 xia	昉 (xia)	Zhou	ĭw a ŋ ˥	193	xĭwaŋ˥	?	ĭw a ŋ ˥
+386	0 xia	昉 (xia)	Baxter	jw !? ng .	193	xĭwaŋ˥	?	jw !? ng .
+387	0 xia	曲 (xia)	Zhou	ĭw o k .	194	pĭwok	?	ĭw o k .
+388	0 xia	曲 (xia)	Baxter	j !? k .	194	pĭwok	?	j !? k .
+389	0 xia	最 (xia)	Zhou	u ɑi . ˩˥	195	tsʰuɑi˩˥	?	u ɑi . ˩˥
+390	0 xia	最 (xia)	Baxter	w aj . H	195	tsʰuɑi˩˥	?	w aj . H
+391	0 xia	朕 (xia)	Zhou	ĭ ĕ m ˥	196	tsĭĕm˥ / ʧʰĭĕm˥	?	ĭ ĕ m ˥
+392	0 xia	朕 (xia)	Baxter	. i m X	196	tsĭĕm˥ / ʧʰĭĕm˥	?	. i m X
+393	0 xia	東 (xia)	Zhou	. u ŋ ˥˩	197	xuŋ˥˩ / ŋuŋ˩	?	. u ŋ ˥˩
+394	0 xia	東 (xia)	Baxter	. !? ng .	197	xuŋ˥˩ / ŋuŋ˩	?	. !? ng .
+395	0 xia	極 (xia)	Zhou	ĭ ə k .	198	xĭək	?	ĭ ə k .
+396	0 xia	極 (xia)	Baxter	j !? k .	198	xĭək	?	j !? k .
+397	0 xia	楷 (xia)	Zhou	. ɐi . ˥	199	ɣɐi˥	?	. ɐi . ˥
+398	0 xia	楷 (xia)	Baxter	. !? . .	199	ɣɐi˥	?	. !? . .
+399	0 xia	橫 (xia)	Zhou	w ɐ ŋ ˥˩	200	kwɐŋ˥˩	?	w ɐ ŋ ˥˩
+400	0 xia	橫 (xia)	Baxter	w !? ng .	200	kwɐŋ˥˩	?	w !? ng .
+401	0 xia	檻 (xia)	Zhou	. a m ˥	201	xam˥ / ʔam˥ / ʃam˥ / ʧʰam˥ / kʰam˥	?	. a m ˥
+402	0 xia	檻 (xia)	Baxter	. !? m .	201	xam˥ / ʔam˥ / ʃam˥ / ʧʰam˥ / kʰam˥	?	. !? m .
+403	0 xia	此 (xia)	Zhou	ĭ e . ˥	202	tsĭe˥	?	ĭ e . ˥
+404	0 xia	此 (xia)	Baxter	j !? . .	202	tsĭe˥	?	j !? . .
+405	0 xia	毁 (xia)	Zhou	ĭw e . ˥	203	ŋĭwe˥	?	ĭw e . ˥
+406	0 xia	毁 (xia)	Baxter	jw !? . .	203	ŋĭwe˥	?	jw !? . .
+407	0 xia	汁 (xia)	Zhou	ĭ ĕ p .	204	tɕʰĭĕp	?	ĭ ĕ p .
+408	0 xia	汁 (xia)	Baxter	j !? p .	204	tɕʰĭĕp	?	j !? p .
+409	0 xia	泉 (xia)	Zhou	ĭw ɛ n ˥˩	205	tsĭwɛn˥˩	?	ĭw ɛ n ˥˩
+410	0 xia	泉 (xia)	Baxter	jw e n .	205	tsĭwɛn˥˩	?	jw !? n .
+411	0 xia	注 (xia)	Zhou	ĭ u . ˩˥	206	ʧʰĭu˩˥ / ţʰĭu˩˥	?	ĭ u . ˩˥
+412	0 xia	注 (xia)	Baxter	j !? . H	206	ʧʰĭu˩˥ / ţʰĭu˩˥	?	j !? . H
+413	0 xia	涬 (xia)	Zhou	i e ŋ ˥	207	ʔieŋ˥	?	i e ŋ ˥
+414	0 xia	涬 (xia)	Baxter	j !? ng .	207	ʔieŋ˥	?	j !? ng .
+415	0 xia	淮 (xia)	Zhou	w ɐi . ˥˩	208	kʰwɐi˥˩	?	w ɐi . ˥˩
+416	0 xia	淮 (xia)	Baxter	w !? . .	208	kʰwɐi˥˩	?	w !? . .
+417	0 xia	湩 (xia)	Zhou	u o ŋ ˥	209	muoŋ˥	?	u o ŋ ˥
+418	0 xia	湩 (xia)	Baxter	. !? ng .	209	muoŋ˥	?	. !? ng .
+419	0 xia	溜 (xia)	Zhou	ĭ əu . ˩˥	210	tsʰĭəu˩˥	?	ĭ əu . ˩˥
+420	0 xia	溜 (xia)	Baxter	j !? . H	210	tsʰĭəu˩˥	?	j !? . H
+421	0 xia	滅 (xia)	Zhou	ĭ ɛ t .	211	pʰĭɛt	?	ĭ ɛ t .
+422	0 xia	滅 (xia)	Baxter	j e t .	211	pʰĭɛt	?	j !? t .
+423	0 xia	滑 (xia)	Zhou	w æ t	212	ţwæt / ɳwæt / kwæt / ʧwæt / kʰwæt	?	w æ t
+424	0 xia	滑 (xia)	Baxter	w !? t .	212	ţwæt / ɳwæt / kwæt / ʧwæt / kʰwæt	?	w !? t .
+425	0 xia	漑 (xia)	Zhou	. ɒi . ˩˥	213	ŋɒi˩˥	?	. ɒi . ˩˥
+426	0 xia	漑 (xia)	Baxter	. !? . H	213	ŋɒi˩˥	?	. !? . H
+427	0 xia	漸 (xia)	Zhou	ĭ ɛ m ˥	214	tsʰĭɛm˥	?	ĭ ɛ m ˥
+428	0 xia	漸 (xia)	Baxter	j e m .	214	tsʰĭɛm˥	?	j !? m .
+429	0 xia	潘 (xia)	Zhou	u ɑ n ˥˩	215	puɑn˥˩	?	u ɑ n ˥˩
+430	0 xia	潘 (xia)	Baxter	. !? n .	215	puɑn˥˩	?	. !? n .
+431	0 xia	焦 (xia)	Zhou	ĭ ɛu . ˩	216	dzʰĭɛu˩	?	ĭ ɛu . ˩
+432	0 xia	焦 (xia)	Baxter	j !? . .	216	dzʰĭɛu˩	?	j !? . .
+433	0 xia	煙 (xia)	Zhou	i e n ˥˩	217	xien˥˩	?	i e n ˥˩
+434	0 xia	煙 (xia)	Baxter	j !? n .	217	xien˥˩	?	j !? n .
+435	0 xia	爪 (xia)	Zhou	. au . ˥	218	ʧʰau˥	?	. au . ˥
+436	0 xia	爪 (xia)	Baxter	. !? . .	218	ʧʰau˥	?	. !? . .
+437	0 xia	爵 (xia)	Zhou	ĭ a . k	219	dzʰĭak	?	ĭ a . k
+438	0 xia	爵 (xia)	Baxter	j !? . k	219	dzʰĭak	?	j !? . k
+439	0 xia	牒 (xia)	Zhou	i e p	220	xiep	?	i e p
+440	0 xia	牒 (xia)	Baxter	j !? . p	220	xiep	?	j !? . p
+441	0 xia	犯 (xia)	Zhou	ĭw ɐ m ˥	221	kʰĭwɐm˥ / ţʰĭwɐm˥ / pĭwɐm˥ / pʰĭwɐm˥	?	ĭw ɐ m ˥
+442	0 xia	犯 (xia)	Baxter	jw !? m .	221	kʰĭwɐm˥ / ţʰĭwɐm˥ / pĭwɐm˥ / pʰĭwɐm˥	?	jw !? m .
+443	0 xia	猛 (xia)	Zhou	w ɐ ŋ ˥	222	kwɐŋ˥ / ʔwɐŋ˥ / bʰɐŋ˥	?	w ɐ ŋ ˥
+444	0 xia	猛 (xia)	Baxter	w !? ng .	222	kwɐŋ˥ / ʔwɐŋ˥ / bʰɐŋ˥	?	w !? ng .
+445	0 xia	猥 (xia)	Zhou	u ɒi ˥	223	luɒi˥ / tʰuɒi˥ / kʰuɒi˥ / dʰuɒi˥	?	u ɒi ˥
+446	0 xia	猥 (xia)	Baxter	w !? . .	223	luɒi˥ / tʰuɒi˥ / kʰuɒi˥ / dʰuɒi˥	?	w !? . .
+447	0 xia	瑟 (xia)	Zhou	ĭ e t .	224	ʧĭet / dʒʰĭet	?	ĭ e t .
+448	0 xia	瑟 (xia)	Baxter	j !? t .	224	ʧĭet / dʒʰĭet	?	j !? t .
+449	0 xia	甾 (xia)	Zhou	ĭ ə . ˩	225	dʐʰĭə˩	?	ĭ ə . ˩
+450	0 xia	甾 (xia)	Baxter	j !? . .	225	dʐʰĭə˩	?	j !? . .
+451	0 xia	畏 (xia)	Zhou	ĭw əi . ˩˥	226	kʰĭwəi˩˥	?	ĭw əi . ˩˥
+452	0 xia	畏 (xia)	Baxter	jw !? . H	226	kʰĭwəi˩˥	?	jw !? . H
+453	0 xia	癸 (xia)	Zhou	w i . ˥	227	gʰwi˥ / xwi˥	?	w i . ˥
+454	0 xia	癸 (xia)	Baxter	w ij . X	227	gʰwi˥ / xwi˥	?	w ij . X
+455	0 xia	皃 (xia)	Zhou	. au . ˩˥	228	pʰau˩˥	?	. au . ˩˥
+456	0 xia	皃 (xia)	Baxter	. !? . H	228	pʰau˩˥	?	. !? . H
+457	0 xia	皎 (xia)	Zhou	i eu . ˥	229	kʰieu˥	?	i eu . ˥
+458	0 xia	皎 (xia)	Baxter	j !? . .	229	kʰieu˥	?	j !? . .
+459	0 xia	瞰 (xia)	Zhou	. ɑ m ˩˥	230	ɣɑm˩˥	?	. ɑ m ˩˥
+460	0 xia	瞰 (xia)	Baxter	. !? m H	230	ɣɑm˩˥	?	. !? m H
+461	0 xia	矜 (xia)	Zhou	ĭ ə ŋ ˩	231	gʰĭəŋ˩ / ʃĭəŋ˥˩	?	ĭ ə ŋ ˩
+462	0 xia	矜 (xia)	Baxter	j !? ng .	231	gʰĭəŋ˩ / ʃĭəŋ˥˩	?	j !? ng .
+463	0 xia	礦 (xia)	Zhou	w ɐ ŋ ˥	232	kʰwɐŋ˥	?	w ɐ ŋ ˥
+464	0 xia	礦 (xia)	Baxter	w !? ng .	232	kʰwɐŋ˥	?	w !? ng .
+465	0 xia	禹 (xia)	Zhou	ĭ u . ˥	233	dʒʰĭu˥	?	ĭ u . ˥
+466	0 xia	禹 (xia)	Baxter	j !? . .	233	dʒʰĭu˥	?	j !? . .
+467	0 xia	私 (xia)	Zhou	. i . ˥˩	234	tsʰi˥˩	?	. i . ˥˩
+468	0 xia	私 (xia)	Baxter	. ij . .	234	tsʰi˥˩	?	. ij . .
+469	0 xia	穫 (xia)	Zhou	u ɑ k .	235	luɑk	?	u ɑ k .
+470	0 xia	穫 (xia)	Baxter	w !? k .	235	luɑk	?	w !? k .
+471	0 xia	端 (xia)	Zhou	u ɑ n ˥˩	236	tʰuɑn˥˩	?	u ɑ n ˥˩
+472	0 xia	端 (xia)	Baxter	w !? n .	236	tʰuɑn˥˩	?	w !? n .
+473	0 xia	篆 (xia)	Zhou	ĭw ɛ n ˥	237	gʰĭwɛn˥	?	ĭw ɛ n ˥
+474	0 xia	篆 (xia)	Baxter	jw e n X	237	gʰĭwɛn˥	?	jw e n X
+475	0 xia	篤 (xia)	Zhou	u o k .	238	suok	?	u o k .
+476	0 xia	篤 (xia)	Baxter	w !? k .	238	suok	?	w !? k .
+477	0 xia	簟 (xia)	Zhou	i e m ˥	239	kʰiem˥	?	i e m ˥
+478	0 xia	簟 (xia)	Baxter	j !? m .	239	kʰiem˥	?	j !? m .
+479	0 xia	籰 (xia)	Zhou	ĭw a k .	240	gʰĭwak	?	ĭw a k .
+480	0 xia	籰 (xia)	Baxter	jw a k .	240	gʰĭwak	?	jw a k .
+481	0 xia	米 (xia)	Zhou	i ei . ˥	241	piei˥ / pʰiei˥	?	i ei . ˥
+482	0 xia	米 (xia)	Baxter	j !? . .	241	piei˥ / pʰiei˥	?	j !? . .
+483	0 xia	粉 (xia)	Zhou	ĭu ə n ˥	242	ʔĭuən˥ / mĭuən˥ / ĭuən˥ / kʰĭuən˥ / pʰĭuən˥	?	ĭu ə n ˥
+484	0 xia	粉 (xia)	Baxter	jw e n .	242	ʔĭuən˥ / mĭuən˥ / ĭuən˥ / kʰĭuən˥ / pʰĭuən˥	?	jw e n .
+485	0 xia	糾 (xia)	Zhou	i əu . ˥	243	ʔiəu˥	?	i əu . ˥
+486	0 xia	糾 (xia)	Baxter	j !? . .	243	ʔiəu˥	?	j !? . .
+487	0 xia	紖 (xia)	Zhou	ĭ ĕ n ˥	244	dʒʰĭĕn˥	?	ĭ ĕ n ˥
+488	0 xia	紖 (xia)	Baxter	. i n X	244	dʒʰĭĕn˥	?	. i n X
+489	0 xia	統 (xia)	Zhou	u o ŋ ˩˥	245	suoŋ˩˥	?	u o ŋ ˩˥
+490	0 xia	統 (xia)	Baxter	w o ng H	245	suoŋ˩˥	?	w o ng H
+491	0 xia	綏 (xia)	Zhou	w i . ˥˩	246	tswi˥˩	?	w i . ˥˩
+492	0 xia	綏 (xia)	Baxter	w ij . .	246	tswi˥˩	?	w ij . .
+493	0 xia	綜 (xia)	Zhou	u o ŋ ˩˥	247	tʰuoŋ˩˥ / muoŋ˩˥	?	u o ŋ ˩˥
+494	0 xia	綜 (xia)	Baxter	w !? ng H	247	tʰuoŋ˩˥ / muoŋ˩˥	?	w !? ng H
+495	0 xia	維 (xia)	Zhou	w i . ˥˩	248	xwi˥˩	?	w i . ˥˩
+496	0 xia	維 (xia)	Baxter	w ij . .	248	xwi˥˩	?	w ij . .
+497	0 xia	緩 (xia)	Zhou	u ɑ n ˥	249	tʰuɑn˥	?	u ɑ n ˥
+498	0 xia	緩 (xia)	Baxter	w a n .	249	tʰuɑn˥	?	w a n .
+499	0 xia	緬 (xia)	Zhou	ĭ ɛ n ˥	250	pĭɛn˥	?	ĭ ɛ n ˥
+500	0 xia	緬 (xia)	Baxter	j e n .	250	pĭɛn˥	?	j e n .
+501	0 xia	縛 (xia)	Zhou	ĭw a k	251	kĭwak / ĭwak / xĭwak / ʔĭwak / kʰĭwak / pʰĭwak	?	ĭw a k
+502	0 xia	縛 (xia)	Baxter	jw a k .	251	kĭwak / ĭwak / xĭwak / ʔĭwak / kʰĭwak / pʰĭwak	?	jw a k .
+503	0 xia	繭 (xia)	Zhou	i e n ˥	252	kʰien˥	?	i e n ˥
+504	0 xia	繭 (xia)	Baxter	j !? n .	252	kʰien˥	?	j !? n .
+505	0 xia	纂 (xia)	Zhou	u ɑ n ˥	253	zuɑn˥	?	u ɑ n ˥
+506	0 xia	纂 (xia)	Baxter	w a n .	253	zuɑn˥	?	w a n .
+507	0 xia	罽 (xia)	Zhou	ʔ ĭ ɛi ˩˥	254	ʔĭɛi˩˥	?	ʔ ĭ ɛi ˩˥
+508	0 xia	罽 (xia)	Baxter	ʔ????	254	ʔĭɛi˩˥	?	ʔ????
+509	0 xia	羽 (xia)	Zhou	ĭ u . ˥	255	xĭu˥	?	ĭ u . ˥
+510	0 xia	羽 (xia)	Baxter	j !? . .	255	xĭu˥	?	j !? . .
+511	0 xia	翦 (xia)	Zhou	ĭ ɛ n ˥	256	zĭɛn˥	?	ĭ ɛ n ˥
+512	0 xia	翦 (xia)	Baxter	j e n .	256	zĭɛn˥	?	j e n .
+513	0 xia	肌 (xia)	Zhou	. i . ˩	257	ŋi˩	?	. i . ˩
+514	0 xia	肌 (xia)	Baxter	. ij . .	257	ŋi˩	?	. ij . .
+515	0 xia	腎 (xia)	Zhou	ĭ ĕ n ˥	258	xĭĕn˥	?	ĭ ĕ n ˥
+516	0 xia	腎 (xia)	Baxter	. i n X	258	xĭĕn˥	?	. i n X
+517	0 xia	臡 (xia)	Zhou	i ei . ˩	259	ʑiei˩	?	i ei . ˩
+518	0 xia	臡 (xia)	Baxter	j !? . .	259	ʑiei˩	?	j !? . .
+519	0 xia	自 (xia)	Zhou	. i . ˩˥	260	tɕʰi˩˥	?	. i . ˩˥
+520	0 xia	自 (xia)	Baxter	. ij . H	260	tɕʰi˩˥	?	. ij . H
+521	0 xia	艾 (xia)	Zhou	. ɑi . ˩˥	261	xɑi˩˥	?	. ɑi . ˩˥
+522	0 xia	艾 (xia)	Baxter	. !ai . H	261	xɑi˩˥	?	. !ai . H
+523	0 xia	芻 (xia)	Zhou	ĭ u . ˥˩	262	ʃĭu˥˩	?	ĭ u . ˥˩
+524	0 xia	芻 (xia)	Baxter	j !u . .	262	ʃĭu˥˩	?	j !u . .
+525	0 xia	范 (xia)	Zhou	ĭw ɐ m ˥	263	mĭwɐm˥	?	ĭw ɐ m ˥
+526	0 xia	范 (xia)	Baxter	j æ m .	263	mĭwɐm˥	?	j æ m .
+527	0 xia	菊 (xia)	Zhou	ĭ u k .	264	ŋĭuk	?	ĭ u k .
+528	0 xia	菊 (xia)	Baxter	j !u k .	264	ŋĭuk	?	j !u k .
+529	0 xia	蔑 (xia)	Zhou	i e t .	265	pʰiet	?	i e t .
+530	0 xia	蔑 (xia)	Baxter	j !e t .	265	pʰiet	?	j !e t .
+531	0 xia	蔽 (xia)	Zhou	ĭ ɛi . ˩˥	266	pʰĭɛi˩˥	?	ĭ ɛi . ˩˥
+532	0 xia	蔽 (xia)	Baxter	j !? . H	266	pʰĭɛi˩˥	?	j !? . H
+533	0 xia	補 (xia)	Zhou	. u . ˥	267	mu˥	?	. u . ˥
+534	0 xia	補 (xia)	Baxter	. !u . .	267	mu˥	?	. !u . .
+535	0 xia	襤 (xia)	Zhou	. a m ˥	268	dʒʰam˥	?	. a m ˥
+536	0 xia	襤 (xia)	Baxter	. !a m .	268	dʒʰam˥	?	. !a m .
+537	0 xia	訐 (xia)	Zhou	ĭ ɐ t .	269	ŋĭɐt	?	ĭ ɐ t .
+538	0 xia	訐 (xia)	Baxter	j æ t .	269	ŋĭɐt	?	j æ t .
+539	0 xia	話 (xia)	Zhou	. æi . ˩˥	270	mæi˩˥	?	. æi . ˩˥
+540	0 xia	話 (xia)	Baxter	. !? . H	270	mæi˩˥	?	. !? . H
+541	0 xia	談 (xia)	Zhou	. ɑ m ˥˩	271	xɑm˥˩	?	. ɑ m ˥˩
+542	0 xia	談 (xia)	Baxter	. !a m .	271	xɑm˥˩	?	. !a m .
+543	0 xia	諍 (xia)	Zhou	. æ ŋ ˩˥	272	pæŋ˩˥	?	. æ ŋ ˩˥
+544	0 xia	諍 (xia)	Baxter	. !? ng H	272	pæŋ˩˥	?	. !? ng H
+545	0 xia	豸 (xia)	Zhou	ĭ e . ˥	273	ţʰĭe˥	?	ĭ e . ˥
+546	0 xia	豸 (xia)	Baxter	j !? . .	273	ţʰĭe˥	?	j !? . .
+547	0 xia	貝 (xia)	Zhou	. ɑi . ˩˥	274	mɑi˩˥	?	. ɑi . ˩˥
+548	0 xia	貝 (xia)	Baxter	. !? . H	274	mɑi˩˥	?	. !? . H
+549	0 xia	資 (xia)	Zhou	. i . ˩	275	dzʰi˩	?	. i . ˩
+550	0 xia	資 (xia)	Baxter	. ij . .	275	dzʰi˩	?	. ij . .
+551	0 xia	賈 (xia)	Zhou	. a . ˥	276	ţa˥	?	. a . ˥
+552	0 xia	賈 (xia)	Baxter	. æ . X	276	ţa˥	?	. æ . X
+553	0 xia	賔 (xia)	Zhou	ĭ ĕ n ˥˩	277	pʰĭĕn˥˩	?	ĭ ĕ n ˥˩
+554	0 xia	賔 (xia)	Baxter	. i n .	277	pʰĭĕn˥˩	?	. i n .
+555	0 xia	贈 (xia)	Zhou	. ə ŋ ˩˥	278	səŋ˩˥	?	. ə ŋ ˩˥
+556	0 xia	贈 (xia)	Baxter	. !? ng H	278	səŋ˩˥	?	. !? ng H
+557	0 xia	赧 (xia)	Zhou	. a n ˥	279	ɣan˥	?	. a n ˥
+558	0 xia	赧 (xia)	Baxter	. æ n .	279	ɣan˥	?	. æ n .
+559	0 xia	輟 (xia)	Zhou	ĭw ɛ t .	280	lĭwɛt	?	ĭw ɛ t .
+560	0 xia	輟 (xia)	Baxter	jw e t .	280	lĭwɛt	?	jw e t .
+561	0 xia	輦 (xia)	Zhou	ĭ ɛ n ˥	281	kĭɛn˥ / gʰĭɛn˥	?	ĭ ɛ n ˥
+562	0 xia	輦 (xia)	Baxter	j e n .	281	kĭɛn˥ / gʰĭɛn˥	?	j e n .
+563	0 xia	轄 (xia)	Zhou	. a t .	282	nʑat	?	. a t .
+564	0 xia	轄 (xia)	Baxter	. æ t .	282	nʑat	?	. æ t .
+565	0 xia	迦 (xia)	Zhou	ĭ ɑ . ˩	283	gʰĭɑ˩	?	ĭ ɑ . ˩
+566	0 xia	迦 (xia)	Baxter	j a . .	283	gʰĭɑ˩	?	j a . .
+567	0 xia	迸 (xia)	Zhou	. æ ŋ ˩˥	284	bʰæŋ˩˥ / ʔæŋ˩˥ / xwæŋ˩˥ / ʧæŋ˩˥	?	. æ ŋ ˩˥
+568	0 xia	迸 (xia)	Baxter	. !? ng H	284	bʰæŋ˩˥ / ʔæŋ˩˥ / xwæŋ˩˥ / ʧæŋ˩˥	?	. !? ng H
+569	0 xia	郤 (xia)	Zhou	ĭ ɐ k .	285	xĭɐk	?	ĭ ɐ k .
+570	0 xia	郤 (xia)	Baxter	j !? k .	285	xĭɐk	?	j !? k .
+571	0 xia	酣 (xia)	Zhou	. ɑ m ˥˩	286	tʰɑm˥˩ / mɑm˩	?	. ɑ m ˥˩
+572	0 xia	酣 (xia)	Baxter	. !? m .	286	tʰɑm˥˩ / mɑm˩	?	. !? m .
+573	0 xia	酷 (xia)	Zhou	u o k .	287	ʔuok / xuok	?	u o k .
+574	0 xia	酷 (xia)	Baxter	w !o k .	287	ʔuok / xuok	?	w !o k .
+575	0 xia	醒 (xia)	Zhou	i e ŋ ˥	288	dzʰieŋ˥	?	i e ŋ ˥
+576	0 xia	醒 (xia)	Baxter	j !e ng .	288	dzʰieŋ˥	?	j !e ng .
+577	0 xia	野 (xia)	Zhou	ĭ a . ˥	289	tsĭa˥ / zĭa˥	?	ĭ a . ˥
+578	0 xia	野 (xia)	Baxter	j æ . .	289	tsĭa˥ / zĭa˥	?	j æ . .
+579	0 xia	銳 (xia)	Zhou	ĭw ɛi ˩˥	290	nʑĭwɛi˩˥ / sĭwɛi˩˥	?	ĭw ɛi ˩˥
+580	0 xia	銳 (xia)	Baxter	jw !? . .	290	nʑĭwɛi˩˥ / sĭwɛi˩˥	?	jw !? . .
+581	0 xia	鑑 (xia)	Zhou	. a m ˩˥	291	ʧam˩˥ / ʃam˩˥ / bʰam˩˥ / xam˩˥	?	. a m ˩˥
+582	0 xia	鑑 (xia)	Baxter	. æ m H	291	ʧam˩˥ / ʃam˩˥ / bʰam˩˥ / xam˩˥	?	. æ m H
+583	0 xia	降 (xia)	Zhou	. ɔ ŋ ˩˥	292	ţɔŋ˩˥	?	. ɔ ŋ ˩˥
+584	0 xia	降 (xia)	Baxter	. !? ng H	292	ţɔŋ˩˥	?	. !? ng H
+585	0 xia	陷 (xia)	Zhou	. ɐ m ˩˥	293	ʔɐm˩˥ / ţɐm˩˥ / dʒʰɐm˩˥ / ɖʰɐm˩˥ / kɐm˩˥ / kʰɐm˩˥ / ʧɐm˩˥ / ŋɐm˩˥	?	. ɐ m ˩˥
+586	0 xia	陷 (xia)	Baxter	. !? m H	293	ʔɐm˩˥ / ţɐm˩˥ / dʒʰɐm˩˥ / ɖʰɐm˩˥ / kɐm˩˥ / kʰɐm˩˥ / ʧɐm˩˥ / ŋɐm˩˥	?	. !? m H
+587	0 xia	雜 (xia)	Zhou	. ɑ p .	294	tsʰɑp	?	. ɑ p .
+588	0 xia	雜 (xia)	Baxter	. !a p .	294	tsʰɑp	?	. !a p .
+589	0 xia	靴 (xia)	Zhou	ĭu ɑ ˥˩	295	kʰĭuɑ˥˩ / ʔĭuɑ˥˩ / gʰĭuɑ˩	?	ĭu ɑ ˥˩
+590	0 xia	靴 (xia)	Baxter	jw !? . X	295	kʰĭuɑ˥˩ / ʔĭuɑ˥˩ / gʰĭuɑ˩	?	jw !? . X
+591	0 xia	養 (xia)	Zhou	ĭw a ŋ ˥	296	bʰĭwaŋ˥	?	ĭw a ŋ ˥
+592	0 xia	養 (xia)	Baxter	jw æ ng .	296	bʰĭwaŋ˥	?	jw æ ng .
+593	0 xia	駭 (xia)	Zhou	. ɐi . ˥	297	ŋɐi˥ / kʰɐi˥ / ʔɐi˥	?	. ɐi . ˥
+594	0 xia	駭 (xia)	Baxter	. !? . .	297	ŋɐi˥ / kʰɐi˥ / ʔɐi˥	?	. !? . .
+595	0 xia	髓 (xia)	Zhou	ĭw e . ˥	298	ʑĭwe˥	?	ĭw e . ˥
+596	0 xia	髓 (xia)	Baxter	jw !? . .	298	ʑĭwe˥	?	jw !? . .
+597	0 xia	鬼 (xia)	Zhou	ĭw əi . ˥	299	ĭwəi˥ / bʰĭwəi˥ / ʔĭwəi˥	?	ĭw əi . ˥
+598	0 xia	鬼 (xia)	Baxter	jw !? . .	299	ĭwəi˥ / bʰĭwəi˥ / ʔĭwəi˥	?	jw !? . .
+599	0 xia	魂 (xia)	Zhou	u ə n ˥˩	300	pʰuən˥˩	?	u ə n ˥˩
+600	0 xia	魂 (xia)	Baxter	w !? n .	300	pʰuən˥˩	?	w !? n .
+601	0 xia	鯇 (xia)	Zhou	dʒʰ w a n ˥	301	dʒʰwan˥	?	dʒʰ w a n ˥
+602	0 xia	鯇 (xia)	Baxter	?????	301	dʒʰwan˥	?	?????
+603	0 xia	鰥 (xia)	Zhou	w æ n ˩	302	wæn˩	?	w æ n ˩
+604	0 xia	鰥 (xia)	Baxter	?????	302	wæn˩	?	?????
+605	0 xia	鳥 (xia)	Zhou	l ieu ˥	303	lieu˥ / nieu˥ / sieu˥	?	l ieu ˥
+606	0 xia	鳥 (xia)	Baxter	l????	303	lieu˥ / nieu˥ / sieu˥	?	l????
+607	0 xia	黒 (xia)	Zhou	ʔ ə k	304	ʔək	?	ʔ ə k
+608	0 xia	黒 (xia)	Baxter	?????	304	ʔək	?	?????
+609	0 xia	𢘆 (xia)	Zhou	. ə ŋ ˥˩	305	kəŋ˥˩	?	. ə ŋ ˥˩
+610	0 xia	𢘆 (xia)	Baxter	. !? ng .	305	kəŋ˥˩	?	. !? ng .
+611	0 xia	𦚢 (xia)	Zhou	ĭu ɑ . ˥˩	306	xĭuɑ˥˩	?	ĭu ɑ . ˥˩
+612	0 xia	𦚢 (xia)	Baxter	jw !a . .	306	xĭuɑ˥˩	?	jw !a . .
+613	0 xia	𦫳 (xia)	Zhou	w ai . ˥	307	ɣwai˥	?	w ai . ˥
+614	0 xia	𦫳 (xia)	Baxter	w !ai . .	307	ɣwai˥	?	w !ai . .
+615	0 xia	𩨷 (xia)	Zhou	ĭu ɑ . ˥˩	308	tsĭuɑ˥˩ / lĭuɑ˩	?	ĭu ɑ . ˥˩
+616	0 xia	𩨷 (xia)	Baxter	jw æ . .	308	tsĭuɑ˥˩ / lĭuɑ˩	?	jw æ . .
+617	0 xia	𪁪 (xia)	Zhou	t uo ŋ ˥	309	tuoŋ˥	?	t uo ŋ ˥
+618	0 xia	𪁪 (xia)	Baxter	t????	309	tuoŋ˥	?	t????
+619	1 shang	䟽 (shang)	Zhou	ʃ .	310		?	ʃ .
+620	1 shang	䟽 (shang)	Baxter	sr .	310		?	sr .
+621	1 shang	中 (shang)	Zhou	ţ ĭ	311		?	ţ ĭ
+622	1 shang	中 (shang)	Baxter	tr .	311		?	tr .
+623	1 shang	乎 (shang)	Zhou	ɣ .	312		?	ɣ .
+624	1 shang	乎 (shang)	Baxter	h .	312		?	h .
+625	1 shang	乙 (shang)	Zhou	ʔ w	313		?	ʔ w
+626	1 shang	乙 (shang)	Baxter	' w	313		?	' w
+627	1 shang	佳 (shang)	Zhou	k .	314		?	k .
+628	1 shang	佳 (shang)	Baxter	k .	314		?	k .
+629	1 shang	俄 (shang)	Zhou	ŋ .	315		?	ŋ .
+630	1 shang	俄 (shang)	Baxter	ng .	315		?	ng .
+631	1 shang	傾 (shang)	Zhou	kʰ ĭw	316		?	kʰ ĭw
+632	1 shang	傾 (shang)	Baxter	kh wj	316		?	kh wj
+633	1 shang	儒 (shang)	Zhou	nʑ w	317		?	nʑ w
+634	1 shang	儒 (shang)	Baxter	ny w	317		?	ny w
+635	1 shang	充 (shang)	Zhou	tɕʰ .	318		?	tɕʰ .
+636	1 shang	充 (shang)	Baxter	tsyh .	318		?	tsyh .
+637	1 shang	先 (shang)	Zhou	s .	319		?	s .
+638	1 shang	先 (shang)	Baxter	s .	319		?	s .
+639	1 shang	內 (shang)	Zhou	n u	320		?	n u
+640	1 shang	內 (shang)	Baxter	n w	320		?	n w
+641	1 shang	前 (shang)	Zhou	dzʰ .	321		?	dzʰ .
+642	1 shang	前 (shang)	Baxter	dz .	321		?	dz .
+643	1 shang	千 (shang)	Zhou	tsʰ .	322		?	tsʰ .
+644	1 shang	千 (shang)	Baxter	tsh .	322		?	tsh .
+645	1 shang	叉 (shang)	Zhou	ʧʰ w	323		?	ʧʰ w
+646	1 shang	叉 (shang)	Baxter	tsrh w	323		?	tsrh w
+647	1 shang	口 (shang)	Zhou	kʰ .	324		?	kʰ .
+648	1 shang	口 (shang)	Baxter	kh .	324		?	kh .
+649	1 shang	呵 (shang)	Zhou	x .	325		?	x .
+650	1 shang	呵 (shang)	Baxter	x .	325		?	x .
+651	1 shang	喜 (shang)	Zhou	x i	326		?	x i
+652	1 shang	喜 (shang)	Baxter	x j	326		?	x j
+653	1 shang	嘗 (shang)	Zhou	ʑ ĭw	327		?	ʑ ĭw
+654	1 shang	嘗 (shang)	Baxter	dzy w	327		?	dzy w
+655	1 shang	土 (shang)	Zhou	tʰ .	328		?	tʰ .
+656	1 shang	土 (shang)	Baxter	th .	328		?	th .
+657	1 shang	夷 (shang)	Zhou	j .	329		?	j .
+658	1 shang	夷 (shang)	Baxter	y .	329		?	y .
+659	1 shang	奇 (shang)	Zhou	gʰ ĭ	330		?	gʰ ĭ
+660	1 shang	奇 (shang)	Baxter	g j	330		?	g j
+661	1 shang	妃 (shang)	Zhou	pʰ ĭw	331		?	pʰ ĭw
+662	1 shang	妃 (shang)	Baxter	ph j	331		?	ph j
+663	1 shang	客 (shang)	Zhou	kʰ .	332		?	kʰ .
+664	1 shang	客 (shang)	Baxter	kh .	332		?	kh .
+665	1 shang	山 (shang)	Zhou	ʃ .	333		?	ʃ .
+666	1 shang	山 (shang)	Baxter	sr .	333		?	sr .
+667	1 shang	度 (shang)	Zhou	dʰ .	334		?	dʰ .
+668	1 shang	度 (shang)	Baxter	d .	334		?	d .
+669	1 shang	弃 (shang)	Zhou	kʰ .	335		?	kʰ .
+670	1 shang	弃 (shang)	Baxter	kh .	335		?	kh .
+671	1 shang	恥 (shang)	Zhou	ţʰ .	336		?	ţʰ .
+672	1 shang	恥 (shang)	Baxter	trh .	336		?	trh .
+673	1 shang	持 (shang)	Zhou	ɖʰ ĭ	337		?	ɖʰ ĭ
+674	1 shang	持 (shang)	Baxter	dr j	337		?	dr j
+675	1 shang	挹 (shang)	Zhou	ʔ ĭ	338		?	ʔ ĭ
+676	1 shang	挹 (shang)	Baxter	' j	338		?	' j
+677	1 shang	撫 (shang)	Zhou	pʰ .	339		?	pʰ .
+678	1 shang	撫 (shang)	Baxter	ph .	339		?	ph .
+679	1 shang	數 (shang)	Zhou	ʃ w	340		?	ʃ w
+680	1 shang	數 (shang)	Baxter	sr w	340		?	sr w
+681	1 shang	普 (shang)	Zhou	pʰ .	341		?	pʰ .
+682	1 shang	普 (shang)	Baxter	ph .	341		?	ph .
+683	1 shang	望 (shang)	Zhou	m ĭw	342		?	m ĭw
+684	1 shang	望 (shang)	Baxter	m j	342		?	m j
+685	1 shang	格 (shang)	Zhou	k .	343		?	k .
+686	1 shang	格 (shang)	Baxter	k .	343		?	k .
+687	1 shang	此 (shang)	Zhou	tsʰ ĭw	344		?	tsʰ ĭw
+688	1 shang	此 (shang)	Baxter	tsh jw	344		?	tsh jw
+689	1 shang	歩 (shang)	Zhou	bʰ .	345		?	bʰ .
+690	1 shang	歩 (shang)	Baxter	b .	345		?	b .
+691	1 shang	殊 (shang)	Zhou	ʑ .	346		?	ʑ .
+692	1 shang	殊 (shang)	Baxter	dzy .	346		?	dzy .
+693	1 shang	殖 (shang)	Zhou	ʑ .	347		?	ʑ .
+694	1 shang	殖 (shang)	Baxter	dzy .	347		?	dzy .
+695	1 shang	母 (shang)	Zhou	m u	348		?	m u
+696	1 shang	母 (shang)	Baxter	m .	348		?	m .
+697	1 shang	氏 (shang)	Zhou	ʑ .	349		?	ʑ .
+698	1 shang	氏 (shang)	Baxter	dzy .	349		?	dzy .
+699	1 shang	況 (shang)	Zhou	x ĭw	350		?	x ĭw
+700	1 shang	況 (shang)	Baxter	x jw	350		?	x jw
+701	1 shang	洧 (shang)	Zhou	. w	351		?	. w
+702	1 shang	洧 (shang)	Baxter	h w	351		?	h w
+703	1 shang	滂 (shang)	Zhou	pʰ .	352		?	pʰ .
+704	1 shang	滂 (shang)	Baxter	ph .	352		?	ph .
+705	1 shang	火 (shang)	Zhou	x u	353		?	x u
+706	1 shang	火 (shang)	Baxter	x w	353		?	x w
+707	1 shang	砂 (shang)	Zhou	ʃ .	354		?	ʃ .
+708	1 shang	砂 (shang)	Baxter	sr .	354		?	sr .
+709	1 shang	移 (shang)	Zhou	j .	355		?	j .
+710	1 shang	移 (shang)	Baxter	y .	355		?	y .
+711	1 shang	空 (shang)	Zhou	kʰ .	356		?	kʰ .
+712	1 shang	空 (shang)	Baxter	kh .	356		?	kh .
+713	1 shang	紀 (shang)	Zhou	k .	357		?	k .
+714	1 shang	紀 (shang)	Baxter	k .	357		?	k .
+715	1 shang	紆 (shang)	Zhou	ʔ ĭu	358		?	ʔ ĭu
+716	1 shang	紆 (shang)	Baxter	' jw	358		?	' jw
+717	1 shang	翼 (shang)	Zhou	j .	359		?	j .
+718	1 shang	翼 (shang)	Baxter	y .	359		?	y .
+719	1 shang	耳 (shang)	Zhou	nʑ .	360		?	nʑ .
+720	1 shang	耳 (shang)	Baxter	ny .	360		?	ny .
+721	1 shang	胥 (shang)	Zhou	s .	361		?	s .
+722	1 shang	胥 (shang)	Baxter	s .	361		?	s .
+723	1 shang	臣 (shang)	Zhou	ʑ .	362		?	ʑ .
+724	1 shang	臣 (shang)	Baxter	dzy .	362		?	dzy .
+725	1 shang	自 (shang)	Zhou	dzʰ ĭ	363		?	dzʰ ĭ
+726	1 shang	自 (shang)	Baxter	dz j	363		?	dz j
+727	1 shang	薳 (shang)	Zhou	. ĭw	364		?	. ĭw
+728	1 shang	薳 (shang)	Baxter	h jw	364		?	h jw
+729	1 shang	處 (shang)	Zhou	tɕʰ .	365		?	tɕʰ .
+730	1 shang	處 (shang)	Baxter	tsyh .	365		?	tsyh .
+731	1 shang	衢 (shang)	Zhou	gʰ ĭu	366		?	gʰ ĭu
+732	1 shang	衢 (shang)	Baxter	kh w	366		?	kh w
+733	1 shang	詰 (shang)	Zhou	kʰ i	367		?	kʰ i
+734	1 shang	詰 (shang)	Baxter	kh j	367		?	kh j
+735	1 shang	諾 (shang)	Zhou	n .	368		?	n .
+736	1 shang	諾 (shang)	Baxter	n .	368		?	n .
+737	1 shang	謨 (shang)	Zhou	m .	369		?	m .
+738	1 shang	謨 (shang)	Baxter	m .	369		?	m .
+739	1 shang	識 (shang)	Zhou	ɕ .	370		?	ɕ .
+740	1 shang	識 (shang)	Baxter	sy .	370		?	sy .
+741	1 shang	赤 (shang)	Zhou	tɕʰ ĭ	371		?	tɕʰ ĭ
+742	1 shang	赤 (shang)	Baxter	tsyh .	371		?	tsyh .
+743	1 shang	辛 (shang)	Zhou	s ĭ	372		?	s ĭ
+744	1 shang	辛 (shang)	Baxter	s .	372		?	s .
+745	1 shang	辭 (shang)	Zhou	z ĭ	373		?	z ĭ
+746	1 shang	辭 (shang)	Baxter	z w	373		?	z w
+747	1 shang	追 (shang)	Zhou	ţ w	374		?	ţ w
+748	1 shang	追 (shang)	Baxter	tr w	374		?	tr w
+749	1 shang	部 (shang)	Zhou	bʰ .	375		?	bʰ .
+750	1 shang	部 (shang)	Baxter	b .	375		?	b .
+751	1 shang	采 (shang)	Zhou	tsʰ .	376		?	tsʰ .
+752	1 shang	采 (shang)	Baxter	tsh .	376		?	tsh .
+753	1 shang	里 (shang)	Zhou	l .	377		?	l .
+754	1 shang	里 (shang)	Baxter	l .	377		?	l .
+755	1 shang	陀 (shang)	Zhou	dʰ u	378		?	dʰ u
+756	1 shang	陀 (shang)	Baxter	d w	378		?	d w
+757	1 shang	雖 (shang)	Zhou	s w	379		?	s w
+758	1 shang	雖 (shang)	Baxter	s w	379		?	s w
+759	1 shang	馨 (shang)	Zhou	x .	380		?	x .
+760	1 shang	馨 (shang)	Baxter	x .	380		?	x .
+761	1 shang	馮 (shang)	Zhou	bʰ .	381		?	bʰ .
+762	1 shang	馮 (shang)	Baxter	b .	381		?	b .
+763	1 shang	麤 (shang)	Zhou	tsʰ u	382		?	tsʰ u
+764	1 shang	麤 (shang)	Baxter	tsh w	382		?	tsh w
+765	1 xia	丈 (xia)	Zhou	ĭ a ŋ ˥	383		?	ĭ a ŋ ˥
+766	1 xia	丈 (xia)	Baxter	j a ng X	383		?	j a ng X
+767	1 xia	中 (xia)	Zhou	ĭ u ŋ ˩	384		?	ĭ u ŋ ˩
+768	1 xia	中 (xia)	Baxter	j uw ng .	384		?	j uw ng .
+769	1 xia	乙 (xia)	Zhou	ĭ ĕ t .	385		?	ĭ ĕ t .
+770	1 xia	乙 (xia)	Baxter	. i t .	385		?	. i t .
+771	1 xia	亂 (xia)	Zhou	u ɑ n ˩˥	386		?	u ɑ n ˩˥
+772	1 xia	亂 (xia)	Baxter	w a n H	386		?	w a n H
+773	1 xia	了 (xia)	Zhou	i eu . ˥	387		?	i eu . ˥
+774	1 xia	了 (xia)	Baxter	. ew . X	387		?	. ew . X
+775	1 xia	于 (xia)	Zhou	ĭ u . ˥˩	388		?	ĭ u . ˥˩
+776	1 xia	于 (xia)	Baxter	j u . .	388		?	j u . .
+777	1 xia	云 (xia)	Zhou	ĭu ə n ˥˩	389		?	ĭu ə n ˥˩
+778	1 xia	云 (xia)	Baxter	j u n .	389		?	j u n .
+779	1 xia	井 (xia)	Zhou	ĭ ɛ ŋ ˥	390		?	ĭ ɛ ŋ ˥
+780	1 xia	井 (xia)	Baxter	j e ng X	390		?	j e ng X
+781	1 xia	亞 (xia)	Zhou	. a . ˩˥	391		?	. a . ˩˥
+782	1 xia	亞 (xia)	Baxter	. æ . H	391		?	. æ . H
+783	1 xia	亦 (xia)	Zhou	ĭ ɛ k .	392		?	ĭ ɛ k .
+784	1 xia	亦 (xia)	Baxter	. e k .	392		?	. e k .
+785	1 xia	今 (xia)	Zhou	ĭ ĕ m ˩	393		?	ĭ ĕ m ˩
+786	1 xia	今 (xia)	Baxter	. i m .	393		?	. i m .
+787	1 xia	介 (xia)	Zhou	. ɐi . ˩˥	394		?	. ɐi . ˩˥
+788	1 xia	介 (xia)	Baxter	. ɛj . H	394		?	. ɛj . H
+789	1 xia	但 (xia)	Zhou	. ɑ n ˥	395		?	. ɑ n ˥
+790	1 xia	但 (xia)	Baxter	. a n X	395		?	. a n X
+791	1 xia	低 (xia)	Zhou	i ei . ˩	396		?	i ei . ˩
+792	1 xia	低 (xia)	Baxter	. ej . .	396		?	. ej . .
+793	1 xia	余 (xia)	Zhou	ĭ o . ˥˩	397		?	ĭ o . ˥˩
+794	1 xia	余 (xia)	Baxter	. o . .	397		?	. o . .
+795	1 xia	佳 (xia)	Zhou	. ai . ˩	398		?	. ai . ˩
+796	1 xia	佳 (xia)	Baxter	. ɛj . .	398		?	. ɛj . .
+797	1 xia	來 (xia)	Zhou	. ɒi . ˩	399		?	. ɒi . ˩
+798	1 xia	來 (xia)	Baxter	. oj . .	399		?	. oj . .
+799	1 xia	依 (xia)	Zhou	ĭ əi . ˥˩	400		?	ĭ əi . ˥˩
+800	1 xia	依 (xia)	Baxter	j ɨj . .	400		?	j ɨj . .
+801	1 xia	倚 (xia)	Zhou	ĭ e . ˥	401		?	ĭ e . ˥
+802	1 xia	倚 (xia)	Baxter	j ɨj . X	401		?	j ɨj . X
+803	1 xia	偃 (xia)	Zhou	ĭ ɐ n ˥	402		?	ĭ ɐ n ˥
+804	1 xia	偃 (xia)	Baxter	j o n X	402		?	j o n X
+805	1 xia	元 (xia)	Zhou	. ɐ n ˩	403		?	. ɐ n ˩
+806	1 xia	元 (xia)	Baxter	jw o n .	403		?	jw o n .
+807	1 xia	免 (xia)	Zhou	ĭ ɛ n ˥	404		?	ĭ ɛ n ˥
+808	1 xia	免 (xia)	Baxter	. ɛ n X	404		?	. ɛ n X
+809	1 xia	内 (xia)	Zhou	u ɒi . ˩˥	405		?	u ɒi . ˩˥
+810	1 xia	内 (xia)	Baxter	w oj . H	405		?	w oj . H
+811	1 xia	冶 (xia)	Zhou	ĭ a . ˥	406		?	ĭ a . ˥
+812	1 xia	冶 (xia)	Baxter	j æ . X	406		?	j æ . X
+813	1 xia	凶 (xia)	Zhou	ĭw o ŋ ˥˩	407		?	ĭw o ŋ ˥˩
+814	1 xia	凶 (xia)	Baxter	j ow ng .	407		?	j ow ng .
+815	1 xia	刮 (xia)	Zhou	w a t .	408		?	w a t .
+816	1 xia	刮 (xia)	Baxter	w æ t .	408		?	w æ t .
+817	1 xia	制 (xia)	Zhou	ĭ ɛi . ˩˥	409		?	ĭ ɛi . ˩˥
+818	1 xia	制 (xia)	Baxter	j ej . H	409		?	j ej . H
+819	1 xia	剛 (xia)	Zhou	. ɑ ŋ ˩	410		?	. ɑ ŋ ˩
+820	1 xia	剛 (xia)	Baxter	. a ng .	410		?	. a ng .
+821	1 xia	劣 (xia)	Zhou	ĭw ɛ t .	411		?	ĭw ɛ t .
+822	1 xia	劣 (xia)	Baxter	jw e t .	411		?	jw e t .
+823	1 xia	勃 (xia)	Zhou	u ə t .	412		?	u ə t .
+824	1 xia	勃 (xia)	Baxter	w o t .	412		?	w o t .
+825	1 xia	勺 (xia)	Zhou	ĭ a k .	413		?	ĭ a k .
+826	1 xia	勺 (xia)	Baxter	j a k .	413		?	j a k .
+827	1 xia	勻 (xia)	Zhou	ĭu ĕ n ˥˩	414		?	ĭu ĕ n ˥˩
+828	1 xia	勻 (xia)	Baxter	jw i n .	414		?	jw i n .
+829	1 xia	占 (xia)	Zhou	ĭ ɛ m ˩˥	415		?	ĭ ɛ m ˩˥
+830	1 xia	占 (xia)	Baxter	j e m H	415		?	j e m H
+831	1 xia	卦 (xia)	Zhou	w ai . ˩˥	416		?	w ai . ˩˥
+832	1 xia	卦 (xia)	Baxter	w ɛ . H	416		?	w ɛ . H
+833	1 xia	危 (xia)	Zhou	ĭw e . ˥˩	417		?	ĭw e . ˥˩
+834	1 xia	危 (xia)	Baxter	jw e . .	417		?	jw e . .
+835	1 xia	及 (xia)	Zhou	ĭ ĕ p .	418		?	ĭ ĕ p .
+836	1 xia	及 (xia)	Baxter	. i p .	418		?	. i p .
+837	1 xia	咸 (xia)	Zhou	. ɐ m ˩	419		?	. ɐ m ˩
+838	1 xia	咸 (xia)	Baxter	. ɛ m .	419		?	. ɛ m .
+839	1 xia	善 (xia)	Zhou	ĭ ɛ n ˥	420		?	ĭ ɛ n ˥
+840	1 xia	善 (xia)	Baxter	. e n X	420		?	. e n X
+841	1 xia	嚴 (xia)	Zhou	ĭ ɐ m ˥˩	421		?	ĭ ɐ m ˥˩
+842	1 xia	嚴 (xia)	Baxter	j e m .	421		?	j e m .
+843	1 xia	四 (xia)	Zhou	. i . ˩˥	422		?	. i . ˩˥
+844	1 xia	四 (xia)	Baxter	. ij . H	422		?	. ij . H
+845	1 xia	圎 (xia)	Zhou	ĭw ɛ n ˥˩	423		?	ĭw ɛ n ˥˩
+846	1 xia	圎 (xia)	Baxter	jw e n .	423		?	jw e n .
+847	1 xia	埯 (xia)	Zhou	ĭ ɐ m ˥	424		?	ĭ ɐ m ˥
+848	1 xia	埯 (xia)	Baxter	j æ m X	424		?	j æ m X
+849	1 xia	大 (xia)	Zhou	. ɑi . ˩˥	425		?	. ɑi . ˩˥
+850	1 xia	大 (xia)	Baxter	. aj . H	425		?	. aj . H
+851	1 xia	夭 (xia)	Zhou	ĭ ɛu . ˥	426		?	ĭ ɛu . ˥
+852	1 xia	夭 (xia)	Baxter	j ew . X	426			j ew . X
+853	1 xia	奇 (xia)	Zhou	ĭ e . ˥˩	427			ĭ e . ˥˩
+854	1 xia	奇 (xia)	Baxter	j e . .	427		?	j e . .
+855	1 xia	奏 (xia)	Zhou	. əu . ˩˥	428		?	. əu . ˩˥
+856	1 xia	奏 (xia)	Baxter	. uw . H	428		?	. uw . H
+857	1 xia	奔 (xia)	Zhou	u ə n ˩	429		?	u ə n ˩
+858	1 xia	奔 (xia)	Baxter	w o n .	429		?	w o n .
+859	1 xia	妹 (xia)	Zhou	u ɒi . ˩˥	430		?	u ɒi . ˩˥
+860	1 xia	妹 (xia)	Baxter	w oj . H	430		?	w oj . H
+861	1 xia	姊 (xia)	Zhou	. i . ˥	431		?	. i . ˥
+862	1 xia	姊 (xia)	Baxter	. ij . X	431		?	. ij . X
+863	1 xia	婆 (xia)	Zhou	u ɑ . ˩	432		?	u ɑ . ˩
+864	1 xia	婆 (xia)	Baxter	. a . .	432		?	. a . .
+865	1 xia	婢 (xia)	Zhou	ĭ e . ˥	433		?	ĭ e . ˥
+866	1 xia	婢 (xia)	Baxter	. ej . X	433		?	. ej . X
+867	1 xia	孔 (xia)	Zhou	. u ŋ ˥	434		?	. u ŋ ˥
+868	1 xia	孔 (xia)	Baxter	. uw ng X	434		?	. uw ng X
+869	1 xia	宵 (xia)	Zhou	ĭ ɛu . ˥˩	435		?	ĭ ɛu . ˥˩
+870	1 xia	宵 (xia)	Baxter	j ew . .	435		?	j ew . .
+871	1 xia	專 (xia)	Zhou	ĭw ɛ n ˩	436		?	ĭw ɛ n ˩
+872	1 xia	專 (xia)	Baxter	wj e n .	436		?	wj e n .
+873	1 xia	尊 (xia)	Zhou	u ə n ˩	437		?	u ə n ˩
+874	1 xia	尊 (xia)	Baxter	w o n .	437		?	w o n .
+875	1 xia	尼 (xia)	Zhou	. i . ˩	438		?	. i . ˩
+876	1 xia	尼 (xia)	Baxter	. ij . .	438		?	. ij . .
+877	1 xia	川 (xia)	Zhou	ĭw ɛ n ˩	439		?	ĭw ɛ n ˩
+878	1 xia	川 (xia)	Baxter	wj e n .	439		?	wj e n .
+879	1 xia	州 (xia)	Zhou	ĭ əu . ˥˩	440		?	ĭ əu . ˥˩
+880	1 xia	州 (xia)	Baxter	wj uw . .	440		?	wj uw . .
+881	1 xia	帋 (xia)	Zhou	ĭ e . ˥	441		?	ĭ e . ˥
+882	1 xia	帋 (xia)	Baxter	j e . X	441		?	j e . X
+883	1 xia	廣 (xia)	Zhou	u ɑ ŋ ˥	442		?	u ɑ ŋ ˥
+884	1 xia	廣 (xia)	Baxter	w a ng X	442		?	w a ng X
+885	1 xia	役 (xia)	Zhou	ĭw ɛ k .	443		?	ĭw ɛ k .
+886	1 xia	役 (xia)	Baxter	jw e k .	443			jw e k .
+887	1 xia	往 (xia)	Zhou	ĭw a ŋ ˥	444		?	ĭw a ŋ ˥
+888	1 xia	往 (xia)	Baxter	jw a ng X	444		?	jw a ng X
+889	1 xia	忝 (xia)	Zhou	i e m ˥	445		?	i e m ˥
+890	1 xia	忝 (xia)	Baxter	. e m X	445		?	. e m X
+891	1 xia	急 (xia)	Zhou	ĭ ĕ p .	446		?	ĭ ĕ p .
+892	1 xia	急 (xia)	Baxter	. i p .	446		?	. i p .
+893	1 xia	恚 (xia)	Zhou	ĭw e . ˩˥	447		?	ĭw e . ˩˥
+894	1 xia	恚 (xia)	Baxter	jw e . H	447		?	jw e . H
+895	1 xia	恭 (xia)	Zhou	ĭw o ŋ ˥˩	448		?	ĭw o ŋ ˥˩
+896	1 xia	恭 (xia)	Baxter	j ow ng .	448		?	j ow ng .
+897	1 xia	慮 (xia)	Zhou	ĭ o . ˩˥	449		?	ĭ o . ˩˥
+898	1 xia	慮 (xia)	Baxter	j o . H	449		?	j o . H
+899	1 xia	懺 (xia)	Zhou	. a m ˩˥	450		?	. a m ˩˥
+900	1 xia	懺 (xia)	Baxter	. æ m H	450		?	. æ m H
+901	1 xia	成 (xia)	Zhou	ĭ ɛ ŋ ˩	451		?	ĭ ɛ ŋ ˩
+902	1 xia	成 (xia)	Baxter	j e ng .	451		?	j e ng .
+903	1 xia	扃 (xia)	Zhou	iw e ŋ ˩	452		?	iw e ŋ ˩
+904	1 xia	扃 (xia)	Baxter	jw e ng .	452		?	jw e ng .
+905	1 xia	抱 (xia)	Zhou	. ɑu . ˥	453		?	. ɑu . ˥
+906	1 xia	抱 (xia)	Baxter	. aw . X	453		?	. aw . X
+907	1 xia	招 (xia)	Zhou	ĭ ɛu . ˥˩	454		?	ĭ ɛu . ˥˩
+908	1 xia	招 (xia)	Baxter	j ew . .	454		?	j ew . .
+909	1 xia	持 (xia)	Zhou	ĭ ə . ˥˩	455		?	ĭ ə . ˥˩
+910	1 xia	持 (xia)	Baxter	. i . .	455		?	. i . .
+911	1 xia	掌 (xia)	Zhou	ĭ a ŋ ˥	456		?	ĭ a ŋ ˥
+912	1 xia	掌 (xia)	Baxter	j a ng X	456		?	j a ng X
+913	1 xia	接 (xia)	Zhou	ĭ ɛ p .	457		?	ĭ ɛ p .
+914	1 xia	接 (xia)	Baxter	j e p .	457		?	j e p .
+915	1 xia	損 (xia)	Zhou	u ə n ˥	458		?	u ə n ˥
+916	1 xia	損 (xia)	Baxter	w o n X	458		?	w o n X
+917	1 xia	攣 (xia)	Zhou	ĭw ɛ n ˩	459		?	ĭw ɛ n ˩
+918	1 xia	攣 (xia)	Baxter	jw e n .	459		?	jw e n .
+919	1 xia	敏 (xia)	Zhou	ĭw ĕ n ˥	460		?	ĭw ĕ n ˥
+920	1 xia	敏 (xia)	Baxter	w i n X	460		?	w i n X
+921	1 xia	敢 (xia)	Zhou	. ɑ m ˥	461		?	. ɑ m ˥
+922	1 xia	敢 (xia)	Baxter	. a m X	461		?	. a m X
+923	1 xia	斂 (xia)	Zhou	ĭ ɛ m ˥	462		?	ĭ ɛ m ˥
+924	1 xia	斂 (xia)	Baxter	j e m X	462		?	j e m X
+925	1 xia	早 (xia)	Zhou	. ɑu . ˥	463		?	. ɑu . ˥
+926	1 xia	早 (xia)	Baxter	. aw . X	463		?	. aw . X
+927	1 xia	昭 (xia)	Zhou	ĭ ɛu . ˩	464		?	ĭ ɛu . ˩
+928	1 xia	昭 (xia)	Baxter	j ew . .	464		?	j ew . .
+929	1 xia	是 (xia)	Zhou	ĭ e . ˥	465		?	ĭ e . ˥
+930	1 xia	是 (xia)	Baxter	j e . X	465		?	j e . X
+931	1 xia	晈 (xia)	Zhou	i eu . ˥	466		?	i eu . ˥
+932	1 xia	晈 (xia)	Baxter	. ew . X	466		+++?	. ew . X
+933	1 xia	景 (xia)	Zhou	ĭ ɐ ŋ ˥	467		?	ĭ ɐ ŋ ˥
+934	1 xia	景 (xia)	Baxter	j e ng X	467		?	j e ng X
+935	1 xia	曷 (xia)	Zhou	. ɑ t .	468		?	. ɑ t .
+936	1 xia	曷 (xia)	Baxter	. a t .	468		?	. a t .
+937	1 xia	朋 (xia)	Zhou	. ə ŋ ˥˩	469		?	. ə ŋ ˥˩
+938	1 xia	朋 (xia)	Baxter	. o ng .	469		?	. o ng .
+939	1 xia	杯 (xia)	Zhou	u ɒi . ˩	470		?	u ɒi . ˩
+940	1 xia	杯 (xia)	Baxter	w oj . .	470		?	w oj . .
+941	1 xia	板 (xia)	Zhou	. a n ˥	471		?	. a n ˥
+942	1 xia	板 (xia)	Baxter	. æ n X	471		?	. æ n X
+943	1 xia	柳 (xia)	Zhou	ĭ əu . ˥	472		?	ĭ əu . ˥
+944	1 xia	柳 (xia)	Baxter	j uw . X	472		?	j uw . X
+945	1 xia	栗 (xia)	Zhou	ĭ ĕ t .	473		?	ĭ ĕ t .
+946	1 xia	栗 (xia)	Baxter	. i t .	473		?	. i t .
+947	1 xia	栝 (xia)	Zhou	u ɑ t .	474		?	u ɑ t .
+948	1 xia	栝 (xia)	Baxter	w a t .	474		?	w a t .
+949	1 xia	根 (xia)	Zhou	. ə n ˩	475		?	. ə n ˩
+950	1 xia	根 (xia)	Baxter	. e n .	475		?	. e n .
+951	1 xia	棱 (xia)	Zhou	. ə ŋ ˩	476		?	. ə ŋ ˩
+952	1 xia	棱 (xia)	Baxter	. o ng .	476		?	. o ng .
+953	1 xia	業 (xia)	Zhou	ĭ ɐ p .	477		?	ĭ ɐ p .
+954	1 xia	業 (xia)	Baxter	j æ p .	477		?	j æ p .
+955	1 xia	榮 (xia)	Zhou	ĭw ɐ ŋ ˥˩	478		?	ĭw ɐ ŋ ˥˩
+956	1 xia	榮 (xia)	Baxter	jw æ ng .	478		?	jw æ ng .
+957	1 xia	權 (xia)	Zhou	ĭw ɛ n ˩	479		?	ĭw ɛ n ˩
+958	1 xia	權 (xia)	Baxter	jw e n .	479		?	jw e n .
+959	1 xia	欠 (xia)	Zhou	ĭ ɐ m ˩˥	480		?	ĭ ɐ m ˩˥
+960	1 xia	欠 (xia)	Baxter	j æ m H	480		?	j æ m H
+961	1 xia	歳 (xia)	Zhou	ĭw ɛi . ˩˥	481		?	ĭw ɛi . ˩˥
+962	1 xia	歳 (xia)	Baxter	jw ej . H	481		?	jw ej . H
+963	1 xia	歸 (xia)	Zhou	ĭw əi . ˥˩	482		?	ĭw əi . ˥˩
+964	1 xia	歸 (xia)	Baxter	jw ɨj . .	482		?	jw ɨj . .
+965	1 xia	毛 (xia)	Zhou	. ɑu . ˥˩	483		?	. ɑu . ˥˩
+966	1 xia	毛 (xia)	Baxter	. aw . .	483		?	. aw . .
+967	1 xia	水 (xia)	Zhou	w i . ˥	484		?	w i . ˥
+968	1 xia	水 (xia)	Baxter	w ij . X	484		?	w ij . X
+969	1 xia	沒 (xia)	Zhou	u ə t .	485		?	u ə t .
+970	1 xia	沒 (xia)	Baxter	w o t .	485		?	w o t .
+971	1 xia	泫 (xia)	Zhou	iw e n ˥	486		?	iw e n ˥
+972	1 xia	泫 (xia)	Baxter	w e n X	486		?	w e n X
+973	1 xia	活 (xia)	Zhou	u ɑ t .	487		?	u ɑ t .
+974	1 xia	活 (xia)	Baxter	w a t .	487		?	w a t .
+975	1 xia	消 (xia)	Zhou	ĭ ɛu . ˥˩	488		?	ĭ ɛu . ˥˩
+976	1 xia	消 (xia)	Baxter	j ew . .	488		?	j ew . .
+977	1 xia	淫 (xia)	Zhou	ĭ ĕ m .	489		?	ĭ ĕ m .
+978	1 xia	淫 (xia)	Baxter	j i m .	489		?	j i m .
+979	1 xia	淹 (xia)	Zhou	ĭ ɛ m ˩	490		?	ĭ ɛ m ˩
+980	1 xia	淹 (xia)	Baxter	j e m .	490		?	j e m .
+981	1 xia	激 (xia)	Zhou	i e k .	491		?	i e k .
+982	1 xia	激 (xia)	Baxter	. e k .	491		?	. e k .
+983	1 xia	灰 (xia)	Zhou	u ɒi . ˩	492		?	u ɒi . ˩
+984	1 xia	灰 (xia)	Baxter	w oj . .	492		?	w oj . .
+985	1 xia	炙 (xia)	Zhou	ĭ ɛ k .	493		?	ĭ ɛ k .
+986	1 xia	炙 (xia)	Baxter	. e k .	493		?	. e k .
+987	1 xia	烋 (xia)	Zhou	i əu . ˥˩	494		?	i əu . ˥˩
+988	1 xia	烋 (xia)	Baxter	j iw . .	494		?	j iw . .
+989	1 xia	煩 (xia)	Zhou	ĭw ɐ n ˥˩	495		?	ĭw ɐ n ˥˩
+990	1 xia	煩 (xia)	Baxter	j o n .	495		?	j o n .
+991	1 xia	熱 (xia)	Zhou	ĭ ɛ t .	496		?	ĭ ɛ t .
+992	1 xia	熱 (xia)	Baxter	j e t .	496		?	j e t .
+993	1 xia	物 (xia)	Zhou	ĭu ə t .	497		?	ĭu ə t .
+994	1 xia	物 (xia)	Baxter	w o t .	497		?	w o t .
+995	1 xia	犗 (xia)	Zhou	. æi . ˩˥	498		?	. æi . ˩˥
+996	1 xia	犗 (xia)	Baxter	. æj . H	498		?	. æj . H
+997	1 xia	狄 (xia)	Zhou	i e k .	499		?	i e k .
+998	1 xia	狄 (xia)	Baxter	. e k .	499		?	. e k .
+999	1 xia	班 (xia)	Zhou	. a n ˥˩	500		?	. a n ˥˩
+1000	1 xia	班 (xia)	Baxter	. æ n .	500		?	. æ n .
+1001	1 xia	畎 (xia)	Zhou	iw e n ˥	501		?	iw e n ˥
+1002	1 xia	畎 (xia)	Baxter	w e n X	501		?	w e n X
+1003	1 xia	畢 (xia)	Zhou	ĭ ĕ t .	502		?	ĭ ĕ t .
+1004	1 xia	畢 (xia)	Baxter	j i t .	502		?	j i t .
+1005	1 xia	登 (xia)	Zhou	. ə ŋ ˩	503		?	. ə ŋ ˩
+1006	1 xia	登 (xia)	Baxter	. o ng .	503		?	. o ng .
+1007	1 xia	發 (xia)	Zhou	ĭw ɐ t .	504		?	ĭw ɐ t .
+1008	1 xia	發 (xia)	Baxter	j o t .	504		?	j o t .
+1009	1 xia	皆 (xia)	Zhou	. ɐi . ˩	505		?	. ɐi . ˩
+1010	1 xia	皆 (xia)	Baxter	. ɛj . .	505		?	. ɛj . .
+1011	1 xia	皛 (xia)	Zhou	i eu . ˥	506		?	i eu . ˥
+1012	1 xia	皛 (xia)	Baxter	. ew . .	506		?	. ew . .
+1013	1 xia	知 (xia)	Zhou	ĭ e . ˥˩	507		?	ĭ e . ˥˩
+1014	1 xia	知 (xia)	Baxter	j e . .	507		?	j e . .
+1015	1 xia	祭 (xia)	Zhou	ĭ ɛi . ˩˥	508		?	ĭ ɛi . ˩˥
+1016	1 xia	祭 (xia)	Baxter	j ej . H	508		?	j ej . H
+1017	1 xia	秋 (xia)	Zhou	ĭ əu . ˩	509		?	ĭ əu . ˩
+1018	1 xia	秋 (xia)	Baxter	j uw . .	509		?	j uw . .
+1019	1 xia	稅 (xia)	Zhou	ĭw ɛi . ˩˥	510		?	ĭw ɛi . ˩˥
+1020	1 xia	稅 (xia)	Baxter	jw ej . H	510		?	jw ej . H
+1021	1 xia	稽 (xia)	Zhou	i ei . ˥˩	511		?	i ei . ˥˩
+1022	1 xia	稽 (xia)	Baxter	. ej . .	511		?	. ej . .
+1023	1 xia	穢 (xia)	Zhou	ĭw ɐi . ˩˥	512		?	ĭw ɐi . ˩˥
+1024	1 xia	穢 (xia)	Baxter	jw oj . H	512		?	jw oj . H
+1025	1 xia	等 (xia)	Zhou	. ə ŋ ˥	513		?	. ə ŋ ˥
+1026	1 xia	等 (xia)	Baxter	. o ng X	513		?	. o ng X
+1027	1 xia	筠 (xia)	Zhou	ĭw ĕ n ˥˩	514		?	ĭw ĕ n ˥˩
+1028	1 xia	筠 (xia)	Baxter	w i n .	514		?	w i n .
+1029	1 xia	簪 (xia)	Zhou	ĭ ĕ m ˥˩	515		?	ĭ ĕ m ˥˩
+1030	1 xia	簪 (xia)	Baxter	. i m .	515		?	. i m .
+1031	1 xia	紿 (xia)	Zhou	. ɒi . ˥	516		?	. ɒi . ˥
+1032	1 xia	紿 (xia)	Baxter	. oj . X	516		?	. oj . X
+1033	1 xia	絹 (xia)	Zhou	ĭw ɛ n ˩˥	517		?	ĭw ɛ n ˩˥
+1034	1 xia	絹 (xia)	Baxter	wj e n H	517		?	wj e n H
+1035	1 xia	綸 (xia)	Zhou	ĭu ĕ n ˥˩	518		?	ĭu ĕ n ˥˩
+1036	1 xia	綸 (xia)	Baxter	w i n .	518		?	w i n .
+1037	1 xia	緺 (xia)	Zhou	w ai . ˥˩	519		?	w ai . ˥˩
+1038	1 xia	緺 (xia)	Baxter	w ɛ . .	519		?	w ɛ . .
+1039	1 xia	縣 (xia)	Zhou	iw e n ˩˥	520		?	iw e n ˩˥
+1040	1 xia	縣 (xia)	Baxter	w e n H	520		?	w e n H
+1041	1 xia	聿 (xia)	Zhou	ĭu ĕ t .	521		?	ĭu ĕ t .
+1042	1 xia	聿 (xia)	Baxter	w o t .	521		?	w o t .
+1043	1 xia	肱 (xia)	Zhou	u ə ŋ ˥˩	522		?	u ə ŋ ˥˩
+1044	1 xia	肱 (xia)	Baxter	w o ng .	522		?	w o ng .
+1045	1 xia	脣 (xia)	Zhou	ĭu ĕ n ˥˩	523		?	ĭu ĕ n ˥˩
+1046	1 xia	脣 (xia)	Baxter	wj i n .	523		?	wj i n .
+1047	1 xia	臻 (xia)	Zhou	ĭ e n ˥˩	524		?	ĭ e n ˥˩
+1048	1 xia	臻 (xia)	Baxter	. i n .	524		?	. i n .
+1049	1 xia	荅 (xia)	Zhou	. ɒ p .	525		?	. ɒ p .
+1050	1 xia	荅 (xia)	Baxter	. o p .	525		?	. o p .
+1051	1 xia	華 (xia)	Zhou	w a . ˥˩	526		?	w a . ˥˩
+1052	1 xia	華 (xia)	Baxter	w æ . .	526		?	w æ . .
+1053	1 xia	萃 (xia)	Zhou	w i . ˩˥	527		?	w i . ˩˥
+1054	1 xia	萃 (xia)	Baxter	w ij . H	527		?	w ij . H
+1055	1 xia	萌 (xia)	Zhou	. æ ŋ ˩	528		?	. æ ŋ ˩
+1056	1 xia	萌 (xia)	Baxter	. o ng .	528		?	. o ng .
+1057	1 xia	蒸 (xia)	Zhou	ĭ ə ŋ ˥˩	529		?	ĭ ə ŋ ˥˩
+1058	1 xia	蒸 (xia)	Baxter	j i ng .	529		?	j i ng .
+1059	1 xia	藥 (xia)	Zhou	ĭ a k .	530		?	ĭ a k .
+1060	1 xia	藥 (xia)	Baxter	j a k .	530		?	j a k .
+1061	1 xia	虐 (xia)	Zhou	ĭ a k .	531		?	ĭ a k .
+1062	1 xia	虐 (xia)	Baxter	j a k .	531		?	j a k .
+1063	1 xia	蛙 (xia)	Zhou	w ai . ˥˩	532		?	w ai . ˥˩
+1064	1 xia	蛙 (xia)	Baxter	w a . .	532		?	w a . .
+1065	1 xia	衞 (xia)	Zhou	ĭw ɛi . ˩˥	533		?	ĭw ɛi . ˩˥
+1066	1 xia	衞 (xia)	Baxter	jw !? . H	533		?	jw !? . H
+1067	1 xia	衮 (xia)	Zhou	u ə n ˥	534		?	u ə n ˥
+1068	1 xia	衮 (xia)	Baxter	w a n X	534		?	w a n X
+1069	1 xia	覺 (xia)	Zhou	. ɔ k .	535		?	. ɔ k .
+1070	1 xia	覺 (xia)	Baxter	. æw k .	535		?	. æw k .
+1071	1 xia	詵 (xia)	Zhou	ĭ e n ˥˩	536		?	ĭ e n ˥˩
+1072	1 xia	詵 (xia)	Baxter	. i n .	536		?	. i n .
+1073	1 xia	誅 (xia)	Zhou	ĭ u . ˩	537		?	ĭ u . ˩
+1074	1 xia	誅 (xia)	Baxter	j u . .	537		?	j u . .
+1075	1 xia	豈 (xia)	Zhou	ĭ əi . ˥	538		?	ĭ əi . ˥
+1076	1 xia	豈 (xia)	Baxter	j ɨj . X	538		?	j ɨj . X
+1077	1 xia	貫 (xia)	Zhou	u ɑ n ˩˥	539		?	u ɑ n ˩˥
+1078	1 xia	貫 (xia)	Baxter	w a n H	539		?	w a n H
+1079	1 xia	責 (xia)	Zhou	. æ k .	540		?	. æ k .
+1080	1 xia	責 (xia)	Baxter	. ɛ k .	540		?	. ɛ k .
+1081	1 xia	足 (xia)	Zhou	ĭw o k .	541		?	ĭw o k .
+1082	1 xia	足 (xia)	Baxter	j ow k .	541			j ow k .
+1083	1 xia	輒 (xia)	Zhou	ĭ ɛ p .	542		?	ĭ ɛ p .
+1084	1 xia	輒 (xia)	Baxter	j e p .	542		?	j e p .
+1085	1 xia	迄 (xia)	Zhou	ĭ ə t .	543		?	ĭ ə t .
+1086	1 xia	迄 (xia)	Baxter	j ɨ t .	543		?	j ɨ t .
+1087	1 xia	迷 (xia)	Zhou	i ei . ˩	544		?	i ei . ˩
+1088	1 xia	迷 (xia)	Baxter	. ej . .	544		?	. ej . .
+1089	1 xia	迹 (xia)	Zhou	ĭ ɛ k .	545		?	ĭ ɛ k .
+1090	1 xia	迹 (xia)	Baxter	j e k .	545		?	j e k .
+1091	1 xia	逆 (xia)	Zhou	ĭ ɐ k .	546		?	ĭ ɐ k .
+1092	1 xia	逆 (xia)	Baxter	j æ k .	546		?	j æ k .
+1093	1 xia	逾 (xia)	Zhou	ĭ u . ˥˩	547		?	ĭ u . ˥˩
+1094	1 xia	逾 (xia)	Baxter	j u . .	547		?	j u . .
+1095	1 xia	道 (xia)	Zhou	. ɑu . ˥	548		?	. ɑu . ˥
+1096	1 xia	道 (xia)	Baxter	. aw . X	548		?	. aw . X
+1097	1 xia	遭 (xia)	Zhou	. ɑu . ˥˩	549		?	. ɑu . ˥˩
+1098	1 xia	遭 (xia)	Baxter	. aw . .	549		?	. aw . .
+1099	1 xia	酉 (xia)	Zhou	ĭ əu . ˥	550		?	ĭ əu . ˥
+1100	1 xia	酉 (xia)	Baxter	j uw . X	550		?	j uw . X
+1101	1 xia	録 (xia)	Zhou	ĭw o k .	551		?	ĭw o k .
+1102	1 xia	録 (xia)	Baxter	jw ow k .	551		?	jw ow k .
+1103	1 xia	鍾 (xia)	Zhou	ĭw o ŋ ˩	552		?	ĭw o ŋ ˩
+1104	1 xia	鍾 (xia)	Baxter	jw ow ng .	552		?	jw ow ng .
+1105	1 xia	鎋 (xia)	Zhou	. a t .	553		?	. a t .
+1106	1 xia	鎋 (xia)	Baxter	. a t .	553		?	. a t .
+1107	1 xia	閏 (xia)	Zhou	ĭu ĕ n ˩˥	554		?	ĭu ĕ n ˩˥
+1108	1 xia	閏 (xia)	Baxter	w i n H	554		?	w i n H
+1109	1 xia	閑 (xia)	Zhou	. æ n ˥˩	555		?	. æ n ˥˩
+1110	1 xia	閑 (xia)	Baxter	. ɛ n .	555		?	. ɛ n .
+1111	1 xia	阮 (xia)	Zhou	ĭw ɐ n ˥	556		?	ĭw ɐ n ˥
+1112	1 xia	阮 (xia)	Baxter	jw o n X	556		?	jw o n X
+1113	1 xia	限 (xia)	Zhou	. æ n ˥	557		?	. æ n ˥
+1114	1 xia	限 (xia)	Baxter	. ɛ n X	557		?	. ɛ n X
+1115	1 xia	陽 (xia)	Zhou	ĭ a ŋ ˥	558		?	ĭ a ŋ ˥
+1116	1 xia	陽 (xia)	Baxter	j a ng X	558		?	j a ng X
+1117	1 xia	隥 (xia)	Zhou	. ə ŋ ˩˥	559		?	. ə ŋ ˩˥
+1118	1 xia	隥 (xia)	Baxter	. o ng H	559		?	. o ng H
+1119	1 xia	雀 (xia)	Zhou	ĭ a k .	560		?	ĭ a k .
+1120	1 xia	雀 (xia)	Baxter	j a k .	560		?	j a k .
+1121	1 xia	霞 (xia)	Zhou	. a . ˩	561		?	. a . ˩
+1122	1 xia	霞 (xia)	Baxter	. æ . .	561		?	. æ . .
+1123	1 xia	靜 (xia)	Zhou	ĭ ɛ ŋ ˥	562		?	ĭ ɛ ŋ ˥
+1124	1 xia	靜 (xia)	Baxter	j e ng X	562		?	j e ng X
+1125	1 xia	頂 (xia)	Zhou	i e ŋ ˩˥	563		?	i e ŋ ˩˥
+1126	1 xia	頂 (xia)	Baxter	. e ng H	563		?	. e ng H
+1127	1 xia	頃 (xia)	Zhou	ĭw ɛ ŋ ˥	564		?	ĭw ɛ ŋ ˥
+1128	1 xia	頃 (xia)	Baxter	wj e ng X	564		?	wj e ng X
+1129	1 xia	頰 (xia)	Zhou	i e p .	565		?	i e p .
+1130	1 xia	頰 (xia)	Baxter	. e p .	565		?	. e p .
+1131	1 xia	飢 (xia)	Zhou	. i . ˥˩	566		?	. i . ˥˩
+1132	1 xia	飢 (xia)	Baxter	. ij . .	566		?	. ij . .
+1133	1 xia	飽 (xia)	Zhou	. au . ˥	567		?	. au . ˥
+1134	1 xia	飽 (xia)	Baxter	. æw . X	567		?	. æw . X
+1135	1 xia	驚 (xia)	Zhou	ĭ ɐ ŋ ˥˩	568		?	ĭ ɐ ŋ ˥˩
+1136	1 xia	驚 (xia)	Baxter	j æ ng .	568		?	j æ ng .
+1137	1 xia	鳳 (xia)	Zhou	ĭ u ŋ ˩˥	569		?	ĭ u ŋ ˩˥
+1138	1 xia	鳳 (xia)	Baxter	wj uw ng H	569		?	wj uw ng H
+1139	1 xia	麵 (xia)	Zhou	i e n ˩˥	570		?	i e n ˩˥
+1140	1 xia	麵 (xia)	Baxter	. e n H	570		?	. e n H
+1141	1 xia	黠 (xia)	Zhou	. æ t .	571		?	. æ t .
+1142	1 xia	黠 (xia)	Baxter	. ɛ t .	571		?	. ɛ t .
+1143	1 xia	鼎 (xia)	Zhou	i e ŋ ˥	572		?	i e ŋ ˥
+1144	1 xia	鼎 (xia)	Baxter	. e ng X	572		?	. e ng X
+1145	1 xia	𡛷 (xia)	Zhou	. i . ˥	573		?	. i . ˥
+1146	1 xia	𡛷 (xia)	Baxter	. ij . X	573		?	. ij . X
+1147	1 xia	𤑔 (xia)	Zhou	ĭw ɛ t .	574		?	ĭw ɛ t .
+1148	1 xia	𤑔 (xia)	Baxter	wj e t .	574		?	wj e t .
+1149	1 xia	𩜁 (xia)	Zhou	ĭ ə ŋ ˩˥	575		?	ĭ ə ŋ ˩˥
+1150	1 xia	𩜁 (xia)	Baxter	. i ng H	575		?	. i ng H
+1151	2 shang	< (shang)	Zhou	dʰ .	576		?	dʰ .
+1152	2 shang	< (shang)	Baxter	d .	576		?	d .
+1153	2 shang	? (shang)	Zhou	kʰ ĭ	577		?	kʰ ĭ
+1154	2 shang	? (shang)	Baxter	kh j	577		?	kh j
+1155	2 shang	一 (shang)	Zhou	ʔ ĭw	578		?	ʔ ĭw
+1156	2 shang	一 (shang)	Baxter	ʔ w	578		?	ʔ w
+1157	2 shang	丁 (shang)	Zhou	t .	579		?	t .
+1158	2 shang	丁 (shang)	Baxter	t .	579		?	t .
+1159	2 shang	七 (shang)	Zhou	tsʰ ĭ	580		?	tsʰ ĭ
+1160	2 shang	七 (shang)	Baxter	tsh j	580		?	tsh j
+1161	2 shang	下 (shang)	Zhou	ɣ .	581		?	ɣ .
+1162	2 shang	下 (shang)	Baxter	h .	581		?	h .
+1163	2 shang	丑 (shang)	Zhou	ţʰ ĭ	582		?	ţʰ ĭ
+1164	2 shang	丑 (shang)	Baxter	trh j	582		?	trh j
+1165	2 shang	丘 (shang)	Zhou	kʰ ĭw	583		?	kʰ ĭw
+1166	2 shang	丘 (shang)	Baxter	kh j	583		?	kh j
+1167	2 shang	並 (shang)	Zhou	!? !?	584		?	!? !?
+1168	2 shang	並 (shang)	Baxter	!? !?	584		?	!? !?
+1169	2 shang	乃 (shang)	Zhou	n .	585		?	n .
+1170	2 shang	乃 (shang)	Baxter	n .	585		?	n .
+1171	2 shang	之 (shang)	Zhou	tɕ ĭ	586		?	tɕ ĭ
+1172	2 shang	之 (shang)	Baxter	tsy .	586		?	tsy .
+1173	2 shang	乗 (shang)	Zhou	dʑʰ ĭ	587		?	dʑʰ ĭ
+1174	2 shang	乗 (shang)	Baxter	zy .	587		?	zy .
+1175	2 shang	九 (shang)	Zhou	k ĭ	588		?	k ĭ
+1176	2 shang	九 (shang)	Baxter	k j	588		?	k j
+1177	2 shang	予 (shang)	Zhou	j ĭ	589		?	j ĭ
+1178	2 shang	予 (shang)	Baxter	y .	589		?	y .
+1179	2 shang	于 (shang)	Zhou	. ĭw	590		?	. ĭw
+1180	2 shang	于 (shang)	Baxter	h jw	590		?	h jw
+1181	2 shang	云 (shang)	Zhou	. ĭ	591		?	. ĭ
+1182	2 shang	云 (shang)	Baxter	h j	591		?	h j
+1183	2 shang	五 (shang)	Zhou	ŋ .	592		?	ŋ .
+1184	2 shang	五 (shang)	Baxter	ng .	592		?	ng .
+1185	2 shang	亡 (shang)	Zhou	m ĭ	593		?	m ĭ
+1186	2 shang	亡 (shang)	Baxter	m j	593		?	m j
+1187	2 shang	人 (shang)	Zhou	nʑ ĭ	594		?	nʑ ĭ
+1188	2 shang	人 (shang)	Baxter	ny .	594		?	ny .
+1189	2 shang	他 (shang)	Zhou	tʰ .	595		?	tʰ .
+1190	2 shang	他 (shang)	Baxter	th .	595		?	th .
+1191	2 shang	以 (shang)	Zhou	j ĭ	596		?	j ĭ
+1192	2 shang	以 (shang)	Baxter	y .	596		?	y .
+1193	2 shang	伊 (shang)	Zhou	ʔ i	597		?	ʔ i
+1194	2 shang	伊 (shang)	Baxter	ʔ j	597		?	ʔ j
+1195	2 shang	伯 (shang)	Zhou	p .	598		?	p .
+1196	2 shang	伯 (shang)	Baxter	p .	598		?	p .
+1197	2 shang	似 (shang)	Zhou	z ĭ	599		?	z ĭ
+1198	2 shang	似 (shang)	Baxter	z j	599		?	z j
+1199	2 shang	何 (shang)	Zhou	ɣ .	600		?	ɣ .
+1200	2 shang	何 (shang)	Baxter	h .	600		?	h .
+1201	2 shang	余 (shang)	Zhou	j ĭ	601		?	j ĭ
+1202	2 shang	余 (shang)	Baxter	y .	601		?	y .
+1203	2 shang	作 (shang)	Zhou	ts .	602		?	ts .
+1204	2 shang	作 (shang)	Baxter	ts .	602		?	ts .
+1205	2 shang	來 (shang)	Zhou	l .	603		?	l .
+1206	2 shang	來 (shang)	Baxter	l .	603		?	l .
+1207	2 shang	侯 (shang)	Zhou	ɣ .	604		?	ɣ .
+1208	2 shang	侯 (shang)	Baxter	h .	604		?	h .
+1209	2 shang	便 (shang)	Zhou	bʰ ĭ	605		?	bʰ ĭ
+1210	2 shang	便 (shang)	Baxter	b j	605		?	b j
+1211	2 shang	俱 (shang)	Zhou	k w	606		?	k w
+1212	2 shang	俱 (shang)	Baxter	k w	606		?	k w
+1213	2 shang	倉 (shang)	Zhou	tsʰ .	607		?	tsʰ .
+1214	2 shang	倉 (shang)	Baxter	tsh .	607		?	tsh .
+1215	2 shang	側 (shang)	Zhou	ʧ .	608		?	ʧ .
+1216	2 shang	側 (shang)	Baxter	tsr .	608		?	tsr .
+1217	2 shang	傍 (shang)	Zhou	bʰ .	609		?	bʰ .
+1218	2 shang	傍 (shang)	Baxter	b .	609		?	b .
+1219	2 shang	傷 (shang)	Zhou	ɕ ĭ	610		?	ɕ ĭ
+1220	2 shang	傷 (shang)	Baxter	sy .	610		?	sy .
+1221	2 shang	兒 (shang)	Zhou	nʑ ĭ	611		?	nʑ ĭ
+1222	2 shang	兒 (shang)	Baxter	ny .	611		?	ny .
+1223	2 shang	公 (shang)	Zhou	k .	612		?	k .
+1224	2 shang	公 (shang)	Baxter	k .	612		?	k .
+1225	2 shang	兵 (shang)	Zhou	p ĭ	613		?	p ĭ
+1226	2 shang	兵 (shang)	Baxter	p j	613		?	p j
+1227	2 shang	其 (shang)	Zhou	gʰ ĭ	614		?	gʰ ĭ
+1228	2 shang	其 (shang)	Baxter	g j	614		?	g j
+1229	2 shang	冝 (shang)	Zhou	ŋ ĭ	615		?	ŋ ĭ
+1230	2 shang	冝 (shang)	Baxter	ng j	615		?	ng j
+1231	2 shang	冬 (shang)	Zhou	t u	616		?	t u
+1232	2 shang	冬 (shang)	Baxter	t .	616		?	t .
+1233	2 shang	几 (shang)	Zhou	k .	617		?	k .
+1234	2 shang	几 (shang)	Baxter	k .	617		?	k .
+1235	2 shang	分 (shang)	Zhou	p ĭw	618		?	p ĭw
+1236	2 shang	分 (shang)	Baxter	p j	618		?	p j
+1237	2 shang	初 (shang)	Zhou	ʧʰ ĭ	619		?	ʧʰ ĭ
+1238	2 shang	初 (shang)	Baxter	tsrh j	619		?	tsrh j
+1239	2 shang	則 (shang)	Zhou	ts .	620		?	ts .
+1240	2 shang	則 (shang)	Baxter	ts .	620		?	ts .
+1241	2 shang	創 (shang)	Zhou	ʧʰ ĭ	621		?	ʧʰ ĭ
+1242	2 shang	創 (shang)	Baxter	tsrh j	621		?	tsrh j
+1243	2 shang	力 (shang)	Zhou	l ĭ	622		?	l ĭ
+1244	2 shang	力 (shang)	Baxter	l j	622		?	l j
+1245	2 shang	北 (shang)	Zhou	p .	623		?	p .
+1246	2 shang	北 (shang)	Baxter	p .	623		?	p .
+1247	2 shang	匠 (shang)	Zhou	dzʰ ĭ	624		?	dzʰ ĭ
+1248	2 shang	匠 (shang)	Baxter	dz .	624		?	dz .
+1249	2 shang	匹 (shang)	Zhou	pʰ ĭ	625		?	pʰ ĭ
+1250	2 shang	匹 (shang)	Baxter	ph j	625		?	ph j
+1251	2 shang	區 (shang)	Zhou	kʰ ĭ	626		?	kʰ ĭ
+1252	2 shang	區 (shang)	Baxter	kh j	626		?	kh j
+1253	2 shang	卑 (shang)	Zhou	p ĭ	627		?	p ĭ
+1254	2 shang	卑 (shang)	Baxter	p j	627		?	p j
+1255	2 shang	博 (shang)	Zhou	p .	628		?	p .
+1256	2 shang	博 (shang)	Baxter	p .	628		?	p .
+1257	2 shang	卜 (shang)	Zhou	p .	629		?	p .
+1258	2 shang	卜 (shang)	Baxter	p .	629		?	p .
+1259	2 shang	即 (shang)	Zhou	ts ĭ	630		?	ts ĭ
+1260	2 shang	即 (shang)	Baxter	ts j	630		?	ts j
+1261	2 shang	去 (shang)	Zhou	kʰ ĭ	631		?	kʰ ĭ
+1262	2 shang	去 (shang)	Baxter	kh j	631		?	kh j
+1263	2 shang	古 (shang)	Zhou	k .	632		?	k .
+1264	2 shang	古 (shang)	Baxter	k .	632		?	k .
+1265	2 shang	吉 (shang)	Zhou	k ĭw	633		?	k ĭw
+1266	2 shang	吉 (shang)	Baxter	k jwi	633		?	k jwi
+1267	2 shang	同 (shang)	Zhou	dʰ .	634		?	dʰ .
+1268	2 shang	同 (shang)	Baxter	d .	634		?	d .
+1269	2 shang	吐 (shang)	Zhou	tʰ .	635		?	tʰ .
+1270	2 shang	吐 (shang)	Baxter	th .	635		?	th .
+1271	2 shang	吕 (shang)	Zhou	l ĭ	636		?	l ĭ
+1272	2 shang	吕 (shang)	Baxter	l j	636		?	l j
+1273	2 shang	吾 (shang)	Zhou	ŋ u	637		?	ŋ u
+1274	2 shang	吾 (shang)	Baxter	ng w	637		?	ng w
+1275	2 shang	呼 (shang)	Zhou	x u	638		?	x u
+1276	2 shang	呼 (shang)	Baxter	x w	638		?	x w
+1277	2 shang	哀 (shang)	Zhou	ʔ .	639		?	ʔ .
+1278	2 shang	哀 (shang)	Baxter	ʔ .	639		?	ʔ .
+1279	2 shang	唐 (shang)	Zhou	dʰ .	640		?	dʰ .
+1280	2 shang	唐 (shang)	Baxter	d .	640		?	d .
+1281	2 shang	商 (shang)	Zhou	ɕ ĭ	641		?	ɕ ĭ
+1282	2 shang	商 (shang)	Baxter	sy .	641		?	sy .
+1283	2 shang	在 (shang)	Zhou	dzʰ .	642		?	dzʰ .
+1284	2 shang	在 (shang)	Baxter	dz .	642		?	dz .
+1285	2 shang	堂 (shang)	Zhou	dʰ i	643		?	dʰ i
+1286	2 shang	堂 (shang)	Baxter	d .	643		?	d .
+1287	2 shang	場 (shang)	Zhou	ɖʰ .	644		?	ɖʰ .
+1288	2 shang	場 (shang)	Baxter	dr .	644		?	dr .
+1289	2 shang	墟 (shang)	Zhou	kʰ ĭ	645		?	kʰ ĭ
+1290	2 shang	墟 (shang)	Baxter	kh j	645		?	kh j
+1291	2 shang	士 (shang)	Zhou	dʒʰ .	646		?	dʒʰ .
+1292	2 shang	士 (shang)	Baxter	dzr j	646		?	dzr j
+1293	2 shang	多 (shang)	Zhou	t .	647		?	t .
+1294	2 shang	多 (shang)	Baxter	t .	647		?	t .
+1295	2 shang	央 (shang)	Zhou	ʔ ĭ	648		?	ʔ ĭ
+1296	2 shang	央 (shang)	Baxter	ʔ j	648		?	ʔ j
+1297	2 shang	失 (shang)	Zhou	ɕ ĭ	649		?	ɕ ĭ
+1298	2 shang	失 (shang)	Baxter	sy .	649		?	sy .
+1299	2 shang	女 (shang)	Zhou	ɳ .	650		?	ɳ .
+1300	2 shang	女 (shang)	Baxter	nr .	650		?	nr .
+1301	2 shang	奴 (shang)	Zhou	n .	651		?	n .
+1302	2 shang	奴 (shang)	Baxter	n .	651		?	n .
+1303	2 shang	如 (shang)	Zhou	nʑ ĭ	652		?	nʑ ĭ
+1304	2 shang	如 (shang)	Baxter	ny .	652		?	ny .
+1305	2 shang	婢 (shang)	Zhou	bʰ ĭ	653		?	bʰ ĭ
+1306	2 shang	婢 (shang)	Baxter	b ji	653		?	b ji
+1307	2 shang	子 (shang)	Zhou	ts ĭ	654		?	ts ĭ
+1308	2 shang	子 (shang)	Baxter	ts j	654		?	ts j
+1309	2 shang	孚 (shang)	Zhou	pʰ ĭw	655		?	pʰ ĭw
+1310	2 shang	孚 (shang)	Baxter	ph j	655		?	ph j
+1311	2 shang	宅 (shang)	Zhou	ɖʰ .	656		?	ɖʰ .
+1312	2 shang	宅 (shang)	Baxter	dr .	656		?	dr .
+1313	2 shang	宜 (shang)	Zhou	ŋ ĭ	657		?	ŋ ĭ
+1314	2 shang	宜 (shang)	Baxter	ng j	657		?	ng j
+1315	2 shang	寔 (shang)	Zhou	ʑ ĭ	658		?	ʑ ĭ
+1316	2 shang	寔 (shang)	Baxter	dzy .	658		?	dzy .
+1317	2 shang	將 (shang)	Zhou	ts w	659		?	ts w
+1318	2 shang	將 (shang)	Baxter	ts w	659		?	ts w
+1319	2 shang	尺 (shang)	Zhou	tɕʰ ĭ	660		?	tɕʰ ĭ
+1320	2 shang	尺 (shang)	Baxter	tsyh .	660		?	tsyh .
+1321	2 shang	尼 (shang)	Zhou	ɳ ĭ	661		?	ɳ ĭ
+1322	2 shang	尼 (shang)	Baxter	nr j	661		?	nr j
+1323	2 shang	居 (shang)	Zhou	k ĭ	662		?	k ĭ
+1324	2 shang	居 (shang)	Baxter	k j	662		?	k j
+1325	2 shang	巨 (shang)	Zhou	gʰ ĭ	663		?	gʰ ĭ
+1326	2 shang	巨 (shang)	Baxter	g j	663		?	g j
+1327	2 shang	巫 (shang)	Zhou	m ĭw	664		?	m ĭw
+1328	2 shang	巫 (shang)	Baxter	m j	664		?	m j
+1329	2 shang	市 (shang)	Zhou	ʑ ĭ	665		?	ʑ ĭ
+1330	2 shang	市 (shang)	Baxter	dzy .	665		?	dzy .
+1331	2 shang	布 (shang)	Zhou	p u	666		?	p u
+1332	2 shang	布 (shang)	Baxter	p w	666		?	p w
+1333	2 shang	常 (shang)	Zhou	ʑ ĭ	667		?	ʑ ĭ
+1334	2 shang	常 (shang)	Baxter	dzy .	667		?	dzy .
+1335	2 shang	平 (shang)	Zhou	bʰ .	668		?	bʰ .
+1336	2 shang	平 (shang)	Baxter	b .	668		?	b .
+1337	2 shang	府 (shang)	Zhou	p ĭw	669		?	p ĭw
+1338	2 shang	府 (shang)	Baxter	p j	669		?	p j
+1339	2 shang	康 (shang)	Zhou	kʰ .	670		?	kʰ .
+1340	2 shang	康 (shang)	Baxter	kh .	670		?	kh .
+1341	2 shang	弋 (shang)	Zhou	j ĭ	671		?	j ĭ
+1342	2 shang	弋 (shang)	Baxter	y .	671		?	y .
+1343	2 shang	式 (shang)	Zhou	ɕ ĭ	672		?	ɕ ĭ
+1344	2 shang	式 (shang)	Baxter	sy .	672		?	sy .
+1345	2 shang	張 (shang)	Zhou	ţ ĭ	673		?	ţ ĭ
+1346	2 shang	張 (shang)	Baxter	tr j	673		?	tr j
+1347	2 shang	強 (shang)	Zhou	gʰ ĭ	674		?	gʰ ĭ
+1348	2 shang	強 (shang)	Baxter	g j	674		?	g j
+1349	2 shang	彌 (shang)	Zhou	m ĭ	675		?	m ĭ
+1350	2 shang	彌 (shang)	Baxter	m ji	675		?	m ji
+1351	2 shang	彼 (shang)	Zhou	p ĭ	676		?	p ĭ
+1352	2 shang	彼 (shang)	Baxter	p j	676		?	p j
+1353	2 shang	征 (shang)	Zhou	tɕ ĭ	677		?	tɕ ĭ
+1354	2 shang	征 (shang)	Baxter	tsy .	677		?	tsy .
+1355	2 shang	徂 (shang)	Zhou	dzʰ .	678		?	dzʰ .
+1356	2 shang	徂 (shang)	Baxter	dz .	678		?	dz .
+1357	2 shang	徐 (shang)	Zhou	z ĭ	679		?	z ĭ
+1358	2 shang	徐 (shang)	Baxter	z .	679		?	z .
+1359	2 shang	徒 (shang)	Zhou	dʰ .	680		?	dʰ .
+1360	2 shang	徒 (shang)	Baxter	d .	680		?	d .
+1361	2 shang	得 (shang)	Zhou	t .	681		?	t .
+1362	2 shang	得 (shang)	Baxter	t .	681		?	t .
+1363	2 shang	德 (shang)	Zhou	t .	682		?	t .
+1364	2 shang	德 (shang)	Baxter	t .	682		?	t .
+1365	2 shang	必 (shang)	Zhou	p ĭ	683		?	p ĭ
+1366	2 shang	必 (shang)	Baxter	p ji	683		?	p ji
+1367	2 shang	思 (shang)	Zhou	s ĭ	684		?	s ĭ
+1368	2 shang	思 (shang)	Baxter	s j	684		?	s j
+1369	2 shang	息 (shang)	Zhou	s ĭ	685		?	s ĭ
+1370	2 shang	息 (shang)	Baxter	s .	685		?	s .
+1371	2 shang	悉 (shang)	Zhou	s ĭ	686		?	s ĭ
+1372	2 shang	悉 (shang)	Baxter	s j	686		?	s j
+1373	2 shang	情 (shang)	Zhou	dzʰ ĭw	687		?	dzʰ ĭw
+1374	2 shang	情 (shang)	Baxter	dz jw	687		?	dz jw
+1375	2 shang	愚 (shang)	Zhou	ŋ ĭw	688		?	ŋ ĭw
+1376	2 shang	愚 (shang)	Baxter	ng jw	688		?	ng jw
+1377	2 shang	慈 (shang)	Zhou	dzʰ ĭ	689		?	dzʰ ĭ
+1378	2 shang	慈 (shang)	Baxter	dz j	689		?	dz j
+1379	2 shang	慕 (shang)	Zhou	m .	690		?	m .
+1380	2 shang	慕 (shang)	Baxter	m .	690		?	m .
+1381	2 shang	憶 (shang)	Zhou	ʔ ĭ	691		?	ʔ ĭ
+1382	2 shang	憶 (shang)	Baxter	ʔ j	691		?	ʔ j
+1383	2 shang	戸 (shang)	Zhou	ɣ .	692		?	ɣ .
+1384	2 shang	戸 (shang)	Baxter	h .	692		?	h .
+1385	2 shang	房 (shang)	Zhou	bʰ ĭw	693		?	bʰ ĭw
+1386	2 shang	房 (shang)	Baxter	b j	693		?	b j
+1387	2 shang	所 (shang)	Zhou	ʃ .	694		?	ʃ .
+1388	2 shang	所 (shang)	Baxter	sr .	694		?	sr .
+1389	2 shang	才 (shang)	Zhou	dzʰ ĭ	695		?	dzʰ ĭ
+1390	2 shang	才 (shang)	Baxter	dz j	695		?	dz j
+1391	2 shang	扶 (shang)	Zhou	bʰ ĭ	696		?	bʰ ĭ
+1392	2 shang	扶 (shang)	Baxter	b j	696		?	b j
+1393	2 shang	承 (shang)	Zhou	ʑ ĭ	697		?	ʑ ĭ
+1394	2 shang	承 (shang)	Baxter	dzy .	697		?	dzy .
+1395	2 shang	敕 (shang)	Zhou	ţʰ ĭ	698		?	ţʰ ĭ
+1396	2 shang	敕 (shang)	Baxter	trh .	698		?	trh .
+1397	2 shang	敷 (shang)	Zhou	pʰ ĭ	699		?	pʰ ĭ
+1398	2 shang	敷 (shang)	Baxter	ph j	699		?	ph j
+1399	2 shang	文 (shang)	Zhou	m ĭ	700		?	m ĭ
+1400	2 shang	文 (shang)	Baxter	m j	700		?	m j
+1401	2 shang	斯 (shang)	Zhou	s ĭ	701		?	s ĭ
+1402	2 shang	斯 (shang)	Baxter	s j	701		?	s j
+1403	2 shang	方 (shang)	Zhou	p ĭ	702		?	p ĭ
+1404	2 shang	方 (shang)	Baxter	p j	702		?	p j
+1405	2 shang	於 (shang)	Zhou	ʔ ĭ	703		?	ʔ ĭ
+1406	2 shang	於 (shang)	Baxter	ʔ j	703		?	ʔ j
+1407	2 shang	施 (shang)	Zhou	ɕ ĭ	704		?	ɕ ĭ
+1408	2 shang	施 (shang)	Baxter	sy .	704		?	sy .
+1409	2 shang	旨 (shang)	Zhou	tɕ .	705		?	tɕ .
+1410	2 shang	旨 (shang)	Baxter	tsy .	705		?	tsy .
+1411	2 shang	旬 (shang)	Zhou	z ĭw	706		?	z ĭw
+1412	2 shang	旬 (shang)	Baxter	z jw	706		?	z jw
+1413	2 shang	昌 (shang)	Zhou	tɕʰ ĭ	707		?	tɕʰ ĭ
+1414	2 shang	昌 (shang)	Baxter	tsyh .	707		?	tsyh .
+1415	2 shang	明 (shang)	Zhou	m .	708		?	m .
+1416	2 shang	明 (shang)	Baxter	m .	708		?	m .
+1417	2 shang	昨 (shang)	Zhou	dzʰ .	709		?	dzʰ .
+1418	2 shang	昨 (shang)	Baxter	dz .	709		?	dz .
+1419	2 shang	是 (shang)	Zhou	ʑ ĭ	710		?	ʑ ĭ
+1420	2 shang	是 (shang)	Baxter	dzy .	710		?	dzy .
+1421	2 shang	時 (shang)	Zhou	ʑ ĭ	711		?	ʑ ĭ
+1422	2 shang	時 (shang)	Baxter	dzy .	711		?	dzy .
+1423	2 shang	書 (shang)	Zhou	ɕ ĭ	712		?	ɕ ĭ
+1424	2 shang	書 (shang)	Baxter	sy .	712		?	sy .
+1425	2 shang	有 (shang)	Zhou	. ĭ	713		?	. ĭ
+1426	2 shang	有 (shang)	Baxter	h j	713		?	h j
+1427	2 shang	朽 (shang)	Zhou	x ĭ	714		?	x ĭ
+1428	2 shang	朽 (shang)	Baxter	x j	714		?	x j
+1429	2 shang	杜 (shang)	Zhou	dʰ u	715		?	dʰ u
+1430	2 shang	杜 (shang)	Baxter	d w	715		?	d w
+1431	2 shang	林 (shang)	Zhou	l ĭ	716		?	l ĭ
+1432	2 shang	林 (shang)	Baxter	l .	716		?	l .
+1433	2 shang	枯 (shang)	Zhou	kʰ .	717		?	kʰ .
+1434	2 shang	枯 (shang)	Baxter	kh .	717		?	kh .
+1435	2 shang	桑 (shang)	Zhou	s .	718		?	s .
+1436	2 shang	桑 (shang)	Baxter	s .	718		?	s .
+1437	2 shang	植 (shang)	Zhou	ʑ ĭ	719		?	ʑ ĭ
+1438	2 shang	植 (shang)	Baxter	dzy .	719		?	dzy .
+1439	2 shang	楚 (shang)	Zhou	ʧʰ ĭ	720		?	ʧʰ ĭ
+1440	2 shang	楚 (shang)	Baxter	tsrh j	720		?	tsrh j
+1441	2 shang	榮 (shang)	Zhou	. w	721		?	. w
+1442	2 shang	榮 (shang)	Baxter	h w	721		?	h w
+1443	2 shang	止 (shang)	Zhou	tɕ ĭ	722		?	tɕ ĭ
+1444	2 shang	止 (shang)	Baxter	tsy .	722		?	tsy .
+1445	2 shang	正 (shang)	Zhou	tɕ ĭ	723		?	tɕ ĭ
+1446	2 shang	正 (shang)	Baxter	tsy .	723		?	tsy .
+1447	2 shang	步 (shang)	Zhou	bʰ .	724		?	bʰ .
+1448	2 shang	步 (shang)	Baxter	b .	724		?	b .
+1449	2 shang	武 (shang)	Zhou	m ĭ	725		?	m ĭ
+1450	2 shang	武 (shang)	Baxter	m j	725		?	m j
+1451	2 shang	毗 (shang)	Zhou	bʰ ĭ	726		?	bʰ ĭ
+1452	2 shang	毗 (shang)	Baxter	b ji	726		?	b ji
+1453	2 shang	永 (shang)	Zhou	. ĭw	727		?	. ĭw
+1454	2 shang	永 (shang)	Baxter	h jw	727		?	h jw
+1455	2 shang	求 (shang)	Zhou	gʰ ĭw	728		?	gʰ ĭw
+1456	2 shang	求 (shang)	Baxter	g jw	728		?	g jw
+1457	2 shang	汝 (shang)	Zhou	nʑ ĭ	729		?	nʑ ĭ
+1458	2 shang	汝 (shang)	Baxter	ny .	729		?	ny .
+1459	2 shang	池 (shang)	Zhou	ɖʰ ĭ	730		?	ɖʰ ĭ
+1460	2 shang	池 (shang)	Baxter	dr j	730		?	dr j
+1461	2 shang	治 (shang)	Zhou	ɖʰ ĭ	731		?	ɖʰ ĭ
+1462	2 shang	治 (shang)	Baxter	dr j	731		?	dr j
+1463	2 shang	洛 (shang)	Zhou	l .	732		?	l .
+1464	2 shang	洛 (shang)	Baxter	l .	732		?	l .
+1465	2 shang	渠 (shang)	Zhou	gʰ ĭ	733		?	gʰ ĭ
+1466	2 shang	渠 (shang)	Baxter	g .	733		?	g .
+1467	2 shang	測 (shang)	Zhou	ʧʰ ĭ	734		?	ʧʰ ĭ
+1468	2 shang	測 (shang)	Baxter	tsrh j	734		?	tsrh j
+1469	2 shang	湯 (shang)	Zhou	tʰ .	735		?	tʰ .
+1470	2 shang	湯 (shang)	Baxter	th .	735		?	th .
+1471	2 shang	烏 (shang)	Zhou	ʔ .	736		?	ʔ .
+1472	2 shang	烏 (shang)	Baxter	ʔ .	736		?	ʔ .
+1473	2 shang	無 (shang)	Zhou	m ĭw	737		?	m ĭw
+1474	2 shang	無 (shang)	Baxter	m j	737		?	m j
+1475	2 shang	煑 (shang)	Zhou	tɕ ĭ	738		?	tɕ ĭ
+1476	2 shang	煑 (shang)	Baxter	tsy .	738		?	tsy .
+1477	2 shang	營 (shang)	Zhou	j ĭw	739		?	j ĭw
+1478	2 shang	營 (shang)	Baxter	y w	739		?	y w
+1479	2 shang	爲 (shang)	Zhou	. ĭw	740		?	. ĭw
+1480	2 shang	爲 (shang)	Baxter	h w	740		?	h w
+1481	2 shang	牀 (shang)	Zhou	dʒʰ ĭ	741		?	dʒʰ ĭ
+1482	2 shang	牀 (shang)	Baxter	dzr j	741		?	dzr j
+1483	2 shang	牛 (shang)	Zhou	ŋ ĭ	742		?	ŋ ĭ
+1484	2 shang	牛 (shang)	Baxter	ng j	742		?	ng j
+1485	2 shang	特 (shang)	Zhou	dʰ i	743		?	dʰ i
+1486	2 shang	特 (shang)	Baxter	d .	743		?	d .
+1487	2 shang	王 (shang)	Zhou	. ĭ	744		?	. ĭ
+1488	2 shang	王 (shang)	Baxter	h j	744		?	h j
+1489	2 shang	甫 (shang)	Zhou	p ĭ	745		?	p ĭ
+1490	2 shang	甫 (shang)	Baxter	p j	745		?	p j
+1491	2 shang	當 (shang)	Zhou	t .	746		?	t .
+1492	2 shang	當 (shang)	Baxter	t .	746		?	t .
+1493	2 shang	疑 (shang)	Zhou	ŋ .	747		?	ŋ .
+1494	2 shang	疑 (shang)	Baxter	ng .	747		?	ng .
+1495	2 shang	疾 (shang)	Zhou	dzʰ ĭ	748		?	dzʰ ĭ
+1496	2 shang	疾 (shang)	Baxter	dz j	748		?	dz j
+1497	2 shang	瘡 (shang)	Zhou	ʧʰ ĭ	749		?	ʧʰ ĭ
+1498	2 shang	瘡 (shang)	Baxter	tsrh j	749		?	tsrh j
+1499	2 shang	皮 (shang)	Zhou	bʰ ĭ	750		?	bʰ ĭ
+1500	2 shang	皮 (shang)	Baxter	b j	750		?	b j
+1501	2 shang	盧 (shang)	Zhou	l .	751		?	l .
+1502	2 shang	盧 (shang)	Baxter	l .	751		?	l .
+1503	2 shang	目 (shang)	Zhou	dzʰ .	752		?	dzʰ .
+1504	2 shang	目 (shang)	Baxter	dz .	752		?	dz .
+1505	2 shang	直 (shang)	Zhou	ɖʰ ĭ	753		?	ɖʰ ĭ
+1506	2 shang	直 (shang)	Baxter	dr j	753		?	dr j
+1507	2 shang	相 (shang)	Zhou	s ĭ	754		?	s ĭ
+1508	2 shang	相 (shang)	Baxter	s j	754		?	s j
+1509	2 shang	眉 (shang)	Zhou	m ĭ	755		?	m ĭ
+1510	2 shang	眉 (shang)	Baxter	m j	755		?	m j
+1511	2 shang	知 (shang)	Zhou	ţ ĭ	756		?	ţ ĭ
+1512	2 shang	知 (shang)	Baxter	tr j	756		?	tr j
+1513	2 shang	祖 (shang)	Zhou	ts u	757		?	ts u
+1514	2 shang	祖 (shang)	Baxter	ts w	757		?	ts w
+1515	2 shang	神 (shang)	Zhou	dʑʰ ĭ	758		?	dʑʰ ĭ
+1516	2 shang	神 (shang)	Baxter	zy .	758		?	zy .
+1517	2 shang	祥 (shang)	Zhou	z ĭ	759		?	z ĭ
+1518	2 shang	祥 (shang)	Baxter	z .	759		?	z .
+1519	2 shang	私 (shang)	Zhou	s ĭ	760		?	s ĭ
+1520	2 shang	私 (shang)	Baxter	s j	760		?	s j
+1521	2 shang	秦 (shang)	Zhou	dzʰ ĭ	761		?	dzʰ ĭ
+1522	2 shang	秦 (shang)	Baxter	dz .	761		?	dz .
+1523	2 shang	章 (shang)	Zhou	tɕ ĭ	762		?	tɕ ĭ
+1524	2 shang	章 (shang)	Baxter	tsy .	762		?	tsy .
+1525	2 shang	竹 (shang)	Zhou	ţ .	763		?	ţ .
+1526	2 shang	竹 (shang)	Baxter	tr .	763		?	tr .
+1527	2 shang	符 (shang)	Zhou	bʰ ĭw	764		?	bʰ ĭw
+1528	2 shang	符 (shang)	Baxter	b j	764		?	b j
+1529	2 shang	筆 (shang)	Zhou	p ĭ	765		?	p ĭ
+1530	2 shang	筆 (shang)	Baxter	p .	765		?	p .
+1531	2 shang	素 (shang)	Zhou	s .	766		?	s .
+1532	2 shang	素 (shang)	Baxter	s .	766		?	s .
+1533	2 shang	綺 (shang)	Zhou	kʰ ĭ	767		?	kʰ ĭ
+1534	2 shang	綺 (shang)	Baxter	kh j	767		?	kh j
+1535	2 shang	練 (shang)	Zhou	l i	768		?	l i
+1536	2 shang	練 (shang)	Baxter	l .	768		?	l .
+1537	2 shang	縛 (shang)	Zhou	bʰ ĭ	769		?	bʰ ĭ
+1538	2 shang	縛 (shang)	Baxter	b j	769		?	b j
+1539	2 shang	署 (shang)	Zhou	ʑ ĭ	770		?	ʑ ĭ
+1540	2 shang	署 (shang)	Baxter	dzy .	770		?	dzy .
+1541	2 shang	羊 (shang)	Zhou	j ĭ	771		?	j ĭ
+1542	2 shang	羊 (shang)	Baxter	y .	771		?	y .
+1543	2 shang	羌 (shang)	Zhou	kʰ ĭ	772		?	kʰ ĭ
+1544	2 shang	羌 (shang)	Baxter	kh j	772		?	kh j
+1545	2 shang	美 (shang)	Zhou	m ĭ	773		?	m ĭ
+1546	2 shang	美 (shang)	Baxter	m .	773		?	m .
+1547	2 shang	羽 (shang)	Zhou	. ĭ	774		?	. ĭ
+1548	2 shang	羽 (shang)	Baxter	h j	774		?	h j
+1549	2 shang	而 (shang)	Zhou	nʑ ĭ	775		?	nʑ ĭ
+1550	2 shang	而 (shang)	Baxter	ny .	775		?	ny .
+1551	2 shang	職 (shang)	Zhou	tɕ ĭ	776		?	tɕ ĭ
+1552	2 shang	職 (shang)	Baxter	tsy .	776		?	tsy .
+1553	2 shang	胡 (shang)	Zhou	ɣ .	777		?	ɣ .
+1554	2 shang	胡 (shang)	Baxter	h .	777		?	h .
+1555	2 shang	脂 (shang)	Zhou	tɕ .	778		?	tɕ .
+1556	2 shang	脂 (shang)	Baxter	tsy .	778		?	tsy .
+1557	2 shang	臧 (shang)	Zhou	ts .	779		?	ts .
+1558	2 shang	臧 (shang)	Baxter	ts .	779		?	ts .
+1559	2 shang	與 (shang)	Zhou	j ĭ	780		?	j ĭ
+1560	2 shang	與 (shang)	Baxter	y .	780		?	y .
+1561	2 shang	舉 (shang)	Zhou	k ĭ	781		?	k ĭ
+1562	2 shang	舉 (shang)	Baxter	k j	781		?	k j
+1563	2 shang	舒 (shang)	Zhou	ɕ ĭw	782		?	ɕ ĭw
+1564	2 shang	舒 (shang)	Baxter	sy w	782		?	sy w
+1565	2 shang	良 (shang)	Zhou	l ĭ	783		?	l ĭ
+1566	2 shang	良 (shang)	Baxter	l j	783		?	l j
+1567	2 shang	色 (shang)	Zhou	ʃ ĭ	784		?	ʃ ĭ
+1568	2 shang	色 (shang)	Baxter	sr j	784		?	sr j
+1569	2 shang	芳 (shang)	Zhou	pʰ ĭw	785		?	pʰ ĭw
+1570	2 shang	芳 (shang)	Baxter	ph j	785		?	ph j
+1571	2 shang	苦 (shang)	Zhou	kʰ .	786		?	kʰ .
+1572	2 shang	苦 (shang)	Baxter	kh .	786		?	kh .
+1573	2 shang	荒 (shang)	Zhou	x .	787		?	x .
+1574	2 shang	荒 (shang)	Baxter	x .	787		?	x .
+1575	2 shang	莊 (shang)	Zhou	ʧ ĭ	788		?	ʧ ĭ
+1576	2 shang	莊 (shang)	Baxter	tsr .	788		?	tsr .
+1577	2 shang	莫 (shang)	Zhou	m .	789		?	m .
+1578	2 shang	莫 (shang)	Baxter	m .	789		?	m .
+1579	2 shang	落 (shang)	Zhou	l .	790		?	l .
+1580	2 shang	落 (shang)	Baxter	l .	790		?	l .
+1581	2 shang	蒲 (shang)	Zhou	bʰ .	791		?	bʰ .
+1582	2 shang	蒲 (shang)	Baxter	b .	791		?	b .
+1583	2 shang	蒼 (shang)	Zhou	tsʰ i	792		?	tsʰ i
+1584	2 shang	蒼 (shang)	Baxter	tsh .	792		?	tsh .
+1585	2 shang	薄 (shang)	Zhou	bʰ .	793		?	bʰ .
+1586	2 shang	薄 (shang)	Baxter	b .	793		?	b .
+1587	2 shang	藏 (shang)	Zhou	dzʰ .	794		?	dzʰ .
+1588	2 shang	藏 (shang)	Baxter	dz .	794		?	dz .
+1589	2 shang	蘇 (shang)	Zhou	s i	795		?	s i
+1590	2 shang	蘇 (shang)	Baxter	s .	795		?	s .
+1591	2 shang	虎 (shang)	Zhou	x .	796		?	x .
+1592	2 shang	虎 (shang)	Baxter	x .	796		?	x .
+1593	2 shang	虚 (shang)	Zhou	x ĭ	797		?	x ĭ
+1594	2 shang	虚 (shang)	Baxter	x j	797		?	x j
+1595	2 shang	虛 (shang)	Zhou	x ĭ	798		?	x ĭ
+1596	2 shang	虛 (shang)	Baxter	x .	798		?	x .
+1597	2 shang	衣 (shang)	Zhou	ʔ ĭ	799		?	ʔ ĭ
+1598	2 shang	衣 (shang)	Baxter	ʔ j	799		?	ʔ j
+1599	2 shang	袪 (shang)	Zhou	kʰ ĭ	800		?	kʰ ĭ
+1600	2 shang	袪 (shang)	Baxter	kh j	800		?	kh j
+1601	2 shang	補 (shang)	Zhou	p u	801		?	p u
+1602	2 shang	補 (shang)	Baxter	p .	801		?	p .
+1603	2 shang	裴 (shang)	Zhou	bʰ .	802		?	bʰ .
+1604	2 shang	裴 (shang)	Baxter	b .	802		?	b .
+1605	2 shang	視 (shang)	Zhou	ʑ ĭ	803		?	ʑ ĭ
+1606	2 shang	視 (shang)	Baxter	dzy .	803		?	dzy .
+1607	2 shang	親 (shang)	Zhou	tsʰ ĭ	804		?	tsʰ ĭ
+1608	2 shang	親 (shang)	Baxter	tsh .	804		?	tsh .
+1609	2 shang	託 (shang)	Zhou	tʰ .	805		?	tʰ .
+1610	2 shang	託 (shang)	Baxter	th .	805		?	th .
+1611	2 shang	許 (shang)	Zhou	x ĭ	806		?	x ĭ
+1612	2 shang	許 (shang)	Baxter	x j	806		?	x j
+1613	2 shang	詩 (shang)	Zhou	ɕ ĭ	807		?	ɕ ĭ
+1614	2 shang	詩 (shang)	Baxter	sy .	807		?	sy .
+1615	2 shang	詳 (shang)	Zhou	z ĭu	808		?	z ĭu
+1616	2 shang	詳 (shang)	Baxter	z w	808		?	z w
+1617	2 shang	語 (shang)	Zhou	ŋ ĭ	809		?	ŋ ĭ
+1618	2 shang	語 (shang)	Baxter	ng j	809		?	ng j
+1619	2 shang	諸 (shang)	Zhou	tɕ ĭ	810		?	tɕ ĭ
+1620	2 shang	諸 (shang)	Baxter	tsy .	810		?	tsy .
+1621	2 shang	謁 (shang)	Zhou	ʔ ĭ	811		?	ʔ ĭ
+1622	2 shang	謁 (shang)	Baxter	ʔ j	811		?	ʔ j
+1623	2 shang	譬 (shang)	Zhou	pʰ ĭ	812		?	pʰ ĭ
+1624	2 shang	譬 (shang)	Baxter	ph j	812		?	ph j
+1625	2 shang	豈 (shang)	Zhou	kʰ ĭ	813		?	kʰ ĭ
+1626	2 shang	豈 (shang)	Baxter	kh j	813		?	kh j
+1627	2 shang	資 (shang)	Zhou	ts ĭ	814		?	ts ĭ
+1628	2 shang	資 (shang)	Baxter	ts j	814		?	ts j
+1629	2 shang	賞 (shang)	Zhou	ɕ ĭ	815		?	ɕ ĭ
+1630	2 shang	賞 (shang)	Baxter	sy .	815		?	sy .
+1631	2 shang	踈 (shang)	Zhou	ʃ ĭ	816		?	ʃ ĭ
+1632	2 shang	踈 (shang)	Baxter	sr .	816		?	sr .
+1633	2 shang	辝 (shang)	Zhou	z ĭ	817		?	z ĭ
+1634	2 shang	辝 (shang)	Baxter	z j	817		?	z j
+1635	2 shang	近 (shang)	Zhou	kʰ ĭ	818		?	kʰ ĭ
+1636	2 shang	近 (shang)	Baxter	kh j	818		?	kh j
+1637	2 shang	遇 (shang)	Zhou	ŋ ĭ	819		?	ŋ ĭ
+1638	2 shang	遇 (shang)	Baxter	ng j	819		?	ng j
+1639	2 shang	過 (shang)	Zhou	k ĭw	820		?	k ĭw
+1640	2 shang	過 (shang)	Baxter	k jw	820		?	k jw
+1641	2 shang	遟 (shang)	Zhou	ɖʰ ĭ	821		?	ɖʰ ĭ
+1642	2 shang	遟 (shang)	Baxter	dr j	821		?	dr j
+1643	2 shang	那 (shang)	Zhou	n .	822		?	n .
+1644	2 shang	那 (shang)	Baxter	n .	822		?	n .
+1645	2 shang	郎 (shang)	Zhou	l i	823		?	l i
+1646	2 shang	郎 (shang)	Baxter	l .	823		?	l .
+1647	2 shang	都 (shang)	Zhou	t .	824		?	t .
+1648	2 shang	都 (shang)	Baxter	t .	824		?	t .
+1649	2 shang	鄙 (shang)	Zhou	p ĭ	825		?	p ĭ
+1650	2 shang	鄙 (shang)	Baxter	p .	825		?	p .
+1651	2 shang	鉏 (shang)	Zhou	dʒʰ ĭ	826		?	dʒʰ ĭ
+1652	2 shang	鉏 (shang)	Baxter	dzr .	826		?	dzr .
+1653	2 shang	鋤 (shang)	Zhou	dʒʰ ĭ	827		?	dʒʰ ĭ
+1654	2 shang	鋤 (shang)	Baxter	dzr j	827		?	dzr j
+1655	2 shang	防 (shang)	Zhou	bʰ ĭ	828		?	bʰ ĭ
+1656	2 shang	防 (shang)	Baxter	b j	828		?	b j
+1657	2 shang	阻 (shang)	Zhou	ʧ ĭ	829		?	ʧ ĭ
+1658	2 shang	阻 (shang)	Baxter	tsr .	829		?	tsr .
+1659	2 shang	陂 (shang)	Zhou	p ĭ	830		?	p ĭ
+1660	2 shang	陂 (shang)	Baxter	p j	830		?	p j
+1661	2 shang	附 (shang)	Zhou	bʰ ĭw	831		?	bʰ ĭw
+1662	2 shang	附 (shang)	Baxter	b j	831		?	b j
+1663	2 shang	陟 (shang)	Zhou	ţ ĭ	832		?	ţ ĭ
+1664	2 shang	陟 (shang)	Baxter	tr j	832		?	tr j
+1665	2 shang	除 (shang)	Zhou	ɖʰ ĭ	833		?	ɖʰ ĭ
+1666	2 shang	除 (shang)	Baxter	dr .	833		?	dr .
+1667	2 shang	雌 (shang)	Zhou	tsʰ ĭ	834		?	tsʰ ĭ
+1668	2 shang	雌 (shang)	Baxter	tsh j	834		?	tsh j
+1669	2 shang	離 (shang)	Zhou	l ĭ	835		?	l ĭ
+1670	2 shang	離 (shang)	Baxter	l j	835		?	l j
+1671	2 shang	雨 (shang)	Zhou	. ĭw	836		?	. ĭw
+1672	2 shang	雨 (shang)	Baxter	h jw	836		?	h jw
+1673	2 shang	靡 (shang)	Zhou	m i	837		?	m i
+1674	2 shang	靡 (shang)	Baxter	m j	837		?	m j
+1675	2 shang	須 (shang)	Zhou	s ĭw	838		?	s ĭw
+1676	2 shang	須 (shang)	Baxter	s jw	838		?	s jw
+1677	2 shang	食 (shang)	Zhou	dʑʰ ĭu	839		?	dʑʰ ĭu
+1678	2 shang	食 (shang)	Baxter	zy w	839		?	zy w
+1679	2 shang	餘 (shang)	Zhou	j ĭ	840		?	j ĭ
+1680	2 shang	餘 (shang)	Baxter	y .	840		?	y .
+1681	2 shang	香 (shang)	Zhou	x ĭ	841		?	x ĭ
+1682	2 shang	香 (shang)	Baxter	x j	841		?	x j
+1683	2 shang	魚 (shang)	Zhou	ŋ ĭ	842		?	ŋ ĭ
+1684	2 shang	魚 (shang)	Baxter	ng j	842		?	ng j
+1685	2 shang	魯 (shang)	Zhou	l .	843		?	l .
+1686	2 shang	魯 (shang)	Baxter	l .	843		?	l .
+1687	2 shang	麁 (shang)	Zhou	tsʰ .	844		?	tsʰ .
+1688	2 shang	麁 (shang)	Baxter	tsh .	844		?	tsh .
+1689	2 shang	黃 (shang)	Zhou	ɣ iw	845		?	ɣ iw
+1690	2 shang	黃 (shang)	Baxter	h w	845		?	h w
+1691	2 xia	a (xia)	Zhou	. əu . ˩˥	846		?	. əu . ˩˥
+1692	2 xia	a (xia)	Baxter	. uw . H	846		?	. uw . H
+1693	2 xia	㢡 (xia)	Zhou	ĭ a ŋ ˥	847		?	ĭ a ŋ ˥
+1694	2 xia	㢡 (xia)	Baxter	j a ng X	847		?	j a ng X
+1695	2 xia	㨾 (xia)	Zhou	ĭ a ŋ ˩˥	848		?	ĭ a ŋ ˩˥
+1696	2 xia	㨾 (xia)	Baxter	. a ng H	848		?	. a ng H
+1697	2 xia	㳙 (xia)	Zhou	iw e n ˩	849		?	iw e n ˩
+1698	2 xia	㳙 (xia)	Baxter	w e n .	849		?	w e n .
+1699	2 xia	䒦 (xia)	Zhou	ĭw ɐ m ˥˩	850		?	ĭw ɐ m ˥˩
+1700	2 xia	䒦 (xia)	Baxter	j o m .	850		?	j o m .
+1701	2 xia	䕃 (xia)	Zhou	ĭ ĕ m ˩˥	851		?	ĭ ĕ m ˩˥
+1702	2 xia	䕃 (xia)	Baxter	. i m H	851		?	. i m H
+1703	2 xia	䘏 (xia)	Zhou	ĭu ĕ t .	852		?	ĭu ĕ t .
+1704	2 xia	䘏 (xia)	Baxter	w i t .	852		?	w i t .
+1705	2 xia	䫄 (xia)	Zhou	w a t .	853		?	w a t .
+1706	2 xia	䫄 (xia)	Baxter	w æ t .	853		?	w æ t .
+1707	2 xia	丁 (xia)	Zhou	i e ŋ ˩	854		?	i e ŋ ˩
+1708	2 xia	丁 (xia)	Baxter	j e ng .	854		?	j e ng .
+1709	2 xia	七 (xia)	Zhou	ĭ ĕ t .	855		?	ĭ ĕ t .
+1710	2 xia	七 (xia)	Baxter	. i t .	855		?	. i t .
+1711	2 xia	万 (xia)	Zhou	ĭ ɐ n ˩˥	856		?	ĭ ɐ n ˩˥
+1712	2 xia	万 (xia)	Baxter	j o n H	856		?	j o n H
+1713	2 xia	三 (xia)	Zhou	. ɑ m ˥˩	857		?	. ɑ m ˥˩
+1714	2 xia	三 (xia)	Baxter	. a m .	857		?	. a m .
+1715	2 xia	下 (xia)	Zhou	. a . ˥	858		?	. a . ˥
+1716	2 xia	下 (xia)	Baxter	. æ . X	858		?	. æ . X
+1717	2 xia	与 (xia)	Zhou	ĭ o . ˥	859		?	ĭ o . ˥
+1718	2 xia	与 (xia)	Baxter	. o . X	859		?	. o . X
+1719	2 xia	丙 (xia)	Zhou	ĭ ɐ ŋ ˥	860		?	ĭ ɐ ŋ ˥
+1720	2 xia	丙 (xia)	Baxter	j æ ng X	860		?	j æ ng X
+1721	2 xia	丸 (xia)	Zhou	u ɑ n ˥˩	861		?	u ɑ n ˥˩
+1722	2 xia	丸 (xia)	Baxter	w a n .	861		?	w a n .
+1723	2 xia	主 (xia)	Zhou	ĭ u . ˥	862		?	ĭ u . ˥
+1724	2 xia	主 (xia)	Baxter	j u . X	862		?	j u . X
+1725	2 xia	久 (xia)	Zhou	ĭ əu . ˥	863		?	ĭ əu . ˥
+1726	2 xia	久 (xia)	Baxter	j uw . X	863		?	j uw . X
+1727	2 xia	之 (xia)	Zhou	ĭ ə . ˩	864		?	ĭ ə . ˩
+1728	2 xia	之 (xia)	Baxter	. i . .	864		?	. i . .
+1729	2 xia	乎 (xia)	Zhou	. u . ˩	865		?	. u . ˩
+1730	2 xia	乎 (xia)	Baxter	. u . .	865		?	. u . .
+1731	2 xia	乏 (xia)	Zhou	ĭw ɐ p .	866		?	ĭw ɐ p .
+1732	2 xia	乏 (xia)	Baxter	j o p .	866		?	j o p .
+1733	2 xia	乖 (xia)	Zhou	w ɐi . ˩	867		?	w ɐi . ˩
+1734	2 xia	乖 (xia)	Baxter	w ɛj . .	867		?	w ɛj . .
+1735	2 xia	乗 (xia)	Zhou	ĭ ə ŋ ˩	868		?	ĭ ə ŋ ˩
+1736	2 xia	乗 (xia)	Baxter	. i ng .	868		?	. i ng .
+1737	2 xia	九 (xia)	Zhou	ĭ əu . ˥	869		?	ĭ əu . ˥
+1738	2 xia	九 (xia)	Baxter	j uw . X	869		?	j uw . X
+1739	2 xia	也 (xia)	Zhou	ĭ a . ˥	870		?	ĭ a . ˥
+1740	2 xia	也 (xia)	Baxter	. æ . X	870		?	. æ . X
+1741	2 xia	乾 (xia)	Zhou	ĭ ɛ n ˥˩	871		?	ĭ ɛ n ˥˩
+1742	2 xia	乾 (xia)	Baxter	j e n .	871		?	j e n .
+1743	2 xia	二 (xia)	Zhou	. i . ˩˥	872		?	. i . ˩˥
+1744	2 xia	二 (xia)	Baxter	. ij . H	872		?	. ij . H
+1745	2 xia	亘 (xia)	Zhou	. ə ŋ ˩˥	873		?	. ə ŋ ˩˥
+1746	2 xia	亘 (xia)	Baxter	. o ng H	873		?	. o ng H
+1747	2 xia	交 (xia)	Zhou	. au . ˩	874		?	. au . ˩
+1748	2 xia	交 (xia)	Baxter	. æw . .	874		?	. æw . .
+1749	2 xia	亥 (xia)	Zhou	. ɒi . ˥	875		?	. ɒi . ˥
+1750	2 xia	亥 (xia)	Baxter	. oj . X	875		?	. oj . X
+1751	2 xia	京 (xia)	Zhou	ĭ ɐ ŋ ˥˩	876		?	ĭ ɐ ŋ ˥˩
+1752	2 xia	京 (xia)	Baxter	j æ ng .	876		?	j æ ng .
+1753	2 xia	亮 (xia)	Zhou	ĭ a ŋ ˩˥	877		?	ĭ a ŋ ˩˥
+1754	2 xia	亮 (xia)	Baxter	j a ng H	877		?	j a ng H
+1755	2 xia	人 (xia)	Zhou	ĭ ĕ n ˥˩	878		?	ĭ ĕ n ˥˩
+1756	2 xia	人 (xia)	Baxter	. i n .	878		?	. i n .
+1757	2 xia	仍 (xia)	Zhou	ĭ ə ŋ ˥˩	879		?	ĭ ə ŋ ˥˩
+1758	2 xia	仍 (xia)	Baxter	. i ng .	879		?	. i ng .
+1759	2 xia	代 (xia)	Zhou	. ɒi . ˩˥	880		?	. ɒi . ˩˥
+1760	2 xia	代 (xia)	Baxter	. oj . H	880		?	. oj . H
+1761	2 xia	仲 (xia)	Zhou	ĭ u ŋ ˩˥	881		?	ĭ u ŋ ˩˥
+1762	2 xia	仲 (xia)	Baxter	j uw ng H	881		?	j uw ng H
+1763	2 xia	任 (xia)	Zhou	ĭ ĕ m ˩˥	882		?	ĭ ĕ m ˩˥
+1764	2 xia	任 (xia)	Baxter	. i m H	882		?	. i m H
+1765	2 xia	伐 (xia)	Zhou	ĭw ɐ t .	883		?	ĭw ɐ t .
+1766	2 xia	伐 (xia)	Baxter	jw o t .	883		?	jw o t .
+1767	2 xia	伯 (xia)	Zhou	. ɐ k .	884		?	. ɐ k .
+1768	2 xia	伯 (xia)	Baxter	. æ k .	884		?	. æ k .
+1769	2 xia	佃 (xia)	Zhou	i e n ˩˥	885		?	i e n ˩˥
+1770	2 xia	佃 (xia)	Baxter	. e n H	885		?	. e n H
+1771	2 xia	位 (xia)	Zhou	w i . ˩˥	886		?	w i . ˩˥
+1772	2 xia	位 (xia)	Baxter	w ij . H	886		?	w ij . H
+1773	2 xia	佐 (xia)	Zhou	. ɑ . ˩˥	887		?	. ɑ . ˩˥
+1774	2 xia	佐 (xia)	Baxter	. a . H	887		?	. a . H
+1775	2 xia	何 (xia)	Zhou	. ɑ . ˥˩	888		?	. ɑ . ˥˩
+1776	2 xia	何 (xia)	Baxter	. a . .	888		?	. a . .
+1777	2 xia	佩 (xia)	Zhou	u ɒi . ˩˥	889		?	u ɒi . ˩˥
+1778	2 xia	佩 (xia)	Baxter	w oj . H	889		?	w oj . H
+1779	2 xia	例 (xia)	Zhou	ĭ ɛi . ˩˥	890		?	ĭ ɛi . ˩˥
+1780	2 xia	例 (xia)	Baxter	j ej . H	890		?	j ej . H
+1781	2 xia	侯 (xia)	Zhou	. əu . ˥˩	891		?	. əu . ˥˩
+1782	2 xia	侯 (xia)	Baxter	. uw . .	891		?	. uw . .
+1783	2 xia	俄 (xia)	Zhou	. ɑ . ˥˩	892		?	. ɑ . ˥˩
+1784	2 xia	俄 (xia)	Baxter	. a . .	892		?	. a . .
+1785	2 xia	俞 (xia)	Zhou	ĭ u . ˥˩	893		?	ĭ u . ˥˩
+1786	2 xia	俞 (xia)	Baxter	j u . .	893		?	j u . .
+1787	2 xia	俱 (xia)	Zhou	ĭ u . ˩	894		?	ĭ u . ˩
+1788	2 xia	俱 (xia)	Baxter	j u . .	894		?	j u . .
+1789	2 xia	俾 (xia)	Zhou	ĭ e . ˥	895		?	ĭ e . ˥
+1790	2 xia	俾 (xia)	Baxter	j ie . X	895		?	j ie . X
+1791	2 xia	候 (xia)	Zhou	. əu . ˩˥	896		?	. əu . ˩˥
+1792	2 xia	候 (xia)	Baxter	. uw . H	896		?	. uw . H
+1793	2 xia	倦 (xia)	Zhou	ĭw ɛ n ˩˥	897		?	ĭw ɛ n ˩˥
+1794	2 xia	倦 (xia)	Baxter	jw e n H	897		?	jw e n H
+1795	2 xia	倨 (xia)	Zhou	ĭ o . ˩˥	898		?	ĭ o . ˩˥
+1796	2 xia	倨 (xia)	Baxter	j o . H	898		?	j o . H
+1797	2 xia	倫 (xia)	Zhou	ĭu ĕ n ˥˩	899		?	ĭu ĕ n ˥˩
+1798	2 xia	倫 (xia)	Baxter	w i n .	899		?	w i n .
+1799	2 xia	偉 (xia)	Zhou	ĭw əi . ˥	900		?	ĭw əi . ˥
+1800	2 xia	偉 (xia)	Baxter	jw ɨj . X	900		?	jw ɨj . X
+1801	2 xia	側 (xia)	Zhou	ĭ ə k .	901		?	ĭ ə k .
+1802	2 xia	側 (xia)	Baxter	. i k .	901		?	. i k .
+1803	2 xia	傾 (xia)	Zhou	ĭw ɛ ŋ ˩	902		?	ĭw ɛ ŋ ˩
+1804	2 xia	傾 (xia)	Baxter	w e ng .	902		?	w e ng .
+1805	2 xia	僞 (xia)	Zhou	ĭw e . ˩˥	903		?	ĭw e . ˩˥
+1806	2 xia	僞 (xia)	Baxter	w e . H	903		?	w e . H
+1807	2 xia	僦 (xia)	Zhou	ĭ əu . ˩˥	904		?	ĭ əu . ˩˥
+1808	2 xia	僦 (xia)	Baxter	j uw . H	904		?	j uw . H
+1809	2 xia	儉 (xia)	Zhou	ĭ ɛ m ˥	905		?	ĭ ɛ m ˥
+1810	2 xia	儉 (xia)	Baxter	j e m X	905		?	j e m X
+1811	2 xia	兆 (xia)	Zhou	ĭ ɛu . ˥	906		?	ĭ ɛu . ˥
+1812	2 xia	兆 (xia)	Baxter	j ew . X	906		?	j ew . X
+1813	2 xia	先 (xia)	Zhou	i e n ˩	907		?	i e n ˩
+1814	2 xia	先 (xia)	Baxter	. e n .	907		?	. e n .
+1815	2 xia	光 (xia)	Zhou	. ɑ ŋ ˩	908		?	. ɑ ŋ ˩
+1816	2 xia	光 (xia)	Baxter	. a ng .	908		?	. a ng .
+1817	2 xia	兖 (xia)	Zhou	ĭw ɛ n ˥	909		?	ĭw ɛ n ˥
+1818	2 xia	兖 (xia)	Baxter	jw e n X	909		?	jw e n X
+1819	2 xia	入 (xia)	Zhou	ĭ ĕ p .	910		?	ĭ ĕ p .
+1820	2 xia	入 (xia)	Baxter	. i p .	910		?	. i p .
+1821	2 xia	兩 (xia)	Zhou	ĭ a ŋ ˥	911		?	ĭ a ŋ ˥
+1822	2 xia	兩 (xia)	Baxter	. a ng X	911		?	. a ng X
+1823	2 xia	八 (xia)	Zhou	. æ t .	912		?	. æ t .
+1824	2 xia	八 (xia)	Baxter	. ɛ t .	912		?	. ɛ t .
+1825	2 xia	公 (xia)	Zhou	. u ŋ ˩	913		?	. u ŋ ˩
+1826	2 xia	公 (xia)	Baxter	. uw ng .	913		?	. uw ng .
+1827	2 xia	六 (xia)	Zhou	ĭ u k .	914		?	ĭ u k .
+1828	2 xia	六 (xia)	Baxter	j uw k .	914		?	j uw k .
+1829	2 xia	兮 (xia)	Zhou	i ei . ˩	915		?	i ei . ˩
+1830	2 xia	兮 (xia)	Baxter	. ej . .	915		?	. ej . .
+1831	2 xia	兵 (xia)	Zhou	ĭ ɐ ŋ ˩	916		?	ĭ ɐ ŋ ˩
+1832	2 xia	兵 (xia)	Baxter	j æ ng .	916		?	j æ ng .
+1833	2 xia	其 (xia)	Zhou	ĭ ə . ˩	917		?	ĭ ə . ˩
+1834	2 xia	其 (xia)	Baxter	. i . .	917		?	. i . .
+1835	2 xia	具 (xia)	Zhou	ĭ u . ˩˥	918		?	ĭ u . ˩˥
+1836	2 xia	具 (xia)	Baxter	j u . H	918		?	j u . H
+1837	2 xia	典 (xia)	Zhou	i e n ˥	919		?	i e n ˥
+1838	2 xia	典 (xia)	Baxter	. e n X	919		?	. e n X
+1839	2 xia	兹 (xia)	Zhou	ĭ ə . ˥˩	920		?	ĭ ə . ˥˩
+1840	2 xia	兹 (xia)	Baxter	. i . .	920		?	. i . .
+1841	2 xia	兼 (xia)	Zhou	i e m ˥˩	921		?	i e m ˥˩
+1842	2 xia	兼 (xia)	Baxter	. e m .	921		?	. e m .
+1843	2 xia	冀 (xia)	Zhou	. i . ˩˥	922		?	. i . ˩˥
+1844	2 xia	冀 (xia)	Baxter	. ij . H	922		?	. ij . H
+1845	2 xia	冉 (xia)	Zhou	ĭ ɛ m ˥	923		?	ĭ ɛ m ˥
+1846	2 xia	冉 (xia)	Baxter	j e m X	923		?	j e m X
+1847	2 xia	冬 (xia)	Zhou	u o ŋ ˥˩	924		?	u o ŋ ˥˩
+1848	2 xia	冬 (xia)	Baxter	. ow ng .	924		?	. ow ng .
+1849	2 xia	冰 (xia)	Zhou	ĭ ə ŋ ˩	925		?	ĭ ə ŋ ˩
+1850	2 xia	冰 (xia)	Baxter	. i ng .	925		?	. i ng .
+1851	2 xia	几 (xia)	Zhou	. i . ˥	926		?	. i . ˥
+1852	2 xia	几 (xia)	Baxter	. ij . X	926		?	. ij . X
+1853	2 xia	刀 (xia)	Zhou	. ɑu . ˩	927		?	. ɑu . ˩
+1854	2 xia	刀 (xia)	Baxter	. aw . .	927		?	. aw . .
+1855	2 xia	刃 (xia)	Zhou	ĭ ĕ n ˩˥	928		?	ĭ ĕ n ˩˥
+1856	2 xia	刃 (xia)	Baxter	. i n H	928		?	. i n H
+1857	2 xia	分 (xia)	Zhou	ĭ uə n ˩	929		?	ĭ uə n ˩
+1858	2 xia	分 (xia)	Baxter	j u n .	929		?	j u n .
+1859	2 xia	刑 (xia)	Zhou	i e ŋ ˥˩	930		?	i e ŋ ˥˩
+1860	2 xia	刑 (xia)	Baxter	. e ng .	930		?	. e ng .
+1861	2 xia	列 (xia)	Zhou	ĭ ɛ t .	931		?	ĭ ɛ t .
+1862	2 xia	列 (xia)	Baxter	j e t .	931		?	j e t .
+1863	2 xia	別 (xia)	Zhou	ĭ ɛ t .	932		?	ĭ ɛ t .
+1864	2 xia	別 (xia)	Baxter	j e t .	932		?	j e t .
+1865	2 xia	利 (xia)	Zhou	. i . ˩˥	933		?	. i . ˩˥
+1866	2 xia	利 (xia)	Baxter	. ij . H	933		?	. ij . H
+1867	2 xia	到 (xia)	Zhou	. ɑu . ˩˥	934		?	. ɑu . ˩˥
+1868	2 xia	到 (xia)	Baxter	. aw . H	934		?	. aw . H
+1869	2 xia	則 (xia)	Zhou	. ə k .	935		?	. ə k .
+1870	2 xia	則 (xia)	Baxter	. o k .	935		?	. o k .
+1871	2 xia	前 (xia)	Zhou	i e n ˥˩	936		?	i e n ˥˩
+1872	2 xia	前 (xia)	Baxter	. e n .	936		?	. e n .
+1873	2 xia	副 (xia)	Zhou	ĭ əu . ˩˥	937		?	ĭ əu . ˩˥
+1874	2 xia	副 (xia)	Baxter	j uw . H	937		?	j uw . H
+1875	2 xia	割 (xia)	Zhou	. ɑ t .	938		?	. ɑ t .
+1876	2 xia	割 (xia)	Baxter	. a t .	938		?	. a t .
+1877	2 xia	劇 (xia)	Zhou	ĭ ɐ k .	939		?	ĭ ɐ k .
+1878	2 xia	劇 (xia)	Baxter	j æ k .	939		?	j æ k .
+1879	2 xia	劒 (xia)	Zhou	ĭ ɐ m ˩˥	940		?	ĭ ɐ m ˩˥
+1880	2 xia	劒 (xia)	Baxter	j o m H	940		?	j o m H
+1881	2 xia	力 (xia)	Zhou	ĭ ə k .	941		?	ĭ ə k .
+1882	2 xia	力 (xia)	Baxter	. i k .	941		?	. i k .
+1883	2 xia	加 (xia)	Zhou	. a . ˥˩	942		?	. a . ˥˩
+1884	2 xia	加 (xia)	Baxter	. æ . .	942		?	. æ . .
+1885	2 xia	勞 (xia)	Zhou	. ɑu . ˩	943		?	. ɑu . ˩
+1886	2 xia	勞 (xia)	Baxter	. aw . .	943		?	. aw . .
+1887	2 xia	勿 (xia)	Zhou	ĭ uə t .	944		?	ĭ uə t .
+1888	2 xia	勿 (xia)	Baxter	j u t .	944		?	j u t .
+1889	2 xia	化 (xia)	Zhou	w a . ˩˥	945		?	w a . ˩˥
+1890	2 xia	化 (xia)	Baxter	w æ . H	945		?	w æ . H
+1891	2 xia	北 (xia)	Zhou	. ə k .	946		?	. ə k .
+1892	2 xia	北 (xia)	Baxter	. o k .	946		?	. o k .
+1893	2 xia	匪 (xia)	Zhou	ĭw əi . ˥	947		?	ĭw əi . ˥
+1894	2 xia	匪 (xia)	Baxter	j ɨj . X	947		?	j ɨj . X
+1895	2 xia	半 (xia)	Zhou	u ɑ n ˩˥	948		?	u ɑ n ˩˥
+1896	2 xia	半 (xia)	Baxter	. a n H	948		?	. a n H
+1897	2 xia	協 (xia)	Zhou	i e p .	949		?	i e p .
+1898	2 xia	協 (xia)	Baxter	j e p .	949		?	j e p .
+1899	2 xia	博 (xia)	Zhou	u ɑ k .	950		?	u ɑ k .
+1900	2 xia	博 (xia)	Baxter	w a k .	950		?	w a k .
+1901	2 xia	卜 (xia)	Zhou	. u k .	951		?	. u k .
+1902	2 xia	卜 (xia)	Baxter	. uw k .	951		?	. uw k .
+1903	2 xia	即 (xia)	Zhou	ĭ ə k .	952		?	ĭ ə k .
+1904	2 xia	即 (xia)	Baxter	. i k .	952		?	. i k .
+1905	2 xia	卷 (xia)	Zhou	ĭw ɛ n ˩˥	953		?	ĭw ɛ n ˩˥
+1906	2 xia	卷 (xia)	Baxter	jw e n H	953		?	jw e n H
+1907	2 xia	卿 (xia)	Zhou	ĭ ɐ ŋ ˥˩	954		?	ĭ ɐ ŋ ˥˩
+1908	2 xia	卿 (xia)	Baxter	j æ ng .	954		?	j æ ng .
+1909	2 xia	厚 (xia)	Zhou	. əu . ˥	955		?	. əu . ˥
+1910	2 xia	厚 (xia)	Baxter	. uw . X	955		?	. uw . X
+1911	2 xia	厥 (xia)	Zhou	ĭw ɐ t .	956		?	ĭw ɐ t .
+1912	2 xia	厥 (xia)	Baxter	jw o t .	956		?	jw o t .
+1913	2 xia	口 (xia)	Zhou	. əu . ˥	957		?	. əu . ˥
+1914	2 xia	口 (xia)	Baxter	. uw . X	957		?	. uw . X
+1915	2 xia	古 (xia)	Zhou	. u . ˥	958		?	. u . ˥
+1916	2 xia	古 (xia)	Baxter	. u . X	958		?	. u . X
+1917	2 xia	句 (xia)	Zhou	ĭ u . ˩˥	959		?	ĭ u . ˩˥
+1918	2 xia	句 (xia)	Baxter	j u . H	959		?	j u . H
+1919	2 xia	召 (xia)	Zhou	ĭ ɛu . ˩˥	960		?	ĭ ɛu . ˩˥
+1920	2 xia	召 (xia)	Baxter	j ew . H	960		?	j ew . H
+1921	2 xia	可 (xia)	Zhou	. ɑ . ˥	961		?	. ɑ . ˥
+1922	2 xia	可 (xia)	Baxter	. a . X	961		?	. a . X
+1923	2 xia	史 (xia)	Zhou	ĭ ə . ˥	962		?	ĭ ə . ˥
+1924	2 xia	史 (xia)	Baxter	. i . X	962		?	. i . X
+1925	2 xia	各 (xia)	Zhou	. ɑ k .	963		?	. ɑ k .
+1926	2 xia	各 (xia)	Baxter	. a k .	963		?	. a k .
+1927	2 xia	合 (xia)	Zhou	. ɒ p .	964		?	. ɒ p .
+1928	2 xia	合 (xia)	Baxter	. o p .	964		?	. o p .
+1929	2 xia	吉 (xia)	Zhou	ĭ ĕ t .	965		?	ĭ ĕ t .
+1930	2 xia	吉 (xia)	Baxter	j i t .	965		?	j i t .
+1931	2 xia	后 (xia)	Zhou	. əu . ˥	966		?	. əu . ˥
+1932	2 xia	后 (xia)	Baxter	. uw . X	966		?	. uw . X
+1933	2 xia	吏 (xia)	Zhou	ĭ ə . ˩˥	967		?	ĭ ə . ˩˥
+1934	2 xia	吏 (xia)	Baxter	. i . H	967		?	. i . H
+1935	2 xia	吕 (xia)	Zhou	ĭ o . ˥	968		?	ĭ o . ˥
+1936	2 xia	吕 (xia)	Baxter	j o . X	968		?	j o . X
+1937	2 xia	吟 (xia)	Zhou	ĭ ĕ m ˥˩	969		?	ĭ ĕ m ˥˩
+1938	2 xia	吟 (xia)	Baxter	. i m .	969		?	. i m .
+1939	2 xia	含 (xia)	Zhou	. ɒ m ˥˩	970		?	. ɒ m ˥˩
+1940	2 xia	含 (xia)	Baxter	. o m .	970		?	. o m .
+1941	2 xia	吳 (xia)	Zhou	. u . ˩	971		?	. u . ˩
+1942	2 xia	吳 (xia)	Baxter	. u . .	971		?	. u . .
+1943	2 xia	吻 (xia)	Zhou	ĭu ə n ˥	972		?	ĭu ə n ˥
+1944	2 xia	吻 (xia)	Baxter	j u n X	972		?	j u n X
+1945	2 xia	周 (xia)	Zhou	ĭ əu . ˩	973		?	ĭ əu . ˩
+1946	2 xia	周 (xia)	Baxter	. uw . .	973		?	. uw . .
+1947	2 xia	味 (xia)	Zhou	ĭw əi . ˩˥	974		?	ĭw əi . ˩˥
+1948	2 xia	味 (xia)	Baxter	j ɨj . H	974		?	j ɨj . H
+1949	2 xia	命 (xia)	Zhou	ĭ ɐ ŋ ˩˥	975		?	ĭ ɐ ŋ ˩˥
+1950	2 xia	命 (xia)	Baxter	j æ ng H	975		?	j æ ng H
+1951	2 xia	哀 (xia)	Zhou	. ɒi . ˩	976		?	. ɒi . ˩
+1952	2 xia	哀 (xia)	Baxter	. oj . .	976		?	. oj . .
+1953	2 xia	哉 (xia)	Zhou	. ɒi . ˩	977		?	. ɒi . ˩
+1954	2 xia	哉 (xia)	Baxter	. oj . .	977		?	. oj . .
+1955	2 xia	問 (xia)	Zhou	ĭ uə n ˩˥	978		?	ĭ uə n ˩˥
+1956	2 xia	問 (xia)	Baxter	j u n H	978		?	j u n H
+1957	2 xia	啓 (xia)	Zhou	i ei . ˥	979		?	i ei . ˥
+1958	2 xia	啓 (xia)	Baxter	. ej . X	979		?	. ej . X
+1959	2 xia	喝 (xia)	Zhou	. æi . ˩˥	980		?	. æi . ˩˥
+1960	2 xia	喝 (xia)	Baxter	. æj . H	980		?	. æj . H
+1961	2 xia	喬 (xia)	Zhou	ĭ ɛu . ˥˩	981		?	ĭ ɛu . ˥˩
+1962	2 xia	喬 (xia)	Baxter	j ew . .	981		?	j ew . .
+1963	2 xia	嗟 (xia)	Zhou	ĭ a . ˩	982		?	ĭ a . ˩
+1964	2 xia	嗟 (xia)	Baxter	j æ . .	982		?	j æ . .
+1965	2 xia	嘯 (xia)	Zhou	i eu . ˩˥	983		?	i eu . ˩˥
+1966	2 xia	嘯 (xia)	Baxter	. ew . H	983		?	. ew . H
+1967	2 xia	回 (xia)	Zhou	u ɒi . ˥˩	984		?	u ɒi . ˥˩
+1968	2 xia	回 (xia)	Baxter	w oj . .	984		?	w oj . .
+1969	2 xia	困 (xia)	Zhou	u ə n ˩˥	985		?	u ə n ˩˥
+1970	2 xia	困 (xia)	Baxter	w o n H	985		?	w o n H
+1971	2 xia	國 (xia)	Zhou	u ə k .	986		?	u ə k .
+1972	2 xia	國 (xia)	Baxter	w i k .	986		?	w i k .
+1973	2 xia	垂 (xia)	Zhou	ĭw e . ˥˩	987		?	ĭw e . ˥˩
+1974	2 xia	垂 (xia)	Baxter	w e . .	987		?	w e . .
+1975	2 xia	執 (xia)	Zhou	ĭ ĕ p .	988		?	ĭ ĕ p .
+1976	2 xia	執 (xia)	Baxter	. i p .	988		?	. i p .
+1977	2 xia	堅 (xia)	Zhou	. ie n ˥˩	989		?	. ie n ˥˩
+1978	2 xia	堅 (xia)	Baxter	. e n .	989		?	. e n .
+1979	2 xia	堯 (xia)	Zhou	i eu . ˥˩	990		?	i eu . ˥˩
+1980	2 xia	堯 (xia)	Baxter	. ew . .	990		?	. ew . .
+1981	2 xia	報 (xia)	Zhou	. ɑu . ˩˥	991		?	. ɑu . ˩˥
+1982	2 xia	報 (xia)	Baxter	. aw . H	991		?	. aw . H
+1983	2 xia	墨 (xia)	Zhou	. ə k .	992		?	. ə k .
+1984	2 xia	墨 (xia)	Baxter	. o k .	992		?	. o k .
+1985	2 xia	壞 (xia)	Zhou	w ɐi . ˩˥	993		?	w ɐi . ˩˥
+1986	2 xia	壞 (xia)	Baxter	w ɛj . H	993		?	w ɛj . H
+1987	2 xia	士 (xia)	Zhou	ĭ ə . ˥	994		?	ĭ ə . ˥
+1988	2 xia	士 (xia)	Baxter	. i . X	994		?	. i . X
+1989	2 xia	外 (xia)	Zhou	u ɑi . ˩˥	995		?	u ɑi . ˩˥
+1990	2 xia	外 (xia)	Baxter	w aj . H	995		?	w aj . H
+1991	2 xia	夜 (xia)	Zhou	ĭ a . ˩˥	996		?	ĭ a . ˩˥
+1992	2 xia	夜 (xia)	Baxter	j æ . H	996		?	j æ . H
+1993	2 xia	太 (xia)	Zhou	. ɑi . ˩˥	997		?	. ɑi . ˩˥
+1994	2 xia	太 (xia)	Baxter	. aj . H	997		?	. aj . H
+1995	2 xia	夫 (xia)	Zhou	ĭ u . ˩	998		?	ĭ u . ˩
+1996	2 xia	夫 (xia)	Baxter	j u . .	998		?	j u . .
+1997	2 xia	夬 (xia)	Zhou	w æi . ˩˥	999		?	w æi . ˩˥
+1998	2 xia	夬 (xia)	Baxter	w æj . H	999		?	w æj . H
+1999	2 xia	夷 (xia)	Zhou	. i . ˥˩	1000		?	. i . ˥˩
+2000	2 xia	夷 (xia)	Baxter	. ij . .	1000		?	. ij . .
+2001	2 xia	夾 (xia)	Zhou	. ɐ p .	1001		?	. ɐ p .
+2002	2 xia	夾 (xia)	Baxter	. ɛ p .	1001		?	. ɛ p .
+2003	2 xia	奄 (xia)	Zhou	ĭ ɛ m ˥	1002		?	ĭ ɛ m ˥
+2004	2 xia	奄 (xia)	Baxter	j e m X	1002		?	j e m X
+2005	2 xia	奚 (xia)	Zhou	i ei . ˥˩	1003		?	i ei . ˥˩
+2006	2 xia	奚 (xia)	Baxter	. ej . .	1003		?	. ej . .
+2007	2 xia	奢 (xia)	Zhou	ĭ a . ˥˩	1004		?	ĭ a . ˥˩
+2008	2 xia	奢 (xia)	Baxter	. æ . .	1004		?	. æ . .
+2009	2 xia	妄 (xia)	Zhou	ĭw a ŋ ˩˥	1005		?	ĭw a ŋ ˩˥
+2010	2 xia	妄 (xia)	Baxter	j a ng H	1005		?	j a ng H
+2011	2 xia	妙 (xia)	Zhou	ĭ ɛu . ˩˥	1006		?	ĭ ɛu . ˩˥
+2012	2 xia	妙 (xia)	Baxter	j ew . H	1006		?	j ew . H
+2013	2 xia	姐 (xia)	Zhou	ĭ a . ˥	1007		?	ĭ a . ˥
+2014	2 xia	姐 (xia)	Baxter	j æ . X	1007		?	j æ . X
+2015	2 xia	姑 (xia)	Zhou	. u . ˥˩	1008		?	. u . ˥˩
+2016	2 xia	姑 (xia)	Baxter	. u . .	1008		?	. u . .
+2017	2 xia	委 (xia)	Zhou	ĭw e . ˥	1009		?	ĭw e . ˥
+2018	2 xia	委 (xia)	Baxter	jw e . X	1009		?	jw e . X
+2019	2 xia	媧 (xia)	Zhou	w ai . ˥˩	1010		?	w ai . ˥˩
+2020	2 xia	媧 (xia)	Baxter	w ɛ . .	1010		?	w ɛ . .
+2021	2 xia	嫁 (xia)	Zhou	. a . ˩˥	1011		?	. a . ˩˥
+2022	2 xia	嫁 (xia)	Baxter	. æ . H	1011		?	. æ . H
+2023	2 xia	嬌 (xia)	Zhou	ĭ ɛu . ˩	1012		?	ĭ ɛu . ˩
+2024	2 xia	嬌 (xia)	Baxter	j ew . .	1012		?	j ew . .
+2025	2 xia	孕 (xia)	Zhou	ĭ ə ŋ ˩˥	1013		?	ĭ ə ŋ ˩˥
+2026	2 xia	孕 (xia)	Baxter	. i ng H	1013		?	. i ng H
+2027	2 xia	孝 (xia)	Zhou	. au . ˩˥	1014		?	. au . ˩˥
+2028	2 xia	孝 (xia)	Baxter	. æw . H	1014		?	. æw . H
+2029	2 xia	孟 (xia)	Zhou	. ɐ ŋ ˩˥	1015		?	. ɐ ŋ ˩˥
+2030	2 xia	孟 (xia)	Baxter	. æ ng H	1015		?	. æ ng H
+2031	2 xia	季 (xia)	Zhou	w i . ˩˥	1016		?	w i . ˩˥
+2032	2 xia	季 (xia)	Baxter	jw ij . H	1016		?	jw ij . H
+2033	2 xia	孤 (xia)	Zhou	. u . ˥˩	1017		?	. u . ˥˩
+2034	2 xia	孤 (xia)	Baxter	. u . .	1017		?	. u . .
+2035	2 xia	安 (xia)	Zhou	. ɑ n ˩	1018		?	. ɑ n ˩
+2036	2 xia	安 (xia)	Baxter	. a n .	1018		?	. a n .
+2037	2 xia	宋 (xia)	Zhou	u o ŋ ˩˥	1019		?	u o ŋ ˩˥
+2038	2 xia	宋 (xia)	Baxter	. ow ng H	1019		?	. ow ng H
+2039	2 xia	宕 (xia)	Zhou	. ɑ ŋ ˩˥	1020		?	. ɑ ŋ ˩˥
+2040	2 xia	宕 (xia)	Baxter	. a ng H	1020		?	. a ng H
+2041	2 xia	宗 (xia)	Zhou	u o ŋ ˥˩	1021		?	u o ŋ ˥˩
+2042	2 xia	宗 (xia)	Baxter	. ow ng .	1021		?	. ow ng .
+2043	2 xia	官 (xia)	Zhou	u ɑ n ˥˩	1022		?	u ɑ n ˥˩
+2044	2 xia	官 (xia)	Baxter	w a n .	1022		?	w a n .
+2045	2 xia	定 (xia)	Zhou	i e ŋ ˩˥	1023		?	i e ŋ ˩˥
+2046	2 xia	定 (xia)	Baxter	. e ng H	1023		?	. e ng H
+2047	2 xia	宜 (xia)	Zhou	ĭ e . ˥˩	1024		?	ĭ e . ˥˩
+2048	2 xia	宜 (xia)	Baxter	j e . .	1024		?	j e . .
+2049	2 xia	宣 (xia)	Zhou	ĭw ɛ n ˩	1025		?	ĭw ɛ n ˩
+2050	2 xia	宣 (xia)	Baxter	jw e n .	1025		?	jw e n .
+2051	2 xia	宰 (xia)	Zhou	. ɒi . ˥	1026		?	. ɒi . ˥
+2052	2 xia	宰 (xia)	Baxter	. oj . X	1026		?	. oj . X
+2053	2 xia	容 (xia)	Zhou	ĭw o ŋ ˥˩	1027		?	ĭw o ŋ ˥˩
+2054	2 xia	容 (xia)	Baxter	j ow ng .	1027		?	j ow ng .
+2055	2 xia	寄 (xia)	Zhou	ĭ e . ˩˥	1028		?	ĭ e . ˩˥
+2056	2 xia	寄 (xia)	Baxter	j e . H	1028		?	j e . H
+2057	2 xia	密 (xia)	Zhou	ĭ ĕ t .	1029		?	ĭ ĕ t .
+2058	2 xia	密 (xia)	Baxter	. i t .	1029		?	. i t .
+2059	2 xia	寒 (xia)	Zhou	. ɑ n ˥˩	1030		?	. ɑ n ˥˩
+2060	2 xia	寒 (xia)	Baxter	. a n .	1030		?	. a n .
+2061	2 xia	寡 (xia)	Zhou	w a . ˥	1031		?	w a . ˥
+2062	2 xia	寡 (xia)	Baxter	w æ . X	1031		?	w æ . X
+2063	2 xia	封 (xia)	Zhou	ĭw o ŋ ˩	1032		?	ĭw o ŋ ˩
+2064	2 xia	封 (xia)	Baxter	. ow ng .	1032		?	. ow ng .
+2065	2 xia	尋 (xia)	Zhou	ĭ ĕ m ˩	1033		?	ĭ ĕ m ˩
+2066	2 xia	尋 (xia)	Baxter	. i m .	1033		?	. i m .
+2067	2 xia	對 (xia)	Zhou	u ɒi . ˩˥	1034		?	u ɒi . ˩˥
+2068	2 xia	對 (xia)	Baxter	w oj . H	1034		?	w oj . H
+2069	2 xia	導 (xia)	Zhou	. ɑu . ˩˥	1035		?	. ɑu . ˩˥
+2070	2 xia	導 (xia)	Baxter	. aw . H	1035		?	. aw . H
+2071	2 xia	小 (xia)	Zhou	ĭ ɛu . ˥	1036		?	ĭ ɛu . ˥
+2072	2 xia	小 (xia)	Baxter	j ew . X	1036		?	j ew . X
+2073	2 xia	少 (xia)	Zhou	ĭ ɛu . ˥	1037		?	ĭ ɛu . ˥
+2074	2 xia	少 (xia)	Baxter	. ew . X	1037		?	. ew . X
+2075	2 xia	尤 (xia)	Zhou	ĭ əu . ˥˩	1038		?	ĭ əu . ˥˩
+2076	2 xia	尤 (xia)	Baxter	j uw . .	1038		?	j uw . .
+2077	2 xia	尹 (xia)	Zhou	ĭu ĕ n ˥	1039		?	ĭu ĕ n ˥
+2078	2 xia	尹 (xia)	Baxter	w i n X	1039		?	w i n X
+2079	2 xia	尾 (xia)	Zhou	ĭw əi . ˥	1040		?	ĭw əi . ˥
+2080	2 xia	尾 (xia)	Baxter	j ɨj . X	1040		?	j ɨj . X
+2081	2 xia	居 (xia)	Zhou	ĭ o . ˥˩	1041		?	ĭ o . ˥˩
+2082	2 xia	居 (xia)	Baxter	j o . .	1041		?	j o . .
+2083	2 xia	屑 (xia)	Zhou	i e t .	1042		?	i e t .
+2084	2 xia	屑 (xia)	Baxter	. e t .	1042		?	. e t .
+2085	2 xia	展 (xia)	Zhou	ĭ ɛ n ˥	1043		?	ĭ ɛ n ˥
+2086	2 xia	展 (xia)	Baxter	j e n X	1043		?	j e n X
+2087	2 xia	履 (xia)	Zhou	. i . ˥	1044		?	. i . ˥
+2088	2 xia	履 (xia)	Baxter	. ij . X	1044		?	. ij . X
+2089	2 xia	岡 (xia)	Zhou	. ɑ ŋ ˥˩	1045		?	. ɑ ŋ ˥˩
+2090	2 xia	岡 (xia)	Baxter	. a ng .	1045		?	. a ng .
+2091	2 xia	岳 (xia)	Zhou	. ɔ k .	1046		?	. ɔ k .
+2092	2 xia	岳 (xia)	Baxter	. æw k .	1046		?	. æw k .
+2093	2 xia	崩 (xia)	Zhou	. ə ŋ ˩	1047		?	. ə ŋ ˩
+2094	2 xia	崩 (xia)	Baxter	. o ng .	1047		?	. o ng .
+2095	2 xia	巧 (xia)	Zhou	. au . ˥	1048		?	. au . ˥
+2096	2 xia	巧 (xia)	Baxter	. æw . X	1048		?	. æw . X
+2097	2 xia	巨 (xia)	Zhou	ĭ o . ˥	1049		?	ĭ o . ˥
+2098	2 xia	巨 (xia)	Baxter	j o . X	1049		?	j o . X
+2099	2 xia	己 (xia)	Zhou	ĭ ə . ˥	1050		?	ĭ ə . ˥
+2100	2 xia	己 (xia)	Baxter	. i . X	1050		?	. i . X
+2101	2 xia	巷 (xia)	Zhou	. ɔ ŋ ˩˥	1051		?	. ɔ ŋ ˩˥
+2102	2 xia	巷 (xia)	Baxter	. æw ng H	1051		?	. æw ng H
+2103	2 xia	巾 (xia)	Zhou	ĭ ĕ n ˩	1052		?	ĭ ĕ n ˩
+2104	2 xia	巾 (xia)	Baxter	. i n .	1052		?	. i n .
+2105	2 xia	市 (xia)	Zhou	ĭ ə . ˥	1053		?	ĭ ə . ˥
+2106	2 xia	市 (xia)	Baxter	. i . X	1053		?	. i . X
+2107	2 xia	希 (xia)	Zhou	ĭ əi . ˥˩	1054		?	ĭ əi . ˥˩
+2108	2 xia	希 (xia)	Baxter	j ɨj . .	1054		?	j ɨj . .
+2109	2 xia	幰 (xia)	Zhou	ĭ ɐ n ˥	1055		?	ĭ ɐ n ˥
+2110	2 xia	幰 (xia)	Baxter	j o n X	1055		?	j o n X
+2111	2 xia	干 (xia)	Zhou	. ɑ n ˩	1056		?	. ɑ n ˩
+2112	2 xia	干 (xia)	Baxter	. a n .	1056		?	. a n .
+2113	2 xia	年 (xia)	Zhou	i e n ˩	1057		?	i e n ˩
+2114	2 xia	年 (xia)	Baxter	. e n .	1057		?	. e n .
+2115	2 xia	并 (xia)	Zhou	ĭ ɛ ŋ ˩	1058		?	ĭ ɛ ŋ ˩
+2116	2 xia	并 (xia)	Baxter	j ie ng .	1058		?	j ie ng .
+2117	2 xia	幸 (xia)	Zhou	. æ ŋ ˥	1059		?	. æ ŋ ˥
+2118	2 xia	幸 (xia)	Baxter	. ɛ ng X	1059		?	. ɛ ng X
+2119	2 xia	幻 (xia)	Zhou	w æ n ˩˥	1060		?	w æ n ˩˥
+2120	2 xia	幻 (xia)	Baxter	w ɛ n H	1060		?	w ɛ n H
+2121	2 xia	幼 (xia)	Zhou	i əu . ˩˥	1061		?	i əu . ˩˥
+2122	2 xia	幼 (xia)	Baxter	j iw . H	1061		?	j iw . H
+2123	2 xia	店 (xia)	Zhou	i e m ˩˥	1062		?	i e m ˩˥
+2124	2 xia	店 (xia)	Baxter	. e m H	1062		?	. e m H
+2125	2 xia	庚 (xia)	Zhou	. ɐ ŋ ˩	1063		?	. ɐ ŋ ˩
+2126	2 xia	庚 (xia)	Baxter	. æ ng .	1063		?	. æ ng .
+2127	2 xia	庾 (xia)	Zhou	ĭ u . ˥	1064		?	ĭ u . ˥
+2128	2 xia	庾 (xia)	Baxter	j u . X	1064		?	j u . X
+2129	2 xia	廉 (xia)	Zhou	ĭ ɛ m ˥˩	1065		?	ĭ ɛ m ˥˩
+2130	2 xia	廉 (xia)	Baxter	. e m .	1065		?	. e m .
+2131	2 xia	廢 (xia)	Zhou	ĭw ɐi . ˩˥	1066		?	ĭw ɐi . ˩˥
+2132	2 xia	廢 (xia)	Baxter	j oj . H	1066		?	j oj . H
+2133	2 xia	延 (xia)	Zhou	ĭ ɛ n ˩	1067		?	ĭ ɛ n ˩
+2134	2 xia	延 (xia)	Baxter	. e n .	1067		?	. e n .
+2135	2 xia	弄 (xia)	Zhou	. u ŋ ˩˥	1068		?	. u ŋ ˩˥
+2136	2 xia	弄 (xia)	Baxter	. uw ng H	1068		?	. uw ng H
+2137	2 xia	弓 (xia)	Zhou	ĭ u ŋ ˥˩	1069		?	ĭ u ŋ ˥˩
+2138	2 xia	弓 (xia)	Baxter	j uw ng .	1069		?	j uw ng .
+2139	2 xia	弔 (xia)	Zhou	i eu . ˩˥	1070		?	i eu . ˩˥
+2140	2 xia	弔 (xia)	Baxter	. ew . H	1070		?	. ew . H
+2141	2 xia	弗 (xia)	Zhou	ĭu ə t .	1071		?	ĭu ə t .
+2142	2 xia	弗 (xia)	Baxter	j u t .	1071		?	j u t .
+2143	2 xia	弘 (xia)	Zhou	u ə ŋ ˥˩	1072		?	u ə ŋ ˥˩
+2144	2 xia	弘 (xia)	Baxter	w o ng .	1072		?	w o ng .
+2145	2 xia	張 (xia)	Zhou	ĭ a ŋ ˩	1073		?	ĭ a ŋ ˩
+2146	2 xia	張 (xia)	Baxter	j a ng .	1073		?	j a ng .
+2147	2 xia	彫 (xia)	Zhou	i eu . ˥˩	1074		?	i eu . ˥˩
+2148	2 xia	彫 (xia)	Baxter	. ew . .	1074		?	. ew . .
+2149	2 xia	影 (xia)	Zhou	ĭ ɐ ŋ ˥	1075		?	ĭ ɐ ŋ ˥
+2150	2 xia	影 (xia)	Baxter	j æ ng X	1075		?	j æ ng X
+2151	2 xia	彼 (xia)	Zhou	ĭ e . ˥	1076		?	ĭ e . ˥
+2152	2 xia	彼 (xia)	Baxter	j e . X	1076		?	j e . X
+2153	2 xia	征 (xia)	Zhou	ĭ ɛ ŋ ˩	1077		?	ĭ ɛ ŋ ˩
+2154	2 xia	征 (xia)	Baxter	. e ng .	1077		?	. e ng .
+2155	2 xia	律 (xia)	Zhou	ĭu ĕ t .	1078		?	ĭu ĕ t .
+2156	2 xia	律 (xia)	Baxter	w i t .	1078		?	w i t .
+2157	2 xia	徑 (xia)	Zhou	i e ŋ ˩˥	1079		?	i e ŋ ˩˥
+2158	2 xia	徑 (xia)	Baxter	. e ng H	1079		?	. e ng H
+2159	2 xia	得 (xia)	Zhou	. ə k .	1080		?	. ə k .
+2160	2 xia	得 (xia)	Baxter	. o k .	1080		?	. o k .
+2161	2 xia	御 (xia)	Zhou	ĭ o . ˩˥	1081		?	ĭ o . ˩˥
+2162	2 xia	御 (xia)	Baxter	j o . H	1081		?	j o . H
+2163	2 xia	微 (xia)	Zhou	ĭw əi . ˥˩	1082		?	ĭw əi . ˥˩
+2164	2 xia	微 (xia)	Baxter	j ɨj . .	1082		?	j ɨj . .
+2165	2 xia	德 (xia)	Zhou	. ə k .	1083		?	. ə k .
+2166	2 xia	德 (xia)	Baxter	. o k .	1083		?	. o k .
+2167	2 xia	必 (xia)	Zhou	ĭ ĕ t .	1084		?	ĭ ĕ t .
+2168	2 xia	必 (xia)	Baxter	j ? t .	1084		?	j ? t .
+2169	2 xia	忍 (xia)	Zhou	ĭ ĕ n ˥	1085		?	ĭ ĕ n ˥
+2170	2 xia	忍 (xia)	Baxter	. i n X	1085		?	. i n X
+2171	2 xia	忖 (xia)	Zhou	u ə n ˥	1086		?	u ə n ˥
+2172	2 xia	忖 (xia)	Baxter	w o n X	1086		?	w o n X
+2173	2 xia	快 (xia)	Zhou	w æi . ˩˥	1087		?	w æi . ˩˥
+2174	2 xia	快 (xia)	Baxter	w æj . H	1087		?	w æj . H
+2175	2 xia	念 (xia)	Zhou	i e m ˩˥	1088		?	i e m ˩˥
+2176	2 xia	念 (xia)	Baxter	. e m H	1088		?	. e m H
+2177	2 xia	忽 (xia)	Zhou	u ə t .	1089		?	u ə t .
+2178	2 xia	忽 (xia)	Baxter	w o t .	1089		?	w o t .
+2179	2 xia	怨 (xia)	Zhou	ĭw ɐ n ˩˥	1090		?	ĭw ɐ n ˩˥
+2180	2 xia	怨 (xia)	Baxter	jw o n H	1090		?	jw o n H
+2181	2 xia	怪 (xia)	Zhou	w ɐi . ˩˥	1091		?	w ɐi . ˩˥
+2182	2 xia	怪 (xia)	Baxter	w ɛj . H	1091		?	w ɛj . H
+2183	2 xia	怯 (xia)	Zhou	ĭ ɐ p .	1092		?	ĭ ɐ p .
+2184	2 xia	怯 (xia)	Baxter	j æ p .	1092		?	j æ p .
+2185	2 xia	恕 (xia)	Zhou	ĭ o . ˩˥	1093		?	ĭ o . ˩˥
+2186	2 xia	恕 (xia)	Baxter	. o . H	1093		?	. o . H
+2187	2 xia	恢 (xia)	Zhou	u ɒi . ˩	1094		?	u ɒi . ˩
+2188	2 xia	恢 (xia)	Baxter	w oj . .	1094		?	w oj . .
+2189	2 xia	恱 (xia)	Zhou	ĭw ɛ t .	1095		?	ĭw ɛ t .
+2190	2 xia	恱 (xia)	Baxter	w ?! t .	1095		?	w ?! t .
+2191	2 xia	悉 (xia)	Zhou	ĭ ĕ t .	1096		?	ĭ ĕ t .
+2192	2 xia	悉 (xia)	Baxter	j i t .	1096		?	j i t .
+2193	2 xia	悚 (xia)	Zhou	ĭw o ŋ ˥	1097		?	ĭw o ŋ ˥
+2194	2 xia	悚 (xia)	Baxter	j ow ng X	1097		?	j ow ng X
+2195	2 xia	患 (xia)	Zhou	w a n ˩˥	1098		?	w a n ˩˥
+2196	2 xia	患 (xia)	Baxter	w æ n H	1098		?	w æ n H
+2197	2 xia	悲 (xia)	Zhou	. i . ˩	1099		?	. i . ˩
+2198	2 xia	悲 (xia)	Baxter	. ij . .	1099		?	. ij . .
+2199	2 xia	悶 (xia)	Zhou	u ə n ˩˥	1100		?	u ə n ˩˥
+2200	2 xia	悶 (xia)	Baxter	w o n H	1100		?	w o n H
+2201	2 xia	悸 (xia)	Zhou	w i . ˩˥	1101		?	w i . ˩˥
+2202	2 xia	悸 (xia)	Baxter	jw ij . H	1101		?	jw ij . H
+2203	2 xia	感 (xia)	Zhou	. ɒ m ˥	1102		?	. ɒ m ˥
+2204	2 xia	感 (xia)	Baxter	. o m X	1102		?	. o m X
+2205	2 xia	愧 (xia)	Zhou	w i . ˩˥	1103		?	w i . ˩˥
+2206	2 xia	愧 (xia)	Baxter	w ij . H	1103		?	w ij . H
+2207	2 xia	慣 (xia)	Zhou	w a n ˩˥	1104		?	w a n ˩˥
+2208	2 xia	慣 (xia)	Baxter	w æ n H	1104		?	w æ n H
+2209	2 xia	慶 (xia)	Zhou	ĭ ɐ ŋ ˩˥	1105		?	ĭ ɐ ŋ ˩˥
+2210	2 xia	慶 (xia)	Baxter	j æ ng H	1105		?	j æ ng H
+2211	2 xia	憬 (xia)	Zhou	ĭw ɐ ŋ ˥	1106		?	ĭw ɐ ŋ ˥
+2212	2 xia	憬 (xia)	Baxter	jw æ ng X	1106		?	jw æ ng X
+2213	2 xia	懈 (xia)	Zhou	. ai . ˩˥	1107		?	. ai . ˩˥
+2214	2 xia	懈 (xia)	Baxter	. ɛ . H	1107		?	. ɛ . H
+2215	2 xia	應 (xia)	Zhou	ĭ ə ŋ ˩˥	1108		?	ĭ ə ŋ ˩˥
+2216	2 xia	應 (xia)	Baxter	. i ng H	1108		?	. i ng H
+2217	2 xia	懷 (xia)	Zhou	w ɐi . ˥˩	1109		?	w ɐi . ˥˩
+2218	2 xia	懷 (xia)	Baxter	w ɛj . .	1109		?	w ɛj . .
+2219	2 xia	戀 (xia)	Zhou	ĭw ɛ n ˩˥	1110		?	ĭw ɛ n ˩˥
+2220	2 xia	戀 (xia)	Baxter	jw e n H	1110		?	jw e n H
+2221	2 xia	戈 (xia)	Zhou	u ɑ . ˩	1111		?	u ɑ . ˩
+2222	2 xia	戈 (xia)	Baxter	w a . .	1111		?	w a . .
+2223	2 xia	戍 (xia)	Zhou	ĭ u . ˩˥	1112		?	ĭ u . ˩˥
+2224	2 xia	戍 (xia)	Baxter	j u . H	1112		?	j u . H
+2225	2 xia	戎 (xia)	Zhou	ĭ u ŋ ˩	1113		?	ĭ u ŋ ˩
+2226	2 xia	戎 (xia)	Baxter	j uw ng .	1113		?	j uw ng .
+2227	2 xia	我 (xia)	Zhou	. ɑ . ˥	1114		?	. ɑ . ˥
+2228	2 xia	我 (xia)	Baxter	. a . X	1114		?	. a . X
+2229	2 xia	或 (xia)	Zhou	u ə k .	1115		?	u ə k .
+2230	2 xia	或 (xia)	Baxter	w o k .	1115		?	w o k .
+2231	2 xia	戟 (xia)	Zhou	ĭ ɐ k .	1116		?	ĭ ɐ k .
+2232	2 xia	戟 (xia)	Baxter	j æ k .	1116		?	j æ k .
+2233	2 xia	戰 (xia)	Zhou	ĭ ɛ n ˩˥	1117		?	ĭ ɛ n ˩˥
+2234	2 xia	戰 (xia)	Baxter	. e n H	1117		?	. e n H
+2235	2 xia	戸 (xia)	Zhou	. u . ˥	1118		?	. u . ˥
+2236	2 xia	戸 (xia)	Baxter	. u . X	1118		?	. u . X
+2237	2 xia	才 (xia)	Zhou	. ɒi . ˥˩	1119		?	. ɒi . ˥˩
+2238	2 xia	才 (xia)	Baxter	. oj . .	1119		?	. oj . .
+2239	2 xia	拔 (xia)	Zhou	. æ t .	1120		?	. æ t .
+2240	2 xia	拔 (xia)	Baxter	. ɛ t .	1120		?	. ɛ t .
+2241	2 xia	拜 (xia)	Zhou	. ɐi . ˩˥	1121		?	. ɐi . ˩˥
+2242	2 xia	拜 (xia)	Baxter	. ɛj . H	1121		?	. ɛj . H
+2243	2 xia	括 (xia)	Zhou	u ɑ t .	1122		?	u ɑ t .
+2244	2 xia	括 (xia)	Baxter	w a t .	1122		?	w a t .
+2245	2 xia	按 (xia)	Zhou	. ɑ n ˩˥	1123		?	. ɑ n ˩˥
+2246	2 xia	按 (xia)	Baxter	. a n H	1123		?	. a n H
+2247	2 xia	挺 (xia)	Zhou	i e ŋ ˥	1124		?	i e ŋ ˥
+2248	2 xia	挺 (xia)	Baxter	. e ng X	1124		?	. e ng X
+2249	2 xia	掾 (xia)	Zhou	ĭw ɛ n ˩˥	1125		?	ĭw ɛ n ˩˥
+2250	2 xia	掾 (xia)	Baxter	jwi e n H	1125		?	jwi e n H
+2251	2 xia	揔 (xia)	Zhou	. u ŋ ˥	1126		?	. u ŋ ˥
+2252	2 xia	揔 (xia)	Baxter	. uw ng X	1126		?	. uw ng X
+2253	2 xia	換 (xia)	Zhou	u ɑ n ˩˥	1127		?	u ɑ n ˩˥
+2254	2 xia	換 (xia)	Baxter	w a n H	1127		?	w a n H
+2255	2 xia	撥 (xia)	Zhou	u ɑ t .	1128		?	u ɑ t .
+2256	2 xia	撥 (xia)	Baxter	. a t .	1128		?	. a t .
+2257	2 xia	擊 (xia)	Zhou	i e k .	1129		?	i e k .
+2258	2 xia	擊 (xia)	Baxter	. e k .	1129		?	. e k .
+2259	2 xia	據 (xia)	Zhou	ĭ o . ˩˥	1130		?	ĭ o . ˩˥
+2260	2 xia	據 (xia)	Baxter	j o . H	1130		?	j o . H
+2261	2 xia	攜 (xia)	Zhou	iw ei . ˥˩	1131		?	iw ei . ˥˩
+2262	2 xia	攜 (xia)	Baxter	w ej . .	1131		?	w ej . .
+2263	2 xia	支 (xia)	Zhou	ĭ e . ˩	1132		?	ĭ e . ˩
+2264	2 xia	支 (xia)	Baxter	j e . .	1132		?	j e . .
+2265	2 xia	改 (xia)	Zhou	. ɒi . ˥	1133		?	. ɒi . ˥
+2266	2 xia	改 (xia)	Baxter	. oj . X	1133		?	. oj . X
+2267	2 xia	放 (xia)	Zhou	ĭw a ŋ ˩˥	1134		?	ĭw a ŋ ˩˥
+2268	2 xia	放 (xia)	Baxter	jw a ng H	1134		?	jw a ng H
+2269	2 xia	政 (xia)	Zhou	ĭ ɛ ŋ ˩˥	1135		?	ĭ ɛ ŋ ˩˥
+2270	2 xia	政 (xia)	Baxter	j ie ng H	1135		?	j ie ng H
+2271	2 xia	故 (xia)	Zhou	. u . ˩˥	1136		?	. u . ˩˥
+2272	2 xia	故 (xia)	Baxter	. u . H	1136		?	. u . H
+2273	2 xia	敎 (xia)	Zhou	. au . ˩˥	1137		?	. au . ˩˥
+2274	2 xia	敎 (xia)	Baxter	. æw . H	1137		?	. æw . H
+2275	2 xia	救 (xia)	Zhou	ĭ əu . ˩˥	1138		?	ĭ əu . ˩˥
+2276	2 xia	救 (xia)	Baxter	j uw . H	1138		?	j uw . H
+2277	2 xia	敬 (xia)	Zhou	. ɐ ŋ ˩˥	1139		?	. ɐ ŋ ˩˥
+2278	2 xia	敬 (xia)	Baxter	j æ ng H	1139		?	j æ ng H
+2279	2 xia	整 (xia)	Zhou	ĭ ɛ ŋ ˥	1140		?	ĭ ɛ ŋ ˥
+2280	2 xia	整 (xia)	Baxter	. e ng X	1140		?	. e ng X
+2281	2 xia	文 (xia)	Zhou	ĭ uə n ˥˩	1141		?	ĭ uə n ˥˩
+2282	2 xia	文 (xia)	Baxter	j u n .	1141		?	j u n .
+2283	2 xia	斤 (xia)	Zhou	ĭ ə n ˥˩	1142		?	ĭ ə n ˥˩
+2284	2 xia	斤 (xia)	Baxter	j ɨ n .	1142		?	j ɨ n .
+2285	2 xia	方 (xia)	Zhou	ĭw a ŋ ˩	1143		?	ĭw a ŋ ˩
+2286	2 xia	方 (xia)	Baxter	j a ng .	1143		?	j a ng .
+2287	2 xia	旣 (xia)	Zhou	ĭ əi . ˩˥	1144		?	ĭ əi . ˩˥
+2288	2 xia	旣 (xia)	Baxter	j ɨj . H	1144		?	j ɨj . H
+2289	2 xia	日 (xia)	Zhou	ĭ ĕ t .	1145		?	ĭ ĕ t .
+2290	2 xia	日 (xia)	Baxter	. i t .	1145		?	. i t .
+2291	2 xia	旰 (xia)	Zhou	. ɑ n ˩˥	1146		?	. ɑ n ˩˥
+2292	2 xia	旰 (xia)	Baxter	. a n H	1146		?	. a n H
+2293	2 xia	旱 (xia)	Zhou	. ɑ n ˥	1147		?	. ɑ n ˥
+2294	2 xia	旱 (xia)	Baxter	. a n X	1147		?	. a n X
+2295	2 xia	昆 (xia)	Zhou	u ə n ˥˩	1148		?	u ə n ˥˩
+2296	2 xia	昆 (xia)	Baxter	w o n .	1148		?	w o n .
+2297	2 xia	明 (xia)	Zhou	ĭ ɐ ŋ ˥˩	1149		?	ĭ ɐ ŋ ˥˩
+2298	2 xia	明 (xia)	Baxter	j æ ng .	1149		?	j æ ng .
+2299	2 xia	易 (xia)	Zhou	ĭ ɛ k .	1150		?	ĭ ɛ k .
+2300	2 xia	易 (xia)	Baxter	j e k .	1150		?	j e k .
+2301	2 xia	昔 (xia)	Zhou	ĭ ɛ k .	1151		?	ĭ ɛ k .
+2302	2 xia	昔 (xia)	Baxter	j e k .	1151		?	j e k .
+2303	2 xia	昧 (xia)	Zhou	u ɒi . ˩˥	1152		?	u ɒi . ˩˥
+2304	2 xia	昧 (xia)	Baxter	w oj . H	1152		?	w oj . H
+2305	2 xia	晃 (xia)	Zhou	u ɑ ŋ ˥	1153		?	u ɑ ŋ ˥
+2306	2 xia	晃 (xia)	Baxter	w a ng X	1153		?	w a ng X
+2307	2 xia	晉 (xia)	Zhou	ĭ ĕ n ˩˥	1154		?	ĭ ĕ n ˩˥
+2308	2 xia	晉 (xia)	Baxter	. i n H	1154		?	. i n H
+2309	2 xia	晏 (xia)	Zhou	. a n ˩˥	1155		?	. a n ˩˥
+2310	2 xia	晏 (xia)	Baxter	. æ n H	1155		?	. æ n H
+2311	2 xia	晧 (xia)	Zhou	. ɑu . ˥	1156		?	. ɑu . ˥
+2312	2 xia	晧 (xia)	Baxter	. aw . X	1156		?	. aw . X
+2313	2 xia	晩 (xia)	Zhou	ĭw ɐ n ˥	1157		?	ĭw ɐ n ˥
+2314	2 xia	晩 (xia)	Baxter	jw e n X	1157		?	jw e n X
+2315	2 xia	智 (xia)	Zhou	ĭ e . ˩˥	1158		?	ĭ e . ˩˥
+2316	2 xia	智 (xia)	Baxter	j e . H	1158		?	j e . H
+2317	2 xia	暫 (xia)	Zhou	. ɑ m ˩˥	1159		?	. ɑ m ˩˥
+2318	2 xia	暫 (xia)	Baxter	. a m H	1159		?	. a m H
+2319	2 xia	暮 (xia)	Zhou	. u . ˩˥	1160		?	. u . ˩˥
+2320	2 xia	暮 (xia)	Baxter	. u . H	1160		?	. u . H
+2321	2 xia	曠 (xia)	Zhou	u ɑ ŋ ˩˥	1161		?	u ɑ ŋ ˩˥
+2322	2 xia	曠 (xia)	Baxter	w a ng H	1161		?	w a ng H
+2323	2 xia	更 (xia)	Zhou	. ɐ ŋ ˩˥	1162		?	. ɐ ŋ ˩˥
+2324	2 xia	更 (xia)	Baxter	. æ ng H	1162		?	. æ ng H
+2325	2 xia	曹 (xia)	Zhou	. ɑu . ˥˩	1163		?	. ɑu . ˥˩
+2326	2 xia	曹 (xia)	Baxter	. aw . .	1163		?	. aw . .
+2327	2 xia	會 (xia)	Zhou	u ɑi . ˩˥	1164		?	u ɑi . ˩˥
+2328	2 xia	會 (xia)	Baxter	w aj . H	1164		?	w aj . H
+2329	2 xia	月 (xia)	Zhou	ĭw ɐ t .	1165		?	ĭw ɐ t .
+2330	2 xia	月 (xia)	Baxter	jw o t .	1165		?	jw o t .
+2331	2 xia	有 (xia)	Zhou	ĭ əu . ˥	1166		?	ĭ əu . ˥
+2332	2 xia	有 (xia)	Baxter	j uw . X	1166		?	j uw . X
+2333	2 xia	朗 (xia)	Zhou	. ɑ ŋ ˥	1167		?	. ɑ ŋ ˥
+2334	2 xia	朗 (xia)	Baxter	. a ng X	1167		?	. a ng X
+2335	2 xia	木 (xia)	Zhou	. u k .	1168		?	. u k .
+2336	2 xia	木 (xia)	Baxter	. uw k .	1168		?	. uw k .
+2337	2 xia	末 (xia)	Zhou	u ɑ t .	1169		?	u ɑ t .
+2338	2 xia	末 (xia)	Baxter	. a t .	1169		?	. a t .
+2339	2 xia	本 (xia)	Zhou	u ə n ˥	1170		?	u ə n ˥
+2340	2 xia	本 (xia)	Baxter	w o n X	1170		?	w o n X
+2341	2 xia	朱 (xia)	Zhou	ĭ u . ˩	1171		?	ĭ u . ˩
+2342	2 xia	朱 (xia)	Baxter	. u . .	1171		?	. u . .
+2343	2 xia	杏 (xia)	Zhou	. ɐ ŋ ˥	1172		?	. ɐ ŋ ˥
+2344	2 xia	杏 (xia)	Baxter	. æ ng X	1172		?	. æ ng X
+2345	2 xia	杜 (xia)	Zhou	. u . ˥	1173		?	. u . ˥
+2346	2 xia	杜 (xia)	Baxter	. u . X	1173		?	. u . X
+2347	2 xia	枕 (xia)	Zhou	ĭ ĕ m ˥	1174		?	ĭ ĕ m ˥
+2348	2 xia	枕 (xia)	Baxter	. i m X	1174		?	. i m X
+2349	2 xia	林 (xia)	Zhou	ĭ ĕ m ˥˩	1175		?	ĭ ĕ m ˥˩
+2350	2 xia	林 (xia)	Baxter	. i m .	1175		?	. i m .
+2351	2 xia	果 (xia)	Zhou	u ɑ . ˥	1176		?	u ɑ . ˥
+2352	2 xia	果 (xia)	Baxter	w a . X	1176		?	w a . X
+2353	2 xia	染 (xia)	Zhou	ĭ ɛ m ˥	1177		?	ĭ ɛ m ˥
+2354	2 xia	染 (xia)	Baxter	j e m X	1177		?	j e m X
+2355	2 xia	核 (xia)	Zhou	. æ k .	1178		?	. æ k .
+2356	2 xia	核 (xia)	Baxter	. ɛ k .	1178		?	. ɛ k .
+2357	2 xia	格 (xia)	Zhou	. ɐ k .	1179		?	. ɐ k .
+2358	2 xia	格 (xia)	Baxter	. æ k .	1179		?	. æ k .
+2359	2 xia	桂 (xia)	Zhou	iw ei . ˩˥	1180		?	iw ei . ˩˥
+2360	2 xia	桂 (xia)	Baxter	w ej . H	1180		?	w ej . H
+2361	2 xia	案 (xia)	Zhou	. ɑ n ˩˥	1181		?	. ɑ n ˩˥
+2362	2 xia	案 (xia)	Baxter	. a n H	1181		?	. a n H
+2363	2 xia	梗 (xia)	Zhou	. ɐ ŋ ˥	1182		?	. ɐ ŋ ˥
+2364	2 xia	梗 (xia)	Baxter	. æ ng X	1182		?	. æ ng X
+2365	2 xia	梵 (xia)	Zhou	ĭw ɐ m ˩˥	1183		?	ĭw ɐ m ˩˥
+2366	2 xia	梵 (xia)	Baxter	j o m H	1183		?	j o m H
+2367	2 xia	檢 (xia)	Zhou	ĭ ɛ m ˥	1184		?	ĭ ɛ m ˥
+2368	2 xia	檢 (xia)	Baxter	j e m X	1184		?	j e m X
+2369	2 xia	櫛 (xia)	Zhou	ĭ e t .	1185		?	ĭ e t .
+2370	2 xia	櫛 (xia)	Baxter	. i t .	1185		?	. i t .
+2371	2 xia	欣 (xia)	Zhou	ĭ ə n ˥˩	1186		?	ĭ ə n ˥˩
+2372	2 xia	欣 (xia)	Baxter	j ɨ n .	1186		?	j ɨ n .
+2373	2 xia	欲 (xia)	Zhou	ĭw o k .	1187		?	ĭw o k .
+2374	2 xia	欲 (xia)	Baxter	j o wk .	1187		?	j o wk .
+2375	2 xia	歇 (xia)	Zhou	ĭ ɐ t .	1188		?	ĭ ɐ t .
+2376	2 xia	歇 (xia)	Baxter	j o t .	1188		?	j o t .
+2377	2 xia	歌 (xia)	Zhou	. ɑ . ˩	1189		?	. ɑ . ˩
+2378	2 xia	歌 (xia)	Baxter	. a . .	1189		?	. a . .
+2379	2 xia	止 (xia)	Zhou	ĭ ə . ˥	1190		?	ĭ ə . ˥
+2380	2 xia	止 (xia)	Baxter	. i . X	1190		?	. i . X
+2381	2 xia	正 (xia)	Zhou	ĭ ɛ ŋ ˩˥	1191		?	ĭ ɛ ŋ ˩˥
+2382	2 xia	正 (xia)	Baxter	. e ng H	1191		?	. e ng H
+2383	2 xia	武 (xia)	Zhou	ĭ u . ˥	1192		?	ĭ u . ˥
+2384	2 xia	武 (xia)	Baxter	j u . X	1192		?	j u . X
+2385	2 xia	歷 (xia)	Zhou	i e k .	1193		?	i e k .
+2386	2 xia	歷 (xia)	Baxter	. e k .	1193		?	. e k .
+2387	2 xia	殄 (xia)	Zhou	i e n ˥	1194		?	i e n ˥
+2388	2 xia	殄 (xia)	Baxter	. e n X	1194		?	. e n X
+2389	2 xia	殞 (xia)	Zhou	ĭ ĕ n ˥	1195		?	ĭ ĕ n ˥
+2390	2 xia	殞 (xia)	Baxter	. i n X	1195		?	. i n X
+2391	2 xia	段 (xia)	Zhou	u ɑ n ˩˥	1196		?	u ɑ n ˩˥
+2392	2 xia	段 (xia)	Baxter	w a n H	1196		?	w a n H
+2393	2 xia	毒 (xia)	Zhou	u o k .	1197		?	u o k .
+2394	2 xia	毒 (xia)	Baxter	. ow k .	1197		?	. ow k .
+2395	2 xia	氏 (xia)	Zhou	ĭ e . ˥	1198		?	ĭ e . ˥
+2396	2 xia	氏 (xia)	Baxter	. e . X	1198		?	. e . X
+2397	2 xia	永 (xia)	Zhou	ĭ ɐ ŋ ˥	1199		?	ĭ ɐ ŋ ˥
+2398	2 xia	永 (xia)	Baxter	j æ ng X	1199		?	j æ ng X
+2399	2 xia	求 (xia)	Zhou	ĭ əu . ˩	1200		?	ĭ əu . ˩
+2400	2 xia	求 (xia)	Baxter	j uw . .	1200		?	j uw . .
+2401	2 xia	江 (xia)	Zhou	. ɔ ŋ ˥˩	1201		?	. ɔ ŋ ˥˩
+2402	2 xia	江 (xia)	Baxter	. æw ng .	1201		?	. æw ng .
+2403	2 xia	決 (xia)	Zhou	iw e t .	1202		?	iw e t .
+2404	2 xia	決 (xia)	Baxter	w e t .	1202		?	w e t .
+2405	2 xia	沃 (xia)	Zhou	u o k .	1203		?	u o k .
+2406	2 xia	沃 (xia)	Baxter	. ow k .	1203		?	. ow k .
+2407	2 xia	沓 (xia)	Zhou	. ɒ p .	1204		?	. ɒ p .
+2408	2 xia	沓 (xia)	Baxter	. o p .	1204		?	. o p .
+2409	2 xia	河 (xia)	Zhou	. ɑ . ˩	1205		?	. ɑ . ˩
+2410	2 xia	河 (xia)	Baxter	. a . .	1205		?	. a . .
+2411	2 xia	沸 (xia)	Zhou	ĭw əi . ˩˥	1206		?	ĭw əi . ˩˥
+2412	2 xia	沸 (xia)	Baxter	j ɨj . H	1206		?	j ɨj . H
+2413	2 xia	沼 (xia)	Zhou	ĭ ɛu . ˥	1207		?	ĭ ɛu . ˥
+2414	2 xia	沼 (xia)	Baxter	. ew . X	1207		?	. ew . X
+2415	2 xia	況 (xia)	Zhou	ĭw a ŋ ˩˥	1208		?	ĭw a ŋ ˩˥
+2416	2 xia	況 (xia)	Baxter	j a ng H	1208		?	j a ng H
+2417	2 xia	法 (xia)	Zhou	ĭw ɐ p .	1209		?	ĭw ɐ p .
+2418	2 xia	法 (xia)	Baxter	j o p .	1209		?	j o p .
+2419	2 xia	波 (xia)	Zhou	u ɑ . ˩	1210		?	u ɑ . ˩
+2420	2 xia	波 (xia)	Baxter	. a . .	1210		?	. a . .
+2421	2 xia	洧 (xia)	Zhou	w i . ˥	1211		?	w i . ˥
+2422	2 xia	洧 (xia)	Baxter	w ij . X	1211		?	w ij . X
+2423	2 xia	洳 (xia)	Zhou	ĭ o . ˩˥	1212		?	ĭ o . ˩˥
+2424	2 xia	洳 (xia)	Baxter	. o . H	1212		?	. o . H
+2425	2 xia	洽 (xia)	Zhou	. ɐ p .	1213		?	. ɐ p .
+2426	2 xia	洽 (xia)	Baxter	. ɛ p .	1213		?	. ɛ p .
+2427	2 xia	流 (xia)	Zhou	ĭ əu . ˥˩	1214		?	ĭ əu . ˥˩
+2428	2 xia	流 (xia)	Baxter	. uw . .	1214		?	. uw . .
+2429	2 xia	浩 (xia)	Zhou	. ɑu . ˥	1215		?	. ɑu . ˥
+2430	2 xia	浩 (xia)	Baxter	. aw . X	1215		?	. aw . X
+2431	2 xia	浪 (xia)	Zhou	. ɑ ŋ ˩˥	1216		?	. ɑ ŋ ˩˥
+2432	2 xia	浪 (xia)	Baxter	. a ng H	1216		?	. a ng H
+2433	2 xia	浮 (xia)	Zhou	ĭ əu . ˩	1217		?	ĭ əu . ˩
+2434	2 xia	浮 (xia)	Baxter	j uw . .	1217		?	j uw . .
+2435	2 xia	涉 (xia)	Zhou	ĭ ɛ p .	1218		?	ĭ ɛ p .
+2436	2 xia	涉 (xia)	Baxter	. e p .	1218		?	. e p .
+2437	2 xia	深 (xia)	Zhou	ĭ ĕ m ˩	1219		?	ĭ ĕ m ˩
+2438	2 xia	深 (xia)	Baxter	. i m .	1219		?	. i m .
+2439	2 xia	淺 (xia)	Zhou	ĭ ɛ n ˥	1220		?	ĭ ɛ n ˥
+2440	2 xia	淺 (xia)	Baxter	j e n X	1220		?	j e n X
+2441	2 xia	渚 (xia)	Zhou	ĭ o . ˥	1221		?	ĭ o . ˥
+2442	2 xia	渚 (xia)	Baxter	. o . X	1221		?	. o . X
+2443	2 xia	減 (xia)	Zhou	. ɐ m ˥	1222		?	. ɐ m ˥
+2444	2 xia	減 (xia)	Baxter	. ɛ m X	1222		?	. ɛ m X
+2445	2 xia	渾 (xia)	Zhou	u ə n ˥˩	1223		?	u ə n ˥˩
+2446	2 xia	渾 (xia)	Baxter	w o n .	1223		?	w o n .
+2447	2 xia	準 (xia)	Zhou	ĭu ĕ n ˥	1224		?	ĭu ĕ n ˥
+2448	2 xia	準 (xia)	Baxter	w i n X	1224		?	w i n X
+2449	2 xia	滕 (xia)	Zhou	. ə ŋ ˥˩	1225		?	. ə ŋ ˥˩
+2450	2 xia	滕 (xia)	Baxter	. o ng .	1225		?	. o ng .
+2451	2 xia	滿 (xia)	Zhou	u ɑ n ˥	1226		?	u ɑ n ˥
+2452	2 xia	滿 (xia)	Baxter	w a n X	1226		?	w a n X
+2453	2 xia	演 (xia)	Zhou	ĭ ɛ n ˥	1227		?	ĭ ɛ n ˥
+2454	2 xia	演 (xia)	Baxter	j e n X	1227		?	j e n X
+2455	2 xia	漫 (xia)	Zhou	u ɑ n ˩˥	1228		?	u ɑ n ˩˥
+2456	2 xia	漫 (xia)	Baxter	. a n H	1228		?	. a n H
+2457	2 xia	潁 (xia)	Zhou	ĭw ɛ ŋ ˥	1229		?	ĭw ɛ ŋ ˥
+2458	2 xia	潁 (xia)	Baxter	jwi e ng X	1229		?	jwi e ng X
+2459	2 xia	澗 (xia)	Zhou	. a n ˩˥	1230		?	. a n ˩˥
+2460	2 xia	澗 (xia)	Baxter	. æ n H	1230		?	. æ n H
+2461	2 xia	濫 (xia)	Zhou	. ɑ m ˩˥	1231		?	. ɑ m ˩˥
+2462	2 xia	濫 (xia)	Baxter	. a m H	1231		?	. a m H
+2463	2 xia	火 (xia)	Zhou	u ɑ . ˥	1232		?	u ɑ . ˥
+2464	2 xia	火 (xia)	Baxter	w a . X	1232		?	w a . X
+2465	2 xia	灼 (xia)	Zhou	ĭ a k .	1233		?	ĭ a k .
+2466	2 xia	灼 (xia)	Baxter	. a k .	1233		?	. a k .
+2467	2 xia	炎 (xia)	Zhou	ĭ ɛ m ˥˩	1234		?	ĭ ɛ m ˥˩
+2468	2 xia	炎 (xia)	Baxter	j e m .	1234		?	j e m .
+2469	2 xia	烏 (xia)	Zhou	. u . ˥˩	1235		?	. u . ˥˩
+2470	2 xia	烏 (xia)	Baxter	. u . .	1235		?	. u . .
+2471	2 xia	焉 (xia)	Zhou	ĭ ɛ n ˩	1236		?	ĭ ɛ n ˩
+2472	2 xia	焉 (xia)	Baxter	j ?! n .	1236		?	j ?! n .
+2473	2 xia	無 (xia)	Zhou	ĭ u . ˥˩	1237		?	ĭ u . ˥˩
+2474	2 xia	無 (xia)	Baxter	j u . .	1237		?	j u . .
+2475	2 xia	焮 (xia)	Zhou	ĭ ə n ˩˥	1238		?	ĭ ə n ˩˥
+2476	2 xia	焮 (xia)	Baxter	j ɨ n H	1238		?	j ɨ n H
+2477	2 xia	然 (xia)	Zhou	ĭ ɛ n ˥˩	1239		?	ĭ ɛ n ˥˩
+2478	2 xia	然 (xia)	Baxter	j e n .	1239		?	j e n .
+2479	2 xia	照 (xia)	Zhou	ĭ ɛu . ˩˥	1240		?	ĭ ɛu . ˩˥
+2480	2 xia	照 (xia)	Baxter	. ew . H	1240		?	. ew . H
+2481	2 xia	營 (xia)	Zhou	ĭw ɛ ŋ ˥˩	1241		?	ĭw ɛ ŋ ˥˩
+2482	2 xia	營 (xia)	Baxter	jw ie ng .	1241		?	jw ie ng .
+2483	2 xia	爲 (xia)	Zhou	ĭw e . ˩	1242		?	ĭw e . ˩
+2484	2 xia	爲 (xia)	Baxter	jw e . .	1242		?	jw e . .
+2485	2 xia	爾 (xia)	Zhou	ĭ e . ˥	1243		?	ĭ e . ˥
+2486	2 xia	爾 (xia)	Baxter	j e . X	1243		?	j e . X
+2487	2 xia	牙 (xia)	Zhou	. a . ˥˩	1244		?	. a . ˥˩
+2488	2 xia	牙 (xia)	Baxter	. æ . .	1244		?	. æ . .
+2489	2 xia	牢 (xia)	Zhou	. ɑu . ˥˩	1245		?	. ɑu . ˥˩
+2490	2 xia	牢 (xia)	Baxter	. aw . .	1245		?	. aw . .
+2491	2 xia	狊 (xia)	Zhou	iw e k .	1246		?	iw e k .
+2492	2 xia	狊 (xia)	Baxter	w e k .	1246		?	w e k .
+2493	2 xia	狎 (xia)	Zhou	. a p .	1247		?	. a p .
+2494	2 xia	狎 (xia)	Baxter	. æ p .	1247		?	. æ p .
+2495	2 xia	狶 (xia)	Zhou	ĭ əi . ˥	1248		?	ĭ əi . ˥
+2496	2 xia	狶 (xia)	Baxter	j ɨj . X	1248		?	j ɨj . X
+2497	2 xia	獲 (xia)	Zhou	. æ k .	1249		?	. æ k .
+2498	2 xia	獲 (xia)	Baxter	. ɛ k .	1249		?	. ɛ k .
+2499	2 xia	玉 (xia)	Zhou	ĭw o k .	1250		?	ĭw o k .
+2500	2 xia	玉 (xia)	Baxter	j ow k .	1250		?	j ow k .
+2501	2 xia	王 (xia)	Zhou	ĭw a ŋ ˩	1251		?	ĭw a ŋ ˩
+2502	2 xia	王 (xia)	Baxter	jw a ng .	1251		?	jw a ng .
+2503	2 xia	玩 (xia)	Zhou	u ɑ n ˩˥	1252		?	u ɑ n ˩˥
+2504	2 xia	玩 (xia)	Baxter	w a n H	1252		?	w a n H
+2505	2 xia	玷 (xia)	Zhou	i e m ˥	1253		?	i e m ˥
+2506	2 xia	玷 (xia)	Baxter	. e m X	1253		?	. e m X
+2507	2 xia	珍 (xia)	Zhou	ĭ ĕ n ˩	1254		?	ĭ ĕ n ˩
+2508	2 xia	珍 (xia)	Baxter	. i n .	1254		?	. i n .
+2509	2 xia	理 (xia)	Zhou	ĭ ə . ˥	1255		?	ĭ ə . ˥
+2510	2 xia	理 (xia)	Baxter	. i . X	1255		?	. i . X
+2511	2 xia	琰 (xia)	Zhou	ĭ ɛ m ˥	1256		?	ĭ ɛ m ˥
+2512	2 xia	琰 (xia)	Baxter	. e m X	1256		?	. e m X
+2513	2 xia	瓦 (xia)	Zhou	w a . ˥	1257		?	w a . ˥
+2514	2 xia	瓦 (xia)	Baxter	w æ . X	1257		?	w æ . X
+2515	2 xia	甘 (xia)	Zhou	. ɑ m ˥˩	1258		?	. ɑ m ˥˩
+2516	2 xia	甘 (xia)	Baxter	. a m .	1258		?	. a m .
+2517	2 xia	甚 (xia)	Zhou	ĭ ĕ m ˥	1259		?	ĭ ĕ m ˥
+2518	2 xia	甚 (xia)	Baxter	. i m X	1259		?	. i m X
+2519	2 xia	甜 (xia)	Zhou	i e m ˥˩	1260		?	i e m ˥˩
+2520	2 xia	甜 (xia)	Baxter	. e m .	1260		?	. e m .
+2521	2 xia	用 (xia)	Zhou	ĭw o ŋ ˩˥	1261		?	ĭw o ŋ ˩˥
+2522	2 xia	用 (xia)	Baxter	j ow ng H	1261		?	j ow ng H
+2523	2 xia	甫 (xia)	Zhou	ĭ u . ˥	1262		?	ĭ u . ˥
+2524	2 xia	甫 (xia)	Baxter	j u . X	1262		?	j u . X
+2525	2 xia	田 (xia)	Zhou	i e n ˩	1263		?	i e n ˩
+2526	2 xia	田 (xia)	Baxter	. e n .	1263		?	. e n .
+2527	2 xia	由 (xia)	Zhou	ĭ əu . ˥˩	1264		?	ĭ əu . ˥˩
+2528	2 xia	由 (xia)	Baxter	j uw . .	1264		?	j uw . .
+2529	2 xia	甲 (xia)	Zhou	. a p .	1265		?	. a p .
+2530	2 xia	甲 (xia)	Baxter	. æ p .	1265		?	. æ p .
+2531	2 xia	男 (xia)	Zhou	. ɒ m ˩	1266		?	. ɒ m ˩
+2532	2 xia	男 (xia)	Baxter	. o m .	1266		?	. o m .
+2533	2 xia	甸 (xia)	Zhou	. ie n ˩˥	1267		?	. ie n ˩˥
+2534	2 xia	甸 (xia)	Baxter	. e n H	1267		?	. e n H
+2535	2 xia	界 (xia)	Zhou	. ɐi . ˩˥	1268		?	. ɐi . ˩˥
+2536	2 xia	界 (xia)	Baxter	. ɛj . H	1268		?	. ɛj . H
+2537	2 xia	略 (xia)	Zhou	ĭ a k .	1269		?	ĭ a k .
+2538	2 xia	略 (xia)	Baxter	j a k .	1269		?	j a k .
+2539	2 xia	當 (xia)	Zhou	. ɑ ŋ ˩	1270		?	. ɑ ŋ ˩
+2540	2 xia	當 (xia)	Baxter	. a ng .	1270		?	. a ng .
+2541	2 xia	疋 (xia)	Zhou	. a . ˥	1271		?	. a . ˥
+2542	2 xia	疋 (xia)	Baxter	. æ . X	1271		?	. æ . X
+2543	2 xia	病 (xia)	Zhou	ĭ ɐ ŋ ˩˥	1272		?	ĭ ɐ ŋ ˩˥
+2544	2 xia	病 (xia)	Baxter	j æ ng H	1272		?	j æ ng H
+2545	2 xia	痕 (xia)	Zhou	. ə n ˥˩	1273		?	. ə n ˥˩
+2546	2 xia	痕 (xia)	Baxter	. o n .	1273		?	. o n .
+2547	2 xia	白 (xia)	Zhou	. ɐ k .	1274		?	. ɐ k .
+2548	2 xia	白 (xia)	Baxter	. æ k .	1274		?	. æ k .
+2549	2 xia	盈 (xia)	Zhou	ĭ ɛ ŋ ˥˩	1275		?	ĭ ɛ ŋ ˥˩
+2550	2 xia	盈 (xia)	Baxter	. e ng .	1275		?	. e ng .
+2551	2 xia	益 (xia)	Zhou	ĭ ɛ k .	1276		?	ĭ ɛ k .
+2552	2 xia	益 (xia)	Baxter	ji e k .	1276		?	ji e k .
+2553	2 xia	盍 (xia)	Zhou	. ɑ p .	1277		?	. ɑ p .
+2554	2 xia	盍 (xia)	Baxter	. a p .	1277		?	. a p .
+2555	2 xia	盛 (xia)	Zhou	ĭ ɛ ŋ ˩˥	1278		?	ĭ ɛ ŋ ˩˥
+2556	2 xia	盛 (xia)	Baxter	. e ng H	1278		?	. e ng H
+2557	2 xia	監 (xia)	Zhou	. a m ˩	1279		?	. a m ˩
+2558	2 xia	監 (xia)	Baxter	. æ m .	1279		?	. æ m .
+2559	2 xia	盲 (xia)	Zhou	w ɐ ŋ ˩	1280		?	w ɐ ŋ ˩
+2560	2 xia	盲 (xia)	Baxter	w æ ng .	1280		?	w æ ng .
+2561	2 xia	直 (xia)	Zhou	ĭ ə k .	1281		?	ĭ ə k .
+2562	2 xia	直 (xia)	Baxter	. i k .	1281		?	. i k .
+2563	2 xia	眉 (xia)	Zhou	. i . ˥˩	1282		?	. i . ˥˩
+2564	2 xia	眉 (xia)	Baxter	j ij . .	1282		?	j ij . .
+2565	2 xia	眞 (xia)	Zhou	ĭ ĕ n ˥˩	1283		?	ĭ ĕ n ˥˩
+2566	2 xia	眞 (xia)	Baxter	. ? n .	1283		?	. ? n .
+2567	2 xia	眷 (xia)	Zhou	ĭ ɛ n ˩˥	1284		?	ĭ ɛ n ˩˥
+2568	2 xia	眷 (xia)	Baxter	j e n H	1284		?	j e n H
+2569	2 xia	瞎 (xia)	Zhou	. a t .	1285		?	. a t .
+2570	2 xia	瞎 (xia)	Baxter	. æ t .	1285		?	. æ t .
+2571	2 xia	矢 (xia)	Zhou	. i . ˥	1286		?	. i . ˥
+2572	2 xia	矢 (xia)	Baxter	. ij . X	1286		?	. ij . X
+2573	2 xia	矩 (xia)	Zhou	ĭ u . ˥	1287		?	ĭ u . ˥
+2574	2 xia	矩 (xia)	Baxter	j u . X	1287		?	j u . X
+2575	2 xia	矯 (xia)	Zhou	ĭ ɛu . ˥	1288		?	ĭ ɛu . ˥
+2576	2 xia	矯 (xia)	Baxter	j ew . X	1288		?	j ew . X
+2577	2 xia	石 (xia)	Zhou	ĭ ɛ k .	1289		?	ĭ ɛ k .
+2578	2 xia	石 (xia)	Baxter	. e k .	1289		?	. e k .
+2579	2 xia	祐 (xia)	Zhou	ĭ əu . ˩˥	1290		?	ĭ əu . ˩˥
+2580	2 xia	祐 (xia)	Baxter	j uw . H	1290		?	j uw . H
+2581	2 xia	祕 (xia)	Zhou	. i . ˩˥	1291		?	. i . ˩˥
+2582	2 xia	祕 (xia)	Baxter	. ij . H	1291		?	. ij . H
+2583	2 xia	祚 (xia)	Zhou	. u . ˩˥	1292		?	. u . ˩˥
+2584	2 xia	祚 (xia)	Baxter	. u . H	1292		?	. u . H
+2585	2 xia	禁 (xia)	Zhou	ĭ ĕ m ˩˥	1293		?	ĭ ĕ m ˩˥
+2586	2 xia	禁 (xia)	Baxter	. i m H	1293		?	. i m H
+2587	2 xia	禄 (xia)	Zhou	. u k .	1294		?	. u k .
+2588	2 xia	禄 (xia)	Baxter	. uw k .	1294		?	. uw k .
+2589	2 xia	福 (xia)	Zhou	ĭ u k .	1295		?	ĭ u k .
+2590	2 xia	福 (xia)	Baxter	!? !? k .	1295		?	!? !? k .
+2591	2 xia	禫 (xia)	Zhou	. ɒ m ˥	1296		?	. ɒ m ˥
+2592	2 xia	禫 (xia)	Baxter	. o m X	1296		?	. o m X
+2593	2 xia	禮 (xia)	Zhou	i ei . ˥	1297		?	i ei . ˥
+2594	2 xia	禮 (xia)	Baxter	. ej . X	1297		?	. ej . X
+2595	2 xia	禾 (xia)	Zhou	u ɑ . ˥˩	1298		?	u ɑ . ˥˩
+2596	2 xia	禾 (xia)	Baxter	w a . .	1298		?	w a . .
+2597	2 xia	移 (xia)	Zhou	ĭ e . ˥˩	1299		?	ĭ e . ˥˩
+2598	2 xia	移 (xia)	Baxter	. e . .	1299		?	. e . .
+2599	2 xia	稔 (xia)	Zhou	ĭ ĕ m ˥	1300		?	ĭ ĕ m ˥
+2600	2 xia	稔 (xia)	Baxter	. i m X	1300		?	. i m X
+2601	2 xia	積 (xia)	Zhou	ĭ ɛ k .	1301		?	ĭ ɛ k .
+2602	2 xia	積 (xia)	Baxter	j e k .	1301		?	j e k .
+2603	2 xia	穴 (xia)	Zhou	iw e t .	1302		?	iw e t .
+2604	2 xia	穴 (xia)	Baxter	w e t .	1302		?	w e t .
+2605	2 xia	立 (xia)	Zhou	ĭ ĕ p .	1303		?	ĭ ĕ p .
+2606	2 xia	立 (xia)	Baxter	. i p .	1303		?	. i p .
+2607	2 xia	章 (xia)	Zhou	ĭ a ŋ ˩	1304		?	ĭ a ŋ ˩
+2608	2 xia	章 (xia)	Baxter	. a ng .	1304		?	. a ng .
+2609	2 xia	竭 (xia)	Zhou	ĭ ɐ t .	1305		?	ĭ ɐ t .
+2610	2 xia	竭 (xia)	Baxter	j o t .	1305		?	j o t .
+2611	2 xia	竹 (xia)	Zhou	ĭ u k .	1306		?	ĭ u k .
+2612	2 xia	竹 (xia)	Baxter	j uw k .	1306		?	j uw k .
+2613	2 xia	笴 (xia)	Zhou	. ɑ n ˥	1307		?	. ɑ n ˥
+2614	2 xia	笴 (xia)	Baxter	. a n X	1307		?	. a n X
+2615	2 xia	筆 (xia)	Zhou	ĭ ĕ t .	1308		?	ĭ ĕ t .
+2616	2 xia	筆 (xia)	Baxter	. i t .	1308		?	. i t .
+2617	2 xia	箇 (xia)	Zhou	. ɑ . ˩˥	1309		?	. ɑ . ˩˥
+2618	2 xia	箇 (xia)	Baxter	. a . H	1309		?	. a . H
+2619	2 xia	管 (xia)	Zhou	u ɑ n ˥	1310		?	u ɑ n ˥
+2620	2 xia	管 (xia)	Baxter	w a n X	1310		?	w a n X
+2621	2 xia	箭 (xia)	Zhou	ĭ ɛ n ˩˥	1311		?	ĭ ɛ n ˩˥
+2622	2 xia	箭 (xia)	Baxter	ji e n H	1311		?	ji e n H
+2623	2 xia	紀 (xia)	Zhou	ĭ ə . ˥	1312		?	ĭ ə . ˥
+2624	2 xia	紀 (xia)	Baxter	. i . X	1312		?	. i . X
+2625	2 xia	約 (xia)	Zhou	ĭ a k .	1313		?	ĭ a k .
+2626	2 xia	約 (xia)	Baxter	j a k .	1313		?	j a k .
+2627	2 xia	紅 (xia)	Zhou	. u ŋ ˥˩	1314		?	. u ŋ ˥˩
+2628	2 xia	紅 (xia)	Baxter	. uw ng .	1314		?	. uw ng .
+2629	2 xia	紙 (xia)	Zhou	ĭ e . ˥	1315		?	ĭ e . ˥
+2630	2 xia	紙 (xia)	Baxter	. e . X	1315		?	. e . X
+2631	2 xia	累 (xia)	Zhou	ĭw e . ˥	1316		?	ĭw e . ˥
+2632	2 xia	累 (xia)	Baxter	w e . X	1316		?	w e . X
+2633	2 xia	終 (xia)	Zhou	ĭ u ŋ ˥˩	1317		?	ĭ u ŋ ˥˩
+2634	2 xia	終 (xia)	Baxter	. uw ng .	1317		?	. uw ng .
+2635	2 xia	結 (xia)	Zhou	i e t .	1318		?	i e t .
+2636	2 xia	結 (xia)	Baxter	. e t .	1318		?	. e t .
+2637	2 xia	絕 (xia)	Zhou	ĭw ɛ t .	1319		?	ĭw ɛ t .
+2638	2 xia	絕 (xia)	Baxter	jw e t .	1319		?	jw e t .
+2639	2 xia	絞 (xia)	Zhou	. au . ˥	1320		?	. au . ˥
+2640	2 xia	絞 (xia)	Baxter	. æw . X	1320		?	. æw . X
+2641	2 xia	絳 (xia)	Zhou	. ɔ ŋ ˩˥	1321		?	. ɔ ŋ ˩˥
+2642	2 xia	絳 (xia)	Baxter	. æw ng H	1321		?	. æw ng H
+2643	2 xia	經 (xia)	Zhou	i e ŋ ˥˩	1322		?	i e ŋ ˥˩
+2644	2 xia	經 (xia)	Baxter	. e ng .	1322		?	. e ng .
+2645	2 xia	綰 (xia)	Zhou	. a n ˥	1323		?	. a n ˥
+2646	2 xia	綰 (xia)	Baxter	. æ n X	1323		?	. æ n X
+2647	2 xia	綺 (xia)	Zhou	ĭ e . ˥	1324		?	ĭ e . ˥
+2648	2 xia	綺 (xia)	Baxter	j e . X	1324		?	j e . X
+2649	2 xia	線 (xia)	Zhou	ĭ ɛ n ˩˥	1325		?	ĭ ɛ n ˩˥
+2650	2 xia	線 (xia)	Baxter	. e n H	1325		?	. e n H
+2651	2 xia	練 (xia)	Zhou	i e n ˩˥	1326		?	i e n ˩˥
+2652	2 xia	練 (xia)	Baxter	. e n H	1326		?	. e n H
+2653	2 xia	縁 (xia)	Zhou	ĭw ɛ n ˩	1327		?	ĭw ɛ n ˩
+2654	2 xia	縁 (xia)	Baxter	jw e n .	1327		?	jw e n .
+2655	2 xia	网 (xia)	Zhou	ĭw a ŋ ˥	1328		?	ĭw a ŋ ˥
+2656	2 xia	网 (xia)	Baxter	j a ng X	1328		?	j a ng X
+2657	2 xia	罪 (xia)	Zhou	u ɒi . ˥	1329		?	u ɒi . ˥
+2658	2 xia	罪 (xia)	Baxter	w oj . X	1329		?	w oj . X
+2659	2 xia	置 (xia)	Zhou	ĭ ə . ˩˥	1330		?	ĭ ə . ˩˥
+2660	2 xia	置 (xia)	Baxter	. i . H	1330		?	. i . H
+2661	2 xia	署 (xia)	Zhou	ĭ o . ˩˥	1331		?	ĭ o . ˩˥
+2662	2 xia	署 (xia)	Baxter	. o . H	1331		?	. o . H
+2663	2 xia	羈 (xia)	Zhou	ĭ e . ˩	1332		?	ĭ e . ˩
+2664	2 xia	羈 (xia)	Baxter	j e . .	1332		?	j e . .
+2665	2 xia	羊 (xia)	Zhou	ĭ a ŋ ˥˩	1333		?	ĭ a ŋ ˥˩
+2666	2 xia	羊 (xia)	Baxter	j a ng .	1333		?	j a ng .
+2667	2 xia	美 (xia)	Zhou	w i . ˥	1334		?	w i . ˥
+2668	2 xia	美 (xia)	Baxter	w ij . X	1334		?	w ij . X
+2669	2 xia	義 (xia)	Zhou	ĭ e . ˩˥	1335		?	ĭ e . ˩˥
+2670	2 xia	義 (xia)	Baxter	j e . H	1335		?	j e . H
+2671	2 xia	翼 (xia)	Zhou	ĭ ə k .	1336		?	ĭ ə k .
+2672	2 xia	翼 (xia)	Baxter	. i k .	1336		?	. i k .
+2673	2 xia	老 (xia)	Zhou	. ɑu . ˥	1337		?	. ɑu . ˥
+2674	2 xia	老 (xia)	Baxter	. aw . X	1337		?	. aw . X
+2675	2 xia	者 (xia)	Zhou	ĭ a . ˥	1338		?	ĭ a . ˥
+2676	2 xia	者 (xia)	Baxter	. æ . X	1338		?	. æ . X
+2677	2 xia	而 (xia)	Zhou	ĭ ə . ˥˩	1339		?	ĭ ə . ˥˩
+2678	2 xia	而 (xia)	Baxter	. i . .	1339		?	. i . .
+2679	2 xia	耐 (xia)	Zhou	. ɒi . ˩˥	1340		?	. ɒi . ˩˥
+2680	2 xia	耐 (xia)	Baxter	. oj . H	1340		?	. oj . H
+2681	2 xia	耕 (xia)	Zhou	. æ ŋ ˩	1341		?	. æ ŋ ˩
+2682	2 xia	耕 (xia)	Baxter	. ɛ ng .	1341		?	. ɛ ng .
+2683	2 xia	耗 (xia)	Zhou	. ɑu . ˩˥	1342		?	. ɑu . ˩˥
+2684	2 xia	耗 (xia)	Baxter	. aw . H	1342		?	. aw . H
+2685	2 xia	耿 (xia)	Zhou	. æ ŋ ˥	1343		?	. æ ŋ ˥
+2686	2 xia	耿 (xia)	Baxter	. ɛ ng X	1343		?	. ɛ ng X
+2687	2 xia	聊 (xia)	Zhou	i eu . ˥˩	1344		?	i eu . ˥˩
+2688	2 xia	聊 (xia)	Baxter	. ew . .	1344		?	. ew . .
+2689	2 xia	職 (xia)	Zhou	ĭ ə k .	1345		?	ĭ ə k .
+2690	2 xia	職 (xia)	Baxter	. i k .	1345		?	. i k .
+2691	2 xia	肯 (xia)	Zhou	. ə ŋ ˥	1346		?	. ə ŋ ˥
+2692	2 xia	肯 (xia)	Baxter	. o ng X	1346		?	. o ng X
+2693	2 xia	肴 (xia)	Zhou	. au . ˥˩	1347		?	. au . ˥˩
+2694	2 xia	肴 (xia)	Baxter	. æw . .	1347		?	. æw . .
+2695	2 xia	肺 (xia)	Zhou	ĭw ɐi . ˩˥	1348		?	ĭw ɐi . ˩˥
+2696	2 xia	肺 (xia)	Baxter	j oj . H	1348		?	j oj . H
+2697	2 xia	胃 (xia)	Zhou	ĭw əi . ˩˥	1349		?	ĭw əi . ˩˥
+2698	2 xia	胃 (xia)	Baxter	jw ɨj . H	1349		?	jw ɨj . H
+2699	2 xia	胡 (xia)	Zhou	. u . ˩	1350		?	. u . ˩
+2700	2 xia	胡 (xia)	Baxter	. u . .	1350		?	. u . .
+2701	2 xia	脂 (xia)	Zhou	. i . ˩	1351		?	. i . ˩
+2702	2 xia	脂 (xia)	Baxter	j ij . .	1351		?	j ij . .
+2703	2 xia	膎 (xia)	Zhou	. ai . ˥˩	1352		?	. ai . ˥˩
+2704	2 xia	膎 (xia)	Baxter	. ɛ . .	1352		?	. ɛ . .
+2705	2 xia	膳 (xia)	Zhou	ĭ ɛ n ˩˥	1353		?	ĭ ɛ n ˩˥
+2706	2 xia	膳 (xia)	Baxter	. e n H	1353		?	. e n H
+2707	2 xia	膺 (xia)	Zhou	ĭ ə ŋ ˩	1354		?	ĭ ə ŋ ˩
+2708	2 xia	膺 (xia)	Baxter	. i ng .	1354		?	. i ng .
+2709	2 xia	臘 (xia)	Zhou	. ɑ p .	1355		?	. ɑ p .
+2710	2 xia	臘 (xia)	Baxter	. a p .	1355		?	. a p .
+2711	2 xia	臥 (xia)	Zhou	u ɑ . ˩˥	1356		?	u ɑ . ˩˥
+2712	2 xia	臥 (xia)	Baxter	w a . H	1356		?	w a . H
+2713	2 xia	至 (xia)	Zhou	. i . ˩˥	1357		?	. i . ˩˥
+2714	2 xia	至 (xia)	Baxter	j ij . H	1357		?	j ij . H
+2715	2 xia	與 (xia)	Zhou	ĭ o . ˥	1358		?	ĭ o . ˥
+2716	2 xia	與 (xia)	Baxter	. o . X	1358		?	. o . X
+2717	2 xia	舉 (xia)	Zhou	ĭ o . ˥	1359		?	ĭ o . ˥
+2718	2 xia	舉 (xia)	Baxter	j o . X	1359		?	j o . X
+2719	2 xia	艮 (xia)	Zhou	. ə n ˩˥	1360		?	. ə n ˩˥
+2720	2 xia	艮 (xia)	Baxter	. o n H	1360		?	. o n H
+2721	2 xia	良 (xia)	Zhou	ĭ a ŋ ˥˩	1361		?	ĭ a ŋ ˥˩
+2722	2 xia	良 (xia)	Baxter	j a ng .	1361		?	j a ng .
+2723	2 xia	芝 (xia)	Zhou	ĭw ɐ m ˩	1362		?	ĭw ɐ m ˩
+2724	2 xia	芝 (xia)	Baxter	j o m .	1362		?	j o m .
+2725	2 xia	芮 (xia)	Zhou	ĭw ɛi . ˩˥	1363		?	ĭw ɛi . ˩˥
+2726	2 xia	芮 (xia)	Baxter	w ej . H	1363		?	w ej . H
+2727	2 xia	花 (xia)	Zhou	w a . ˩	1364		?	w a . ˩
+2728	2 xia	花 (xia)	Baxter	w æ . .	1364		?	w æ . .
+2729	2 xia	苟 (xia)	Zhou	. əu . ˥	1365		?	. əu . ˥
+2730	2 xia	苟 (xia)	Baxter	. uw . X	1365		?	. uw . X
+2731	2 xia	若 (xia)	Zhou	ĭ a k .	1366		?	ĭ a k .
+2732	2 xia	若 (xia)	Baxter	. a k .	1366		?	. a k .
+2733	2 xia	茅 (xia)	Zhou	. au . ˩	1367		?	. au . ˩
+2734	2 xia	茅 (xia)	Baxter	. æw . .	1367		?	. æw . .
+2735	2 xia	荏 (xia)	Zhou	ĭ ĕ m ˥	1368		?	ĭ ĕ m ˥
+2736	2 xia	荏 (xia)	Baxter	. i m X	1368		?	. i m X
+2737	2 xia	莊 (xia)	Zhou	ĭ a ŋ ˩	1369		?	ĭ a ŋ ˩
+2738	2 xia	莊 (xia)	Baxter	j a ng .	1369		?	j a ng .
+2739	2 xia	莖 (xia)	Zhou	. æ ŋ ˥˩	1370		?	. æ ŋ ˥˩
+2740	2 xia	莖 (xia)	Baxter	. ɛ ng .	1370		?	. ɛ ng .
+2741	2 xia	莧 (xia)	Zhou	. æ n ˩˥	1371		?	. æ n ˩˥
+2742	2 xia	莧 (xia)	Baxter	. ɛ n H	1371		?	. ɛ n H
+2743	2 xia	落 (xia)	Zhou	. ɑ k .	1372		?	. ɑ k .
+2744	2 xia	落 (xia)	Baxter	. a k .	1372		?	. a k .
+2745	2 xia	葉 (xia)	Zhou	ĭ ɛ p .	1373		?	ĭ ɛ p .
+2746	2 xia	葉 (xia)	Baxter	j e p .	1373		?	j e p .
+2747	2 xia	葛 (xia)	Zhou	. ɑ t .	1374		?	. ɑ t .
+2748	2 xia	葛 (xia)	Baxter	. a t .	1374		?	. a t .
+2749	2 xia	董 (xia)	Zhou	. u ŋ ˥	1375		?	. u ŋ ˥
+2750	2 xia	董 (xia)	Baxter	. uw ng X	1375		?	. uw ng X
+2751	2 xia	蓋 (xia)	Zhou	. ɑi . ˩˥	1376		?	. ɑi . ˩˥
+2752	2 xia	蓋 (xia)	Baxter	. aj . H	1376		?	. aj . H
+2753	2 xia	蕭 (xia)	Zhou	i eu . ˩	1377		?	i eu . ˩
+2754	2 xia	蕭 (xia)	Baxter	. ew . .	1377		?	. ew . .
+2755	2 xia	虢 (xia)	Zhou	ĭw ɐ k .	1378		?	ĭw ɐ k .
+2756	2 xia	虢 (xia)	Baxter	w æ k .	1378		?	w æ k .
+2757	2 xia	虯 (xia)	Zhou	i əu . ˥˩	1379		?	i əu . ˥˩
+2758	2 xia	虯 (xia)	Baxter	j iw . .	1379		?	j iw . .
+2759	2 xia	蜀 (xia)	Zhou	ĭw o k .	1380		?	ĭw o k .
+2760	2 xia	蜀 (xia)	Baxter	. ow k .	1380		?	. ow k .
+2761	2 xia	融 (xia)	Zhou	ĭ u ŋ ˩	1381		?	ĭ u ŋ ˩
+2762	2 xia	融 (xia)	Baxter	. uw ng .	1381		?	. uw ng .
+2763	2 xia	螢 (xia)	Zhou	iw e ŋ ˥˩	1382		?	iw e ŋ ˥˩
+2764	2 xia	螢 (xia)	Baxter	w e ng .	1382		?	w e ng .
+2765	2 xia	蟹 (xia)	Zhou	. ai . ˥	1383		?	. ai . ˥
+2766	2 xia	蟹 (xia)	Baxter	. ɛ . X	1383		?	. ɛ . X
+2767	2 xia	衆 (xia)	Zhou	ĭ u ŋ ˩˥	1384		?	ĭ u ŋ ˩˥
+2768	2 xia	衆 (xia)	Baxter	j uw ng H	1384		?	j uw ng H
+2769	2 xia	行 (xia)	Zhou	. ɐ ŋ ˥˩	1385		?	. ɐ ŋ ˥˩
+2770	2 xia	行 (xia)	Baxter	. æ ng .	1385		?	. æ ng .
+2771	2 xia	衣 (xia)	Zhou	ĭ əi . ˥˩	1386		?	ĭ əi . ˥˩
+2772	2 xia	衣 (xia)	Baxter	j ɨj . .	1386		?	j ɨj . .
+2773	2 xia	袂 (xia)	Zhou	ĭ ɛi . ˩˥	1387		?	ĭ ɛi . ˩˥
+2774	2 xia	袂 (xia)	Baxter	ji ej . H	1387		?	ji ej . H
+2775	2 xia	袍 (xia)	Zhou	. ɑu . ˩	1388		?	. ɑu . ˩
+2776	2 xia	袍 (xia)	Baxter	. aw . .	1388		?	. aw . .
+2777	2 xia	襃 (xia)	Zhou	. ɑu . ˩	1389		?	. ɑu . ˩
+2778	2 xia	襃 (xia)	Baxter	. aw . .	1389		?	. aw . .
+2779	2 xia	見 (xia)	Zhou	i e n ˩˥	1390		?	i e n ˩˥
+2780	2 xia	見 (xia)	Baxter	. e n H	1390		?	. e n H
+2781	2 xia	視 (xia)	Zhou	. i . ˥	1391		?	. i . ˥
+2782	2 xia	視 (xia)	Baxter	. ij . X	1391		?	. ij . X
+2783	2 xia	覽 (xia)	Zhou	. ɑ m ˥	1392		?	. ɑ m ˥
+2784	2 xia	覽 (xia)	Baxter	. a m X	1392		?	. a m X
+2785	2 xia	角 (xia)	Zhou	. ɔ k .	1393		?	. ɔ k .
+2786	2 xia	角 (xia)	Baxter	. æw k .	1393		?	. æw k .
+2787	2 xia	言 (xia)	Zhou	ĭ ɐ n ˥˩	1394		?	ĭ ɐ n ˥˩
+2788	2 xia	言 (xia)	Baxter	j o n .	1394		?	j o n .
+2789	2 xia	計 (xia)	Zhou	i ei . ˩˥	1395		?	i ei . ˩˥
+2790	2 xia	計 (xia)	Baxter	. ej . H	1395		?	. ej . H
+2791	2 xia	訖 (xia)	Zhou	ĭ ə t .	1396		?	ĭ ə t .
+2792	2 xia	訖 (xia)	Baxter	j ɨ t .	1396		?	j ɨ t .
+2793	2 xia	記 (xia)	Zhou	ĭ ə . ˩˥	1397		?	ĭ ə . ˩˥
+2794	2 xia	記 (xia)	Baxter	. i . H	1397		?	. i . H
+2795	2 xia	訝 (xia)	Zhou	. a . ˩˥	1398		?	. a . ˩˥
+2796	2 xia	訝 (xia)	Baxter	. æ . H	1398		?	. æ . H
+2797	2 xia	訪 (xia)	Zhou	ĭw a ŋ ˩˥	1399		?	ĭw a ŋ ˩˥
+2798	2 xia	訪 (xia)	Baxter	jw a ng H	1399		?	jw a ng H
+2799	2 xia	許 (xia)	Zhou	ĭ o . ˥	1400		?	ĭ o . ˥
+2800	2 xia	許 (xia)	Baxter	j o . X	1400		?	j o . X
+2801	2 xia	詣 (xia)	Zhou	i ei . ˩˥	1401		?	i ei . ˩˥
+2802	2 xia	詣 (xia)	Baxter	. ej . H	1401		?	. ej . H
+2803	2 xia	詭 (xia)	Zhou	ĭw e . ˥	1402		?	ĭw e . ˥
+2804	2 xia	詭 (xia)	Baxter	jw e . X	1402		?	jw e . X
+2805	2 xia	誄 (xia)	Zhou	w i . ˥	1403		?	w i . ˥
+2806	2 xia	誄 (xia)	Baxter	jw ij . X	1403		?	jw ij . X
+2807	2 xia	誤 (xia)	Zhou	. u . ˩˥	1404		?	. u . ˩˥
+2808	2 xia	誤 (xia)	Baxter	. u . H	1404		?	. u . H
+2809	2 xia	諧 (xia)	Zhou	. ɐi . ˥˩	1405		?	. ɐi . ˥˩
+2810	2 xia	諧 (xia)	Baxter	. ɛj . .	1405		?	. ɛj . .
+2811	2 xia	諸 (xia)	Zhou	ĭ o . ˩	1406		?	ĭ o . ˩
+2812	2 xia	諸 (xia)	Baxter	. o . .	1406		?	. o . .
+2813	2 xia	謀 (xia)	Zhou	ĭ əu . ˩	1407		?	ĭ əu . ˩
+2814	2 xia	謀 (xia)	Baxter	j uw . .	1407		?	j uw . .
+2815	2 xia	謁 (xia)	Zhou	ĭ ɐ t .	1408		?	ĭ ɐ t .
+2816	2 xia	謁 (xia)	Baxter	j o t .	1408		?	j o t .
+2817	2 xia	謗 (xia)	Zhou	u ɑ ŋ ˩˥	1409		?	u ɑ ŋ ˩˥
+2818	2 xia	謗 (xia)	Baxter	w a ng H	1409		?	w a ng H
+2819	2 xia	講 (xia)	Zhou	. ɔ ŋ ˥	1410		?	. ɔ ŋ ˥
+2820	2 xia	講 (xia)	Baxter	. æw ng X	1410		?	. æw ng X
+2821	2 xia	謝 (xia)	Zhou	ĭ a . ˩˥	1411		?	ĭ a . ˩˥
+2822	2 xia	謝 (xia)	Baxter	. æ . H	1411		?	. æ . H
+2823	2 xia	謬 (xia)	Zhou	i əu . ˩˥	1412		?	i əu . ˩˥
+2824	2 xia	謬 (xia)	Baxter	j iw . H	1412		?	j iw . H
+2825	2 xia	謹 (xia)	Zhou	ĭ ə n ˥	1413		?	ĭ ə n ˥
+2826	2 xia	謹 (xia)	Baxter	j ɨ n X	1413		?	j ɨ n X
+2827	2 xia	證 (xia)	Zhou	ĭ ə ŋ ˩˥	1414		?	ĭ ə ŋ ˩˥
+2828	2 xia	證 (xia)	Baxter	. i ng H	1414		?	. i ng H
+2829	2 xia	讒 (xia)	Zhou	. ɐ m ˩	1415		?	. ɐ m ˩
+2830	2 xia	讒 (xia)	Baxter	. ɛ m .	1415		?	. ɛ m .
+2831	2 xia	讓 (xia)	Zhou	ĭ a ŋ ˩˥	1416		?	ĭ a ŋ ˩˥
+2832	2 xia	讓 (xia)	Baxter	j a ng H	1416		?	j a ng H
+2833	2 xia	谷 (xia)	Zhou	. u k .	1417		?	. u k .
+2834	2 xia	谷 (xia)	Baxter	. uw k .	1417		?	. uw k .
+2835	2 xia	豉 (xia)	Zhou	ĭ e . ˩˥	1418		?	ĭ e . ˩˥
+2836	2 xia	豉 (xia)	Baxter	. e . H	1418		?	. e . H
+2837	2 xia	豔 (xia)	Zhou	ĭ ɛ m ˩˥	1419		?	ĭ ɛ m ˩˥
+2838	2 xia	豔 (xia)	Baxter	. e m H	1419		?	. e m H
+2839	2 xia	貞 (xia)	Zhou	ĭ ɛ ŋ ˩	1420		?	ĭ ɛ ŋ ˩
+2840	2 xia	貞 (xia)	Baxter	j ie ng .	1420		?	j ie ng .
+2841	2 xia	貟 (xia)	Zhou	ĭw ɛ n ˩	1421		?	ĭw ɛ n ˩
+2842	2 xia	貟 (xia)	Baxter	jw e n .	1421		?	jw e n .
+2843	2 xia	貢 (xia)	Zhou	. u ŋ ˩˥	1422		?	. u ŋ ˩˥
+2844	2 xia	貢 (xia)	Baxter	. uw ng H	1422		?	. uw ng H
+2845	2 xia	貨 (xia)	Zhou	u ɑ . ˩˥	1423		?	u ɑ . ˩˥
+2846	2 xia	貨 (xia)	Baxter	w a . H	1423		?	w a . H
+2847	2 xia	貴 (xia)	Zhou	ĭw əi . ˩˥	1424		?	ĭw əi . ˩˥
+2848	2 xia	貴 (xia)	Baxter	jw ɨj . H	1424		?	jw ɨj . H
+2849	2 xia	買 (xia)	Zhou	. ai . ˥	1425		?	. ai . ˥
+2850	2 xia	買 (xia)	Baxter	. ɛ . X	1425		?	. ɛ . X
+2851	2 xia	賀 (xia)	Zhou	. ɑ . ˩˥	1426		?	. ɑ . ˩˥
+2852	2 xia	賀 (xia)	Baxter	. a . H	1426		?	. a . H
+2853	2 xia	賄 (xia)	Zhou	u ɒi . ˥	1427		?	u ɒi . ˥
+2854	2 xia	賄 (xia)	Baxter	w oj . X	1427		?	w oj . X
+2855	2 xia	賖 (xia)	Zhou	ĭ a . ˩	1428		?	ĭ a . ˩
+2856	2 xia	賖 (xia)	Baxter	. æ . .	1428		?	. æ . .
+2857	2 xia	賜 (xia)	Zhou	ĭ e . ˩˥	1429		?	ĭ e . ˩˥
+2858	2 xia	賜 (xia)	Baxter	ji e . H	1429		?	ji e . H
+2859	2 xia	賢 (xia)	Zhou	i e n ˥˩	1430		?	i e n ˥˩
+2860	2 xia	賢 (xia)	Baxter	. e n .	1430		?	. e n .
+2861	2 xia	賣 (xia)	Zhou	w ai . ˩˥	1431		?	w ai . ˩˥
+2862	2 xia	賣 (xia)	Baxter	w ɛ . H	1431		?	w ɛ . H
+2863	2 xia	賤 (xia)	Zhou	ĭ ɛ n ˩˥	1432		?	ĭ ɛ n ˩˥
+2864	2 xia	賤 (xia)	Baxter	j e n H	1432		?	j e n H
+2865	2 xia	質 (xia)	Zhou	ĭ ĕ t .	1433		?	ĭ ĕ t .
+2866	2 xia	質 (xia)	Baxter	. i t .	1433		?	. i t .
+2867	2 xia	贇 (xia)	Zhou	ĭw ĕ n ˩	1434		?	ĭw ĕ n ˩
+2868	2 xia	贇 (xia)	Baxter	w i n .	1434		?	w i n .
+2869	2 xia	贍 (xia)	Zhou	ĭ ɛ m ˩˥	1435		?	ĭ ɛ m ˩˥
+2870	2 xia	贍 (xia)	Baxter	. e m H	1435		?	. e m H
+2871	2 xia	越 (xia)	Zhou	ĭw ɐ t .	1436		?	ĭw ɐ t .
+2872	2 xia	越 (xia)	Baxter	j o t .	1436		?	j o t .
+2873	2 xia	踵 (xia)	Zhou	ĭw o ŋ ˥	1437		?	ĭw o ŋ ˥
+2874	2 xia	踵 (xia)	Baxter	j ow ng X	1437		?	j ow ng X
+2875	2 xia	蹇 (xia)	Zhou	ĭ ɛ n ˥	1438		?	ĭ ɛ n ˥
+2876	2 xia	蹇 (xia)	Baxter	j e n X	1438		?	j e n X
+2877	2 xia	車 (xia)	Zhou	ĭ a . ˥˩	1439		?	ĭ a . ˥˩
+2878	2 xia	車 (xia)	Baxter	. æ . .	1439		?	. æ . .
+2879	2 xia	軌 (xia)	Zhou	w i . ˥	1440		?	w i . ˥
+2880	2 xia	軌 (xia)	Baxter	w ij . X	1440		?	w ij . X
+2881	2 xia	軒 (xia)	Zhou	ĭ ɐ n ˩	1441		?	ĭ ɐ n ˩
+2882	2 xia	軒 (xia)	Baxter	j o n .	1441		?	j o n .
+2883	2 xia	軫 (xia)	Zhou	ĭ ĕ n ˥	1442		?	ĭ ĕ n ˥
+2884	2 xia	軫 (xia)	Baxter	. i n X	1442		?	. i n X
+2885	2 xia	輸 (xia)	Zhou	ĭ u . ˥˩	1443		?	ĭ u . ˥˩
+2886	2 xia	輸 (xia)	Baxter	j u . .	1443		?	j u . .
+2887	2 xia	轉 (xia)	Zhou	ĭw ɛ n ˥	1444		?	ĭw ɛ n ˥
+2888	2 xia	轉 (xia)	Baxter	jw e n X	1444		?	jw e n X
+2889	2 xia	辟 (xia)	Zhou	ĭ ɛ k .	1445		?	ĭ ɛ k .
+2890	2 xia	辟 (xia)	Baxter	ji e k .	1445		?	ji e k .
+2891	2 xia	辥 (xia)	Zhou	ĭ ɛ t .	1446		?	ĭ ɛ t .
+2892	2 xia	辥 (xia)	Baxter	j e t .	1446		?	j e t .
+2893	2 xia	辨 (xia)	Zhou	ĭ ɛ n ˥	1447		?	ĭ ɛ n ˥
+2894	2 xia	辨 (xia)	Baxter	j e n X	1447		?	j e n X
+2895	2 xia	迍 (xia)	Zhou	ĭu ĕ n ˩	1448		?	ĭu ĕ n ˩
+2896	2 xia	迍 (xia)	Baxter	w i n .	1448		?	w i n .
+2897	2 xia	迥 (xia)	Zhou	i e ŋ ˥	1449		?	i e ŋ ˥
+2898	2 xia	迥 (xia)	Baxter	. e ng X	1449		?	. e ng X
+2899	2 xia	追 (xia)	Zhou	ĭw i . ˩	1450		?	ĭw i . ˩
+2900	2 xia	追 (xia)	Baxter	w ij . .	1450		?	w ij . .
+2901	2 xia	送 (xia)	Zhou	. u ŋ ˩˥	1451		?	. u ŋ ˩˥
+2902	2 xia	送 (xia)	Baxter	. uw ng H	1451		?	. uw ng H
+2903	2 xia	逐 (xia)	Zhou	ĭ u k .	1452		?	ĭ u k .
+2904	2 xia	逐 (xia)	Baxter	j uw k .	1452		?	j uw k .
+2905	2 xia	連 (xia)	Zhou	ĭ ɛ n ˥˩	1453		?	ĭ ɛ n ˥˩
+2906	2 xia	連 (xia)	Baxter	. e n .	1453		?	. e n .
+2907	2 xia	逺 (xia)	Zhou	ĭw ɐ n ˥	1454		?	ĭw ɐ n ˥
+2908	2 xia	逺 (xia)	Baxter	j o n X	1454		?	j o n X
+2909	2 xia	逼 (xia)	Zhou	ĭ ə k .	1455		?	ĭ ə k .
+2910	2 xia	逼 (xia)	Baxter	. i k .	1455		?	. i k .
+2911	2 xia	遂 (xia)	Zhou	w i . ˩˥	1456		?	w i . ˩˥
+2912	2 xia	遂 (xia)	Baxter	w ij . H	1456		?	w ij . H
+2913	2 xia	遇 (xia)	Zhou	ĭ u . ˩˥	1457		?	ĭ u . ˩˥
+2914	2 xia	遇 (xia)	Baxter	j u . H	1457		?	j u . H
+2915	2 xia	運 (xia)	Zhou	ĭ uə n ˩˥	1458		?	ĭ uə n ˩˥
+2916	2 xia	運 (xia)	Baxter	j u n H	1458		?	j u n H
+2917	2 xia	達 (xia)	Zhou	. ɑ t .	1459		?	. ɑ t .
+2918	2 xia	達 (xia)	Baxter	. a t .	1459		?	. a t .
+2919	2 xia	遘 (xia)	Zhou	. əu . ˩˥	1460		?	. əu . ˩˥
+2920	2 xia	遘 (xia)	Baxter	. uw . H	1460		?	. uw . H
+2921	2 xia	遥 (xia)	Zhou	ĭ ɛu . ˥˩	1461		?	ĭ ɛu . ˥˩
+2922	2 xia	遥 (xia)	Baxter	. ew . .	1461		?	. ew . .
+2923	2 xia	遮 (xia)	Zhou	ĭ a . ˩	1462		?	ĭ a . ˩
+2924	2 xia	遮 (xia)	Baxter	. æ . .	1462		?	. æ . .
+2925	2 xia	遴 (xia)	Zhou	ĭ ĕ n ˩˥	1463		?	ĭ ĕ n ˩˥
+2926	2 xia	遴 (xia)	Baxter	. i n H	1463		?	. i n H
+2927	2 xia	遵 (xia)	Zhou	ĭu ĕ n ˩	1464		?	ĭu ĕ n ˩
+2928	2 xia	遵 (xia)	Baxter	w i n .	1464		?	w i n .
+2929	2 xia	遺 (xia)	Zhou	w i . ˥˩	1465		?	w i . ˥˩
+2930	2 xia	遺 (xia)	Baxter	w ij . .	1465		?	w ij . .
+2931	2 xia	邀 (xia)	Zhou	ĭ ɛu . ˥˩	1466		?	ĭ ɛu . ˥˩
+2932	2 xia	邀 (xia)	Baxter	j ew . .	1466		?	j ew . .
+2933	2 xia	邁 (xia)	Zhou	w æi . ˩˥	1467		?	w æi . ˩˥
+2934	2 xia	邁 (xia)	Baxter	w æj . H	1467		?	w æj . H
+2935	2 xia	還 (xia)	Zhou	w a n ˥˩	1468		?	w a n ˥˩
+2936	2 xia	還 (xia)	Baxter	w æ n .	1468		?	w æ n .
+2937	2 xia	邪 (xia)	Zhou	ĭ a . ˥˩	1469		?	ĭ a . ˥˩
+2938	2 xia	邪 (xia)	Baxter	j æ . .	1469		?	j æ . .
+2939	2 xia	郎 (xia)	Zhou	. ɑ ŋ ˥˩	1470		?	. ɑ ŋ ˥˩
+2940	2 xia	郎 (xia)	Baxter	. a ng .	1470		?	. a ng .
+2941	2 xia	郢 (xia)	Zhou	ĭ ɛ ŋ ˥	1471		?	ĭ ɛ ŋ ˥
+2942	2 xia	郢 (xia)	Baxter	. e ng X	1471		?	. e ng X
+2943	2 xia	郭 (xia)	Zhou	u ɑ k .	1472		?	u ɑ k .
+2944	2 xia	郭 (xia)	Baxter	w a k .	1472		?	w a k .
+2945	2 xia	都 (xia)	Zhou	. u . ˥˩	1473		?	. u . ˥˩
+2946	2 xia	都 (xia)	Baxter	. u . .	1473		?	. u . .
+2947	2 xia	鄙 (xia)	Zhou	. i . ˥	1474		?	. i . ˥
+2948	2 xia	鄙 (xia)	Baxter	. ij . X	1474		?	. ij . X
+2949	2 xia	鄧 (xia)	Zhou	. ə ŋ ˩˥	1475		?	. ə ŋ ˩˥
+2950	2 xia	鄧 (xia)	Baxter	. o ng H	1475		?	. o ng H
+2951	2 xia	鄰 (xia)	Zhou	ĭ ĕ n ˩	1476		?	ĭ ĕ n ˩
+2952	2 xia	鄰 (xia)	Baxter	. i n .	1476		?	. i n .
+2953	2 xia	醉 (xia)	Zhou	w i . ˩˥	1477		?	w i . ˩˥
+2954	2 xia	醉 (xia)	Baxter	w ij . H	1477		?	w ij . H
+2955	2 xia	里 (xia)	Zhou	ĭ ə . ˥	1478		?	ĭ ə . ˥
+2956	2 xia	里 (xia)	Baxter	. i . X	1478		?	. i . X
+2957	2 xia	金 (xia)	Zhou	ĭ ĕ m ˩	1479		?	ĭ ĕ m ˩
+2958	2 xia	金 (xia)	Baxter	. i m .	1479		?	. i m .
+2959	2 xia	針 (xia)	Zhou	ĭ ĕ m ˥˩	1480		?	ĭ ĕ m ˥˩
+2960	2 xia	針 (xia)	Baxter	. i m .	1480		?	. i m .
+2961	2 xia	鉤 (xia)	Zhou	. əu . ˩	1481		?	. əu . ˩
+2962	2 xia	鉤 (xia)	Baxter	. uw . .	1481		?	. uw . .
+2963	2 xia	銀 (xia)	Zhou	ĭ ĕ n ˥˩	1482		?	ĭ ĕ n ˥˩
+2964	2 xia	銀 (xia)	Baxter	. i n .	1482		?	. i n .
+2965	2 xia	銜 (xia)	Zhou	. a m ˥˩	1483		?	. a m ˥˩
+2966	2 xia	銜 (xia)	Baxter	. æ m .	1483		?	. æ m .
+2967	2 xia	錦 (xia)	Zhou	ĭ ĕ m ˥	1484		?	ĭ ĕ m ˥
+2968	2 xia	錦 (xia)	Baxter	. i m X	1484		?	. i m X
+2969	2 xia	錽 (xia)	Zhou	ĭw ɐ m ˥	1485		?	ĭw ɐ m ˥
+2970	2 xia	錽 (xia)	Baxter	j o m X	1485		?	j o m X
+2971	2 xia	钁 (xia)	Zhou	ĭw a k .	1486		?	ĭw a k .
+2972	2 xia	钁 (xia)	Baxter	j a k .	1486		?	j a k .
+2973	2 xia	開 (xia)	Zhou	. ɒi . ˥˩	1487		?	. ɒi . ˥˩
+2974	2 xia	開 (xia)	Baxter	. oj . .	1487		?	. oj . .
+2975	2 xia	閒 (xia)	Zhou	. æ n ˥˩	1488		?	. æ n ˥˩
+2976	2 xia	閒 (xia)	Baxter	. ɛ n .	1488		?	. ɛ n .
+2977	2 xia	閠 (xia)	Zhou	ĭu ĕ n ˩˥	1489		?	ĭu ĕ n ˩˥
+2978	2 xia	閠 (xia)	Baxter	w i n H	1489		?	w i n H
+2979	2 xia	閤 (xia)	Zhou	. ɒ p .	1490		?	. ɒ p .
+2980	2 xia	閤 (xia)	Baxter	. o p .	1490		?	. o p .
+2981	2 xia	闃 (xia)	Zhou	iw e k .	1491		?	iw e k .
+2982	2 xia	闃 (xia)	Baxter	w e k .	1491		?	w e k .
+2983	2 xia	關 (xia)	Zhou	w a n ˩	1492		?	w a n ˩
+2984	2 xia	關 (xia)	Baxter	w æ n .	1492		?	w æ n .
+2985	2 xia	陌 (xia)	Zhou	. ɐ k .	1493		?	. ɐ k .
+2986	2 xia	陌 (xia)	Baxter	. æ k .	1493		?	. æ k .
+2987	2 xia	陵 (xia)	Zhou	ĭ ə ŋ ˥˩	1494		?	ĭ ə ŋ ˥˩
+2988	2 xia	陵 (xia)	Baxter	. i ng .	1494		?	. i ng .
+2989	2 xia	隅 (xia)	Zhou	ĭ u . ˥˩	1495		?	ĭ u . ˥˩
+2990	2 xia	隅 (xia)	Baxter	j u . .	1495		?	j u . .
+2991	2 xia	隊 (xia)	Zhou	u ɒi . ˩˥	1496		?	u ɒi . ˩˥
+2992	2 xia	隊 (xia)	Baxter	w oj . H	1496		?	w oj . H
+2993	2 xia	隋 (xia)	Zhou	ĭw e . ˥˩	1497		?	ĭw e . ˥˩
+2994	2 xia	隋 (xia)	Baxter	jw ie . .	1497		?	jw ie . .
+2995	2 xia	隨 (xia)	Zhou	ĭw e . ˥˩	1498		?	ĭw e . ˥˩
+2996	2 xia	隨 (xia)	Baxter	jw ie . .	1498		?	jw ie . .
+2997	2 xia	險 (xia)	Zhou	ĭ ɛ m ˥	1499		?	ĭ ɛ m ˥
+2998	2 xia	險 (xia)	Baxter	j e m X	1499		?	j e m X
+2999	2 xia	隱 (xia)	Zhou	ĭ ə n ˥	1500		?	ĭ ə n ˥
+3000	2 xia	隱 (xia)	Baxter	j ɨ n X	1500		?	j ɨ n X
+3001	2 xia	隴 (xia)	Zhou	ĭw o ŋ ˥	1501		?	ĭw o ŋ ˥
+3002	2 xia	隴 (xia)	Baxter	j ow ng X	1501		?	j ow ng X
+3003	2 xia	隹 (xia)	Zhou	w i . ˥˩	1502		?	w i . ˥˩
+3004	2 xia	隹 (xia)	Baxter	w ij . .	1502		?	w ij . .
+3005	2 xia	隻 (xia)	Zhou	ĭ ɛ k .	1503		?	ĭ ɛ k .
+3006	2 xia	隻 (xia)	Baxter	. e k .	1503		?	. e k .
+3007	2 xia	雅 (xia)	Zhou	. a . ˥	1504		?	. a . ˥
+3008	2 xia	雅 (xia)	Baxter	. æ . X	1504		?	. æ . X
+3009	2 xia	雉 (xia)	Zhou	. i . ˥	1505		?	. i . ˥
+3010	2 xia	雉 (xia)	Baxter	. ij . X	1505		?	. ij . X
+3011	2 xia	雙 (xia)	Zhou	. ɔ ŋ ˥˩	1506		?	. ɔ ŋ ˥˩
+3012	2 xia	雙 (xia)	Baxter	. æw ng .	1506		?	. æw ng .
+3013	2 xia	雞 (xia)	Zhou	i ei . ˩	1507		?	i ei . ˩
+3014	2 xia	雞 (xia)	Baxter	. ej . .	1507		?	. ej . .
+3015	2 xia	離 (xia)	Zhou	ĭ e . ˩	1508		?	ĭ e . ˩
+3016	2 xia	離 (xia)	Baxter	j e . .	1508		?	j e . .
+3017	2 xia	雨 (xia)	Zhou	ĭ u . ˥	1509		?	ĭ u . ˥
+3018	2 xia	雨 (xia)	Baxter	j u . X	1509		?	j u . X
+3019	2 xia	雪 (xia)	Zhou	ĭw ɛ t .	1510		?	ĭw ɛ t .
+3020	2 xia	雪 (xia)	Baxter	jw e t .	1510		?	jw e t .
+3021	2 xia	電 (xia)	Zhou	i e n ˩˥	1511		?	i e n ˩˥
+3022	2 xia	電 (xia)	Baxter	. e n H	1511		?	. e n H
+3023	2 xia	霄 (xia)	Zhou	ĭ ɛu . ˥˩	1512		?	ĭ ɛu . ˥˩
+3024	2 xia	霄 (xia)	Baxter	ji ew . .	1512		?	ji ew . .
+3025	2 xia	霸 (xia)	Zhou	w a . ˩˥	1513		?	w a . ˩˥
+3026	2 xia	霸 (xia)	Baxter	w æ . H	1513		?	w æ . H
+3027	2 xia	靈 (xia)	Zhou	i e ŋ ˥˩	1514		?	i e ŋ ˥˩
+3028	2 xia	靈 (xia)	Baxter	. e ng .	1514		?	. e ng .
+3029	2 xia	非 (xia)	Zhou	ĭw əi . ˩	1515		?	ĭw əi . ˩
+3030	2 xia	非 (xia)	Baxter	jw ɨj . .	1515		?	jw ɨj . .
+3031	2 xia	靡 (xia)	Zhou	ĭ e . ˥	1516		?	ĭ e . ˥
+3032	2 xia	靡 (xia)	Baxter	j e . X	1516		?	j e . X
+3033	2 xia	面 (xia)	Zhou	ĭ ɛ n ˩˥	1517		?	ĭ ɛ n ˩˥
+3034	2 xia	面 (xia)	Baxter	ji e n H	1517		?	ji e n H
+3035	2 xia	革 (xia)	Zhou	. æ k .	1518		?	. æ k .
+3036	2 xia	革 (xia)	Baxter	. ɛ k .	1518		?	. ɛ k .
+3037	2 xia	靳 (xia)	Zhou	ĭ ə n ˩˥	1519		?	ĭ ə n ˩˥
+3038	2 xia	靳 (xia)	Baxter	j ɨ n H	1519		?	j ɨ n H
+3039	2 xia	韋 (xia)	Zhou	ĭw əi . ˥˩	1520		?	ĭw əi . ˥˩
+3040	2 xia	韋 (xia)	Baxter	jw ɨj . .	1520		?	jw ɨj . .
+3041	2 xia	韻 (xia)	Zhou	ĭ ə ŋ ˥	1521		?	ĭ ə ŋ ˥
+3042	2 xia	韻 (xia)	Baxter	. i ng X	1521		?	. i ng X
+3043	2 xia	韽 (xia)	Zhou	. ɐ m ˩˥	1522		?	. ɐ m ˩˥
+3044	2 xia	韽 (xia)	Baxter	. ɛ m H	1522		?	. ɛ m H
+3045	2 xia	項 (xia)	Zhou	. ɔ ŋ ˥	1523		?	. ɔ ŋ ˥
+3046	2 xia	項 (xia)	Baxter	. æw ng X	1523		?	. æw ng X
+3047	2 xia	頌 (xia)	Zhou	ĭw o ŋ ˩˥	1524		?	ĭw o ŋ ˩˥
+3048	2 xia	頌 (xia)	Baxter	. ow ng H	1524		?	. ow ng H
+3049	2 xia	頑 (xia)	Zhou	w æ n ˥˩	1525		?	w æ n ˥˩
+3050	2 xia	頑 (xia)	Baxter	w ɛ n .	1525		?	w ɛ n .
+3051	2 xia	顔 (xia)	Zhou	. a n ˥˩	1526		?	. a n ˥˩
+3052	2 xia	顔 (xia)	Baxter	. æ n .	1526		?	. æ n .
+3053	2 xia	願 (xia)	Zhou	ĭw ɐ n ˩˥	1527		?	ĭw ɐ n ˩˥
+3054	2 xia	願 (xia)	Baxter	jw o n H	1527		?	jw o n H
+3055	2 xia	顚 (xia)	Zhou	i e n ˩	1528		?	i e n ˩
+3056	2 xia	顚 (xia)	Baxter	. e n .	1528		?	. e n .
+3057	2 xia	類 (xia)	Zhou	w i . ˩˥	1529		?	w i . ˩˥
+3058	2 xia	類 (xia)	Baxter	w ij . H	1529		?	w ij . H
+3059	2 xia	飲 (xia)	Zhou	ĭ ĕ m ˥	1530		?	ĭ ĕ m ˥
+3060	2 xia	飲 (xia)	Baxter	. i m X	1530		?	. i m X
+3061	2 xia	駕 (xia)	Zhou	. a . ˩˥	1531		?	. a . ˩˥
+3062	2 xia	駕 (xia)	Baxter	. æ . H	1531		?	. æ . H
+3063	2 xia	驗 (xia)	Zhou	ĭ ɛ m ˩˥	1532		?	ĭ ɛ m ˩˥
+3064	2 xia	驗 (xia)	Baxter	j e m H	1532		?	j e m H
+3065	2 xia	骨 (xia)	Zhou	u ə t .	1533		?	u ə t .
+3066	2 xia	骨 (xia)	Baxter	w o t .	1533		?	w o t .
+3067	2 xia	魚 (xia)	Zhou	ĭ o . ˥˩	1534		?	ĭ o . ˥˩
+3068	2 xia	魚 (xia)	Baxter	j o . .	1534		?	j o . .
+3069	2 xia	魯 (xia)	Zhou	. u . ˥	1535		?	. u . ˥
+3070	2 xia	魯 (xia)	Baxter	. u . X	1535		?	. u . X
+3071	2 xia	鳩 (xia)	Zhou	ĭ əu . ˩	1536		?	ĭ əu . ˩
+3072	2 xia	鳩 (xia)	Baxter	j uw . .	1536		?	j uw . .
+3073	2 xia	鴆 (xia)	Zhou	ĭ ĕ m ˩˥	1537		?	ĭ ĕ m ˩˥
+3074	2 xia	鴆 (xia)	Baxter	. i m H	1537		?	. i m H
+3075	2 xia	鶪 (xia)	Zhou	iw e k .	1538		?	iw e k .
+3076	2 xia	鶪 (xia)	Baxter	w e k .	1538		?	w e k .
+3077	2 xia	鹽 (xia)	Zhou	ĭ ɛ m ˩	1539		?	ĭ ɛ m ˩
+3078	2 xia	鹽 (xia)	Baxter	j e m .	1539		?	j e m .
+3079	2 xia	麥 (xia)	Zhou	w æ k .	1540		?	w æ k .
+3080	2 xia	麥 (xia)	Baxter	w ɛ k .	1540		?	w ɛ k .
+3081	2 xia	黃 (xia)	Zhou	u ɑ ŋ ˥˩	1541		?	u ɑ ŋ ˥˩
+3082	2 xia	黃 (xia)	Baxter	w a ng .	1541		?	w a ng .
+3083	2 xia	黝 (xia)	Zhou	i əu . ˥	1542		?	i əu . ˥
+3084	2 xia	黝 (xia)	Baxter	j iw . X	1542		?	j iw . X
+3085	2 xia	黤 (xia)	Zhou	. a m ˥	1543		?	. a m ˥
+3086	2 xia	黤 (xia)	Baxter	. a m X	1543		?	. a m X
+3087	2 xia	黨 (xia)	Zhou	. ɑ ŋ ˥	1544		?	. ɑ ŋ ˥
+3088	2 xia	黨 (xia)	Baxter	. a ng X	1544		?	. a ng X
+3089	2 xia	𡋡 (xia)	Zhou	ĭw ɐ n ˥˩	1545		?	ĭw ɐ n ˥˩
+3090	2 xia	𡋡 (xia)	Baxter	j o n .	1545		?	j o n .
+3091	2 xia	𡚁 (xia)	Zhou	ĭ ɛi . ˩˥	1546		?	ĭ ɛi . ˩˥
+3092	2 xia	𡚁 (xia)	Baxter	ji ej . H	1546		?	ji ej . H
+3093	2 xia	𢈔 (xia)	Zhou	ĭ u . ˥	1547		?	ĭ u . ˥
+3094	2 xia	𢈔 (xia)	Baxter	j u . X	1547		?	j u . X
+3095	2 xia	𤓰 (xia)	Zhou	w a . ˥˩	1548		?	w a . ˥˩
+3096	2 xia	𤓰 (xia)	Baxter	w æ . .	1548		?	w æ . .
+3097	2 xia	𤣥 (xia)	Zhou	i e n ˥˩	1549		?	i e n ˥˩
+3098	2 xia	𤣥 (xia)	Baxter	. e n .	1549		?	. e n .
+3099	2 xia	𥬇 (xia)	Zhou	ĭ ɛu . ˩˥	1550		?	ĭ ɛu . ˩˥
+3100	2 xia	𥬇 (xia)	Baxter	ji ew . H	1550		?	ji ew . H
+3101	2 xia	𥳑 (xia)	Zhou	. æ n ˥	1551		?	. æ n ˥
+3102	2 xia	𥳑 (xia)	Baxter	. ɛ n X	1551		?	. ɛ n X
+3103	2 xia	𦵔 (xia)	Zhou	ĭ o . ˥˩	1552		?	ĭ o . ˥˩
+3104	2 xia	𦵔 (xia)	Baxter	j o . .	1552		?	j o . .
+3105	2 xia	𩏩 (xia)	Zhou	ĭ ɐ m ˩	1553		?	ĭ ɐ m ˩
+3106	2 xia	𩏩 (xia)	Baxter	j æ m .	1553		?	j æ m .
+#@highlight=TOKENS
+#@sampa=
+#@pinyin=
+#@css=menu:show|database:hide
+#@basics=COGID|CONCEPT|DOCULECT|NOTE|TOKENS
+#@_selected_doculects=Baxter|Zhou
+#@_selected_concepts=元 (xia)
+#@sorted_taxa=Baxter|Zhou
+#@sorted_concepts=丈 (shang)|丕 (shang)|乖 (shang)|仕 (shang)|休 (shang)|俟 (shang)|借 (shang)|具 (shang)|兹 (shang)|兼 (shang)|助 (shang)|勒 (shang)|卓 (shang)|占 (shang)|厠 (shang)|又 (shang)|反 (shang)|取 (shang)|台 (shang)|叱 (shang)|史 (shang)|各 (shang)|墜 (shang)|夕 (shang)|天 (shang)|妳 (shang)|姊 (shang)|姑 (shang)|委 (shang)|安 (shang)|實 (shang)|寫 (shang)|寺 (shang)|封 (shang)|峯 (shang)|崇 (shang)|巴 (shang)|干 (shang)|并 (shang)|弼 (shang)|徵 (shang)|恪 (shang)|恱 (shang)|愛 (shang)|憂 (shang)|懷 (shang)|成 (shang)|拂 (shang)|拏 (shang)|捕 (shang)|握 (shang)|擬 (shang)|晡 (shang)|曁 (shang)|曲 (shang)|查 (shang)|楮 (shang)|楷 (shang)|模 (shang)|比 (shang)|沙 (shang)|浮 (shang)|漸 (shang)|烟 (shang)|父 (shang)|牽 (shang)|犲 (shang)|獲 (shang)|玉 (shang)|生 (shang)|癡 (shang)|白 (shang)|百 (shang)|研 (shang)|穠 (shang)|筠 (shang)|簪 (shang)|縷 (shang)|興 (shang)|花 (shang)|芻 (shang)|苻 (shang)|虞 (shang)|蜀 (shang)|豬 (shang)|賴 (shang)|起 (shang)|跪 (shang)|速 (shang)|遵 (shang)|邊 (shang)|鄒 (shang)|醉 (shang)|醋 (shang)|隨 (shang)|雛 (shang)|雲 (shang)|青 (shang)|韋 (shang)|馳 (shang)|驅 (shang)|鶵 (shang)|鷖 (shang)|𩛠 (shang)|㕦 (xia)|㾕 (xia)|一 (xia)|仙 (xia)|令 (xia)|伴 (xia)|伽 (xia)|侈 (xia)|允 (xia)|兢 (xia)|全 (xia)|冢 (xia)|冷 (xia)|凜 (xia)|凡 (xia)|剄 (xia)|劫 (xia)|勇 (xia)|勒 (xia)|動 (xia)|匊 (xia)|升 (xia)|南 (xia)|厄 (xia)|叱 (xia)|吠 (xia)|否 (xia)|吹 (xia)|吾 (xia)|和 (xia)|唵 (xia)|嘲 (xia)|器 (xia)|在 (xia)|圭 (xia)|垢 (xia)|增 (xia)|墾 (xia)|壘 (xia)|夥 (xia)|奉 (xia)|姦 (xia)|婁 (xia)|宂 (xia)|宏 (xia)|宫 (xia)|宿 (xia)|山 (xia)|峴 (xia)|峻 (xia)|巴 (xia)|帶 (xia)|幺 (xia)|幽 (xia)|广 (xia)|庱 (xia)|庸 (xia)|引 (xia)|弟 (xia)|彪 (xia)|很 (xia)|心 (xia)|恨 (xia)|恩 (xia)|悦 (xia)|情 (xia)|惠 (xia)|愜 (xia)|愷 (xia)|慃 (xia)|憩 (xia)|戢 (xia)|戹 (xia)|戾 (xia)|打 (xia)|拯 (xia)|拱 (xia)|捶 (xia)|摑 (xia)|摘 (xia)|撗 (xia)|擬 (xia)|擭 (xia)|攝 (xia)|斗 (xia)|斬 (xia)|旁 (xia)|旬 (xia)|昉 (xia)|曲 (xia)|最 (xia)|朕 (xia)|東 (xia)|極 (xia)|楷 (xia)|橫 (xia)|檻 (xia)|此 (xia)|毁 (xia)|汁 (xia)|泉 (xia)|注 (xia)|涬 (xia)|淮 (xia)|湩 (xia)|溜 (xia)|滅 (xia)|滑 (xia)|漑 (xia)|漸 (xia)|潘 (xia)|焦 (xia)|煙 (xia)|爪 (xia)|爵 (xia)|牒 (xia)|犯 (xia)|猛 (xia)|猥 (xia)|瑟 (xia)|甾 (xia)|畏 (xia)|癸 (xia)|皃 (xia)|皎 (xia)|瞰 (xia)|矜 (xia)|礦 (xia)|禹 (xia)|私 (xia)|穫 (xia)|端 (xia)|篆 (xia)|篤 (xia)|簟 (xia)|籰 (xia)|米 (xia)|粉 (xia)|糾 (xia)|紖 (xia)|統 (xia)|綏 (xia)|綜 (xia)|維 (xia)|緩 (xia)|緬 (xia)|縛 (xia)|繭 (xia)|纂 (xia)|罽 (xia)|羽 (xia)|翦 (xia)|肌 (xia)|腎 (xia)|臡 (xia)|自 (xia)|艾 (xia)|芻 (xia)|范 (xia)|菊 (xia)|蔑 (xia)|蔽 (xia)|補 (xia)|襤 (xia)|訐 (xia)|話 (xia)|談 (xia)|諍 (xia)|豸 (xia)|貝 (xia)|資 (xia)|賈 (xia)|賔 (xia)|贈 (xia)|赧 (xia)|輟 (xia)|輦 (xia)|轄 (xia)|迦 (xia)|迸 (xia)|郤 (xia)|酣 (xia)|酷 (xia)|醒 (xia)|野 (xia)|銳 (xia)|鑑 (xia)|降 (xia)|陷 (xia)|雜 (xia)|靴 (xia)|養 (xia)|駭 (xia)|髓 (xia)|鬼 (xia)|魂 (xia)|鯇 (xia)|鰥 (xia)|鳥 (xia)|黒 (xia)|𢘆 (xia)|𦚢 (xia)|𦫳 (xia)|𩨷 (xia)|𪁪 (xia)|䟽 (shang)|中 (shang)|乎 (shang)|乙 (shang)|佳 (shang)|俄 (shang)|傾 (shang)|儒 (shang)|充 (shang)|先 (shang)|內 (shang)|前 (shang)|千 (shang)|叉 (shang)|口 (shang)|呵 (shang)|喜 (shang)|嘗 (shang)|土 (shang)|夷 (shang)|奇 (shang)|妃 (shang)|客 (shang)|山 (shang)|度 (shang)|弃 (shang)|恥 (shang)|持 (shang)|挹 (shang)|撫 (shang)|數 (shang)|普 (shang)|望 (shang)|格 (shang)|此 (shang)|歩 (shang)|殊 (shang)|殖 (shang)|母 (shang)|氏 (shang)|況 (shang)|洧 (shang)|滂 (shang)|火 (shang)|砂 (shang)|移 (shang)|空 (shang)|紀 (shang)|紆 (shang)|翼 (shang)|耳 (shang)|胥 (shang)|臣 (shang)|自 (shang)|薳 (shang)|處 (shang)|衢 (shang)|詰 (shang)|諾 (shang)|謨 (shang)|識 (shang)|赤 (shang)|辛 (shang)|辭 (shang)|追 (shang)|部 (shang)|采 (shang)|里 (shang)|陀 (shang)|雖 (shang)|馨 (shang)|馮 (shang)|麤 (shang)|丈 (xia)|中 (xia)|乙 (xia)|亂 (xia)|了 (xia)|于 (xia)|云 (xia)|井 (xia)|亞 (xia)|亦 (xia)|今 (xia)|介 (xia)|但 (xia)|低 (xia)|余 (xia)|佳 (xia)|來 (xia)|依 (xia)|倚 (xia)|偃 (xia)|元 (xia)|免 (xia)|内 (xia)|冶 (xia)|凶 (xia)|刮 (xia)|制 (xia)|剛 (xia)|劣 (xia)|勃 (xia)|勺 (xia)|勻 (xia)|占 (xia)|卦 (xia)|危 (xia)|及 (xia)|咸 (xia)|善 (xia)|嚴 (xia)|四 (xia)|圎 (xia)|埯 (xia)|大 (xia)|夭 (xia)|奇 (xia)|奏 (xia)|奔 (xia)|妹 (xia)|姊 (xia)|婆 (xia)|婢 (xia)|孔 (xia)|宵 (xia)|專 (xia)|尊 (xia)|尼 (xia)|川 (xia)|州 (xia)|帋 (xia)|廣 (xia)|役 (xia)|往 (xia)|忝 (xia)|急 (xia)|恚 (xia)|恭 (xia)|慮 (xia)|懺 (xia)|成 (xia)|扃 (xia)|抱 (xia)|招 (xia)|持 (xia)|掌 (xia)|接 (xia)|損 (xia)|攣 (xia)|敏 (xia)|敢 (xia)|斂 (xia)|早 (xia)|昭 (xia)|是 (xia)|晈 (xia)|景 (xia)|曷 (xia)|朋 (xia)|杯 (xia)|板 (xia)|柳 (xia)|栗 (xia)|栝 (xia)|根 (xia)|棱 (xia)|業 (xia)|榮 (xia)|權 (xia)|欠 (xia)|歳 (xia)|歸 (xia)|毛 (xia)|水 (xia)|沒 (xia)|泫 (xia)|活 (xia)|消 (xia)|淫 (xia)|淹 (xia)|激 (xia)|灰 (xia)|炙 (xia)|烋 (xia)|煩 (xia)|熱 (xia)|物 (xia)|犗 (xia)|狄 (xia)|班 (xia)|畎 (xia)|畢 (xia)|登 (xia)|發 (xia)|皆 (xia)|皛 (xia)|知 (xia)|祭 (xia)|秋 (xia)|稅 (xia)|稽 (xia)|穢 (xia)|等 (xia)|筠 (xia)|簪 (xia)|紿 (xia)|絹 (xia)|綸 (xia)|緺 (xia)|縣 (xia)|聿 (xia)|肱 (xia)|脣 (xia)|臻 (xia)|荅 (xia)|華 (xia)|萃 (xia)|萌 (xia)|蒸 (xia)|藥 (xia)|虐 (xia)|蛙 (xia)|衞 (xia)|衮 (xia)|覺 (xia)|詵 (xia)|誅 (xia)|豈 (xia)|貫 (xia)|責 (xia)|足 (xia)|輒 (xia)|迄 (xia)|迷 (xia)|迹 (xia)|逆 (xia)|逾 (xia)|道 (xia)|遭 (xia)|酉 (xia)|録 (xia)|鍾 (xia)|鎋 (xia)|閏 (xia)|閑 (xia)|阮 (xia)|限 (xia)|陽 (xia)|隥 (xia)|雀 (xia)|霞 (xia)|靜 (xia)|頂 (xia)|頃 (xia)|頰 (xia)|飢 (xia)|飽 (xia)|驚 (xia)|鳳 (xia)|麵 (xia)|黠 (xia)|鼎 (xia)|𡛷 (xia)|𤑔 (xia)|𩜁 (xia)|< (shang)|? (shang)|一 (shang)|丁 (shang)|七 (shang)|下 (shang)|丑 (shang)|丘 (shang)|並 (shang)|乃 (shang)|之 (shang)|乗 (shang)|九 (shang)|予 (shang)|于 (shang)|云 (shang)|五 (shang)|亡 (shang)|人 (shang)|他 (shang)|以 (shang)|伊 (shang)|伯 (shang)|似 (shang)|何 (shang)|余 (shang)|作 (shang)|來 (shang)|侯 (shang)|便 (shang)|俱 (shang)|倉 (shang)|側 (shang)|傍 (shang)|傷 (shang)|兒 (shang)|公 (shang)|兵 (shang)|其 (shang)|冝 (shang)|冬 (shang)|几 (shang)|分 (shang)|初 (shang)|則 (shang)|創 (shang)|力 (shang)|北 (shang)|匠 (shang)|匹 (shang)|區 (shang)|卑 (shang)|博 (shang)|卜 (shang)|即 (shang)|去 (shang)|古 (shang)|吉 (shang)|同 (shang)|吐 (shang)|吕 (shang)|吾 (shang)|呼 (shang)|哀 (shang)|唐 (shang)|商 (shang)|在 (shang)|堂 (shang)|場 (shang)|墟 (shang)|士 (shang)|多 (shang)|央 (shang)|失 (shang)|女 (shang)|奴 (shang)|如 (shang)|婢 (shang)|子 (shang)|孚 (shang)|宅 (shang)|宜 (shang)|寔 (shang)|將 (shang)|尺 (shang)|尼 (shang)|居 (shang)|巨 (shang)|巫 (shang)|市 (shang)|布 (shang)|常 (shang)|平 (shang)|府 (shang)|康 (shang)|弋 (shang)|式 (shang)|張 (shang)|強 (shang)|彌 (shang)|彼 (shang)|征 (shang)|徂 (shang)|徐 (shang)|徒 (shang)|得 (shang)|德 (shang)|必 (shang)|思 (shang)|息 (shang)|悉 (shang)|情 (shang)|愚 (shang)|慈 (shang)|慕 (shang)|憶 (shang)|戸 (shang)|房 (shang)|所 (shang)|才 (shang)|扶 (shang)|承 (shang)|敕 (shang)|敷 (shang)|文 (shang)|斯 (shang)|方 (shang)|於 (shang)|施 (shang)|旨 (shang)|旬 (shang)|昌 (shang)|明 (shang)|昨 (shang)|是 (shang)|時 (shang)|書 (shang)|有 (shang)|朽 (shang)|杜 (shang)|林 (shang)|枯 (shang)|桑 (shang)|植 (shang)|楚 (shang)|榮 (shang)|止 (shang)|正 (shang)|步 (shang)|武 (shang)|毗 (shang)|永 (shang)|求 (shang)|汝 (shang)|池 (shang)|治 (shang)|洛 (shang)|渠 (shang)|測 (shang)|湯 (shang)|烏 (shang)|無 (shang)|煑 (shang)|營 (shang)|爲 (shang)|牀 (shang)|牛 (shang)|特 (shang)|王 (shang)|甫 (shang)|當 (shang)|疑 (shang)|疾 (shang)|瘡 (shang)|皮 (shang)|盧 (shang)|目 (shang)|直 (shang)|相 (shang)|眉 (shang)|知 (shang)|祖 (shang)|神 (shang)|祥 (shang)|私 (shang)|秦 (shang)|章 (shang)|竹 (shang)|符 (shang)|筆 (shang)|素 (shang)|綺 (shang)|練 (shang)|縛 (shang)|署 (shang)|羊 (shang)|羌 (shang)|美 (shang)|羽 (shang)|而 (shang)|職 (shang)|胡 (shang)|脂 (shang)|臧 (shang)|與 (shang)|舉 (shang)|舒 (shang)|良 (shang)|色 (shang)|芳 (shang)|苦 (shang)|荒 (shang)|莊 (shang)|莫 (shang)|落 (shang)|蒲 (shang)|蒼 (shang)|薄 (shang)|藏 (shang)|蘇 (shang)|虎 (shang)|虚 (shang)|虛 (shang)|衣 (shang)|袪 (shang)|補 (shang)|裴 (shang)|視 (shang)|親 (shang)|託 (shang)|許 (shang)|詩 (shang)|詳 (shang)|語 (shang)|諸 (shang)|謁 (shang)|譬 (shang)|豈 (shang)|資 (shang)|賞 (shang)|踈 (shang)|辝 (shang)|近 (shang)|遇 (shang)|過 (shang)|遟 (shang)|那 (shang)|郎 (shang)|都 (shang)|鄙 (shang)|鉏 (shang)|鋤 (shang)|防 (shang)|阻 (shang)|陂 (shang)|附 (shang)|陟 (shang)|除 (shang)|雌 (shang)|離 (shang)|雨 (shang)|靡 (shang)|須 (shang)|食 (shang)|餘 (shang)|香 (shang)|魚 (shang)|魯 (shang)|麁 (shang)|黃 (shang)|a (xia)|㢡 (xia)|㨾 (xia)|㳙 (xia)|䒦 (xia)|䕃 (xia)|䘏 (xia)|䫄 (xia)|丁 (xia)|七 (xia)|万 (xia)|三 (xia)|下 (xia)|与 (xia)|丙 (xia)|丸 (xia)|主 (xia)|久 (xia)|之 (xia)|乎 (xia)|乏 (xia)|乖 (xia)|乗 (xia)|九 (xia)|也 (xia)|乾 (xia)|二 (xia)|亘 (xia)|交 (xia)|亥 (xia)|京 (xia)|亮 (xia)|人 (xia)|仍 (xia)|代 (xia)|仲 (xia)|任 (xia)|伐 (xia)|伯 (xia)|佃 (xia)|位 (xia)|佐 (xia)|何 (xia)|佩 (xia)|例 (xia)|侯 (xia)|俄 (xia)|俞 (xia)|俱 (xia)|俾 (xia)|候 (xia)|倦 (xia)|倨 (xia)|倫 (xia)|偉 (xia)|側 (xia)|傾 (xia)|僞 (xia)|僦 (xia)|儉 (xia)|兆 (xia)|先 (xia)|光 (xia)|兖 (xia)|入 (xia)|兩 (xia)|八 (xia)|公 (xia)|六 (xia)|兮 (xia)|兵 (xia)|其 (xia)|具 (xia)|典 (xia)|兹 (xia)|兼 (xia)|冀 (xia)|冉 (xia)|冬 (xia)|冰 (xia)|几 (xia)|刀 (xia)|刃 (xia)|分 (xia)|刑 (xia)|列 (xia)|別 (xia)|利 (xia)|到 (xia)|則 (xia)|前 (xia)|副 (xia)|割 (xia)|劇 (xia)|劒 (xia)|力 (xia)|加 (xia)|勞 (xia)|勿 (xia)|化 (xia)|北 (xia)|匪 (xia)|半 (xia)|協 (xia)|博 (xia)|卜 (xia)|即 (xia)|卷 (xia)|卿 (xia)|厚 (xia)|厥 (xia)|口 (xia)|古 (xia)|句 (xia)|召 (xia)|可 (xia)|史 (xia)|各 (xia)|合 (xia)|吉 (xia)|后 (xia)|吏 (xia)|吕 (xia)|吟 (xia)|含 (xia)|吳 (xia)|吻 (xia)|周 (xia)|味 (xia)|命 (xia)|哀 (xia)|哉 (xia)|問 (xia)|啓 (xia)|喝 (xia)|喬 (xia)|嗟 (xia)|嘯 (xia)|回 (xia)|困 (xia)|國 (xia)|垂 (xia)|執 (xia)|堅 (xia)|堯 (xia)|報 (xia)|墨 (xia)|壞 (xia)|士 (xia)|外 (xia)|夜 (xia)|太 (xia)|夫 (xia)|夬 (xia)|夷 (xia)|夾 (xia)|奄 (xia)|奚 (xia)|奢 (xia)|妄 (xia)|妙 (xia)|姐 (xia)|姑 (xia)|委 (xia)|媧 (xia)|嫁 (xia)|嬌 (xia)|孕 (xia)|孝 (xia)|孟 (xia)|季 (xia)|孤 (xia)|安 (xia)|宋 (xia)|宕 (xia)|宗 (xia)|官 (xia)|定 (xia)|宜 (xia)|宣 (xia)|宰 (xia)|容 (xia)|寄 (xia)|密 (xia)|寒 (xia)|寡 (xia)|封 (xia)|尋 (xia)|對 (xia)|導 (xia)|小 (xia)|少 (xia)|尤 (xia)|尹 (xia)|尾 (xia)|居 (xia)|屑 (xia)|展 (xia)|履 (xia)|岡 (xia)|岳 (xia)|崩 (xia)|巧 (xia)|巨 (xia)|己 (xia)|巷 (xia)|巾 (xia)|市 (xia)|希 (xia)|幰 (xia)|干 (xia)|年 (xia)|并 (xia)|幸 (xia)|幻 (xia)|幼 (xia)|店 (xia)|庚 (xia)|庾 (xia)|廉 (xia)|廢 (xia)|延 (xia)|弄 (xia)|弓 (xia)|弔 (xia)|弗 (xia)|弘 (xia)|張 (xia)|彫 (xia)|影 (xia)|彼 (xia)|征 (xia)|律 (xia)|徑 (xia)|得 (xia)|御 (xia)|微 (xia)|德 (xia)|必 (xia)|忍 (xia)|忖 (xia)|快 (xia)|念 (xia)|忽 (xia)|怨 (xia)|怪 (xia)|怯 (xia)|恕 (xia)|恢 (xia)|恱 (xia)|悉 (xia)|悚 (xia)|患 (xia)|悲 (xia)|悶 (xia)|悸 (xia)|感 (xia)|愧 (xia)|慣 (xia)|慶 (xia)|憬 (xia)|懈 (xia)|應 (xia)|懷 (xia)|戀 (xia)|戈 (xia)|戍 (xia)|戎 (xia)|我 (xia)|或 (xia)|戟 (xia)|戰 (xia)|戸 (xia)|才 (xia)|拔 (xia)|拜 (xia)|括 (xia)|按 (xia)|挺 (xia)|掾 (xia)|揔 (xia)|換 (xia)|撥 (xia)|擊 (xia)|據 (xia)|攜 (xia)|支 (xia)|改 (xia)|放 (xia)|政 (xia)|故 (xia)|敎 (xia)|救 (xia)|敬 (xia)|整 (xia)|文 (xia)|斤 (xia)|方 (xia)|旣 (xia)|日 (xia)|旰 (xia)|旱 (xia)|昆 (xia)|明 (xia)|易 (xia)|昔 (xia)|昧 (xia)|晃 (xia)|晉 (xia)|晏 (xia)|晧 (xia)|晩 (xia)|智 (xia)|暫 (xia)|暮 (xia)|曠 (xia)|更 (xia)|曹 (xia)|會 (xia)|月 (xia)|有 (xia)|朗 (xia)|木 (xia)|末 (xia)|本 (xia)|朱 (xia)|杏 (xia)|杜 (xia)|枕 (xia)|林 (xia)|果 (xia)|染 (xia)|核 (xia)|格 (xia)|桂 (xia)|案 (xia)|梗 (xia)|梵 (xia)|檢 (xia)|櫛 (xia)|欣 (xia)|欲 (xia)|歇 (xia)|歌 (xia)|止 (xia)|正 (xia)|武 (xia)|歷 (xia)|殄 (xia)|殞 (xia)|段 (xia)|毒 (xia)|氏 (xia)|永 (xia)|求 (xia)|江 (xia)|決 (xia)|沃 (xia)|沓 (xia)|河 (xia)|沸 (xia)|沼 (xia)|況 (xia)|法 (xia)|波 (xia)|洧 (xia)|洳 (xia)|洽 (xia)|流 (xia)|浩 (xia)|浪 (xia)|浮 (xia)|涉 (xia)|深 (xia)|淺 (xia)|渚 (xia)|減 (xia)|渾 (xia)|準 (xia)|滕 (xia)|滿 (xia)|演 (xia)|漫 (xia)|潁 (xia)|澗 (xia)|濫 (xia)|火 (xia)|灼 (xia)|炎 (xia)|烏 (xia)|焉 (xia)|無 (xia)|焮 (xia)|然 (xia)|照 (xia)|營 (xia)|爲 (xia)|爾 (xia)|牙 (xia)|牢 (xia)|狊 (xia)|狎 (xia)|狶 (xia)|獲 (xia)|玉 (xia)|王 (xia)|玩 (xia)|玷 (xia)|珍 (xia)|理 (xia)|琰 (xia)|瓦 (xia)|甘 (xia)|甚 (xia)|甜 (xia)|用 (xia)|甫 (xia)|田 (xia)|由 (xia)|甲 (xia)|男 (xia)|甸 (xia)|界 (xia)|略 (xia)|當 (xia)|疋 (xia)|病 (xia)|痕 (xia)|白 (xia)|盈 (xia)|益 (xia)|盍 (xia)|盛 (xia)|監 (xia)|盲 (xia)|直 (xia)|眉 (xia)|眞 (xia)|眷 (xia)|瞎 (xia)|矢 (xia)|矩 (xia)|矯 (xia)|石 (xia)|祐 (xia)|祕 (xia)|祚 (xia)|禁 (xia)|禄 (xia)|福 (xia)|禫 (xia)|禮 (xia)|禾 (xia)|移 (xia)|稔 (xia)|積 (xia)|穴 (xia)|立 (xia)|章 (xia)|竭 (xia)|竹 (xia)|笴 (xia)|筆 (xia)|箇 (xia)|管 (xia)|箭 (xia)|紀 (xia)|約 (xia)|紅 (xia)|紙 (xia)|累 (xia)|終 (xia)|結 (xia)|絕 (xia)|絞 (xia)|絳 (xia)|經 (xia)|綰 (xia)|綺 (xia)|線 (xia)|練 (xia)|縁 (xia)|网 (xia)|罪 (xia)|置 (xia)|署 (xia)|羈 (xia)|羊 (xia)|美 (xia)|義 (xia)|翼 (xia)|老 (xia)|者 (xia)|而 (xia)|耐 (xia)|耕 (xia)|耗 (xia)|耿 (xia)|聊 (xia)|職 (xia)|肯 (xia)|肴 (xia)|肺 (xia)|胃 (xia)|胡 (xia)|脂 (xia)|膎 (xia)|膳 (xia)|膺 (xia)|臘 (xia)|臥 (xia)|至 (xia)|與 (xia)|舉 (xia)|艮 (xia)|良 (xia)|芝 (xia)|芮 (xia)|花 (xia)|苟 (xia)|若 (xia)|茅 (xia)|荏 (xia)|莊 (xia)|莖 (xia)|莧 (xia)|落 (xia)|葉 (xia)|葛 (xia)|董 (xia)|蓋 (xia)|蕭 (xia)|虢 (xia)|虯 (xia)|蜀 (xia)|融 (xia)|螢 (xia)|蟹 (xia)|衆 (xia)|行 (xia)|衣 (xia)|袂 (xia)|袍 (xia)|襃 (xia)|見 (xia)|視 (xia)|覽 (xia)|角 (xia)|言 (xia)|計 (xia)|訖 (xia)|記 (xia)|訝 (xia)|訪 (xia)|許 (xia)|詣 (xia)|詭 (xia)|誄 (xia)|誤 (xia)|諧 (xia)|諸 (xia)|謀 (xia)|謁 (xia)|謗 (xia)|講 (xia)|謝 (xia)|謬 (xia)|謹 (xia)|證 (xia)|讒 (xia)|讓 (xia)|谷 (xia)|豉 (xia)|豔 (xia)|貞 (xia)|貟 (xia)|貢 (xia)|貨 (xia)|貴 (xia)|買 (xia)|賀 (xia)|賄 (xia)|賖 (xia)|賜 (xia)|賢 (xia)|賣 (xia)|賤 (xia)|質 (xia)|贇 (xia)|贍 (xia)|越 (xia)|踵 (xia)|蹇 (xia)|車 (xia)|軌 (xia)|軒 (xia)|軫 (xia)|輸 (xia)|轉 (xia)|辟 (xia)|辥 (xia)|辨 (xia)|迍 (xia)|迥 (xia)|追 (xia)|送 (xia)|逐 (xia)|連 (xia)|逺 (xia)|逼 (xia)|遂 (xia)|遇 (xia)|運 (xia)|達 (xia)|遘 (xia)|遥 (xia)|遮 (xia)|遴 (xia)|遵 (xia)|遺 (xia)|邀 (xia)|邁 (xia)|還 (xia)|邪 (xia)|郎 (xia)|郢 (xia)|郭 (xia)|都 (xia)|鄙 (xia)|鄧 (xia)|鄰 (xia)|醉 (xia)|里 (xia)|金 (xia)|針 (xia)|鉤 (xia)|銀 (xia)|銜 (xia)|錦 (xia)|錽 (xia)|钁 (xia)|開 (xia)|閒 (xia)|閠 (xia)|閤 (xia)|闃 (xia)|關 (xia)|陌 (xia)|陵 (xia)|隅 (xia)|隊 (xia)|隋 (xia)|隨 (xia)|險 (xia)|隱 (xia)|隴 (xia)|隹 (xia)|隻 (xia)|雅 (xia)|雉 (xia)|雙 (xia)|雞 (xia)|離 (xia)|雨 (xia)|雪 (xia)|電 (xia)|霄 (xia)|霸 (xia)|靈 (xia)|非 (xia)|靡 (xia)|面 (xia)|革 (xia)|靳 (xia)|韋 (xia)|韻 (xia)|韽 (xia)|項 (xia)|頌 (xia)|頑 (xia)|顔 (xia)|願 (xia)|顚 (xia)|類 (xia)|飲 (xia)|駕 (xia)|驗 (xia)|骨 (xia)|魚 (xia)|魯 (xia)|鳩 (xia)|鴆 (xia)|鶪 (xia)|鹽 (xia)|麥 (xia)|黃 (xia)|黝 (xia)|黤 (xia)|黨 (xia)|𡋡 (xia)|𡚁 (xia)|𢈔 (xia)|𤓰 (xia)|𤣥 (xia)|𥬇 (xia)|𥳑 (xia)|𦵔 (xia)|𩏩 (xia)
+#@display=filedisplay|correspondences
+#@missing_marker=Ø
+#@separator=
+#@gap_marker=-
+#@formatter=COGID
+#@root_formatter=false
+#@note_formatter=NOTE
+#@pattern_formatter=undefined
+#@publish=undefined
+#@_almcol=ALIGNMENT
+#@filename=fanqie-guangyun.tsv
+#@navbar=true
+#@_morphology_mode=full

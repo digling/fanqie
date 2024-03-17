@@ -1,5 +1,8 @@
 # Supplementary Material Accompanying the Study "First Steps Towards the Integration of Resources on Historical Glossing Traditions in the History of Chinese: A Collection of Standardized Fǎnqiè Spellings from the Guǎngyùn"
+Cite the original paper as:
 
+> Pulini, Michele and List, Johann-Mattis (2024): First Steps Towards the Integration of Resources on Historical Glossing Traditions in the History of Chinese: A Collection of Standardized Fǎnqiè Spellings from the Guǎngyùn. In: LREC-COLING.
+ 
 ## Installation
 
 To install the code that we used to analyze the data, make sure to have Python installed, and then just type:

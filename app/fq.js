@@ -7,8 +7,8 @@ function get_fanqie(fq){
   //console.log(shang, xia, fq, fanqie["shang"]["baxter"][shang])
   var b_i, b_m1, z_i, z_m1;
   try {
-    [b_i, b_m1] = fanqie["shang"]["baxter"][shang][0];
-    [z_i, z_m1] = fanqie["shang"]["zhou"][shang][0];
+    [b_i, b_m1] = fanqie["shang"]["baxter"][shang];
+    [z_i, z_m1] = fanqie["shang"]["zhou"][shang];
   }
   catch (e){
     [b_i, b_m1] = ["?", "?"];
@@ -17,8 +17,8 @@ function get_fanqie(fq){
 
   var b_m2, b_n, b_c, b_t, z_m2, z_n, z_c, z_t;
   try {
-    [b_m2, b_n, b_c, b_t] = fanqie["xia"]["baxter"][xia][0];
-    [z_m2, z_n, z_c, z_t] = fanqie["xia"]["zhou"][xia][0];
+    [b_m2, b_n, b_c, b_t] = fanqie["xia"]["baxter"][xia];
+    [z_m2, z_n, z_c, z_t] = fanqie["xia"]["zhou"][xia];
   }
   catch (e){
     [b_m2, b_n, b_c, b_t] = ["?", "?", "?", "?"];

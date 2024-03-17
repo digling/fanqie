@@ -128,8 +128,10 @@ predictions = {"shang": {"baxter": {}, "zhou": {}}, "xia": {"baxter": {},
 #    f.write('var fanqie = '+json.dumps(predictions, indent=2)+";\n")
 input()
 scores = []
+tones = []
 fails = []
 fail = 1
+missing = []
 for row in csv2list("raw/ocbs.tsv", strip_lines=False):
     char = row[0]
     mch = row[3]
@@ -141,11 +143,19 @@ for row in csv2list("raw/ocbs.tsv", strip_lines=False):
             preds += [bax]
         if mch in preds:
             scores += [1]
+            tones += [1]
         else:
+            if mch.replace("H", "X") in preds or mch.replace("X", "H") in preds:
+                tones += [1]
+            else:
+                tones += [0]
             scores += [0]
             fails += [[fail, char, " ".join(char2fan[char]), mch, " ".join(preds)]]
             fail += 1
+    else:
+        missing += [char]
 print(tabulate(fails, headers=["Number", "Character", "Fanqie", "MCH",
                                "Predictions"], tablefmt="pipe"))
 print(sum(scores) / len(scores))
+print(sum(tones) / len(tones))
 
